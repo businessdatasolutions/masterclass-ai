@@ -6,14 +6,17 @@ jupyter: python3
 
 De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. De grafieken in @fig-capmarket2004 en @fig-capmarket2024 laten een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2024 de opkomst van Aziatische bedrijven onmiskenbaar.
 
-[![Regionale verdeling kapitaalmarkt in 2004](images/capmarket2004.png){#fig-capmarket2004}](https://datadrivendecisions.github.io/marketcap/world2004.html)
+[![Regionale verdeling kapitaalmarkt in 2004](images/capmarket2004.png){#fig-capmarket2004}](https://datadrivendecisions.github.io/marketcap/world2004.html){target="_blank"}
 
-[![Regionale verdeling kapitaalmarkt in 2024](images/capmarket2024.png){#fig-capmarket2024}](https://datadrivendecisions.github.io/marketcap/)
+[![Regionale verdeling kapitaalmarkt in 2024](images/capmarket2024.png){#fig-capmarket2024}](https://datadrivendecisions.github.io/marketcap/){target="_blank"}
 
-Naast dat de sterk toegenomen regionale concentratie van kapitaal, heeft deze ook binnen sectoren plaats gevonden in het voordeel van technologiebedrijven. Dit markeert een significante verschuiving van economische macht en technologische leiderschap, met een duidelijke verzwakking van de Europese positie, waarbij momenteel van de 50 top tech-bedrijven nog maar vier uit de EU komen. Deze verschuiving is essentieel in het begrijpen van de geopolitieke dynamiek van AI, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovatie die door deze mondiale economische spelers worden gegenereerd.
+Naast de sterk toegenomen regionale concentratie van kapitaal heeft ook binnen sectoren een verschuiving plaatsgevonden in het voordeel van technologiebedrijven. Dit markeert een significante verschuiving in economische macht en technologisch leiderschap, waarbij Europa een duidelijke positie heeft verloren: van de 50 grootste technologiebedrijven wereldwijd komen er momenteel nog maar vier uit de EU [@noauthor_eu_nodate]. Deze verschuiving is cruciaal om de geopolitieke dynamiek rondom AI te begrijpen, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovaties die door deze mondiale economische spelers worden aangedreven.
 
 ```{python}
 #| echo: false
+#| label: fig-top50
+#| fig-cap: 'Top 50 Technologiebedrijven: Marktcapitalisatie per regio en land'
+
 import plotly.express as px
 import pandas as pd
 
@@ -55,8 +58,7 @@ filtered_data = updated_data.head(50)
 fig = px.icicle(
     filtered_data,
     path=['Regio', 'country', 'Name'],  # Hierarchische structuur: regio > land > bedrijf
-    values='marketcap',                # Marktcapitalisatie als waarde
-    title='Top 50 Technologiebedrijven: Marktcapitalisatie per Regio en Land',
+    values='marketcap',
     labels={'marketcap': 'Marktcapitalisatie (GBP)'}
 )
 
@@ -91,9 +93,8 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
     -   Ieder groepje krijgt een specifieke ‘lens’ (invalshoek) toegewezen om naar de geopolitieke impact van AI te kijken. Deze invalshoeken zijn:
         1.  *Economische concurrentie*\
         2.  *Technologische soevereiniteit*\
-        3.  *Veiligheid en defensie*\
+        3.  *Nationale veiligheid*\
         4.  *Sociale en ethische implicaties*\
-    -   Gebruik de bronnen die zijn verstrekt om jullie discussie te voeden.\
     -   Noteer de belangrijkste punten (bijvoorbeeld op een whiteboard of digitaal).
 3.  **Korte presentaties (5 minuten)**
     -   Elk groepje presenteert in 2-3 minuten de belangrijkste inzichten die jullie tijdens de brainstorm hebben verzameld.
@@ -102,7 +103,7 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
     -   Denk bij de discussie aan vragen als:
         -   Waar staat Europa nu op het gebied van AI?\
         -   Welke kansen en bedreigingen zien jullie voor Europa en specifiek voor Nederland?\
-        -   Welke vragen moeten worden beantwoord om een goede AI-roadmap te maken?
+        -   Welke vragen moeten vanuit de verschillende lensen worden meegenomen om tot een goede AI-roadmap te komen?
 5.  **Afronding (5 minuten)**
     -   We vatten samen welke inzichten we hebben opgedaan en hoe deze terugkomen in de AI-roadmaps.\
     -   We kijken vooruit naar de volgende stappen in de Masterclass.
@@ -113,3 +114,7 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
 - Kritisch nadenken over Europa’s en Nederland’s positie in het wereldwijde AI-landschap.\
 - De opgedane inzichten gebruiken voor het ontwikkelen van je eigen AI-roadmap.
 :::
+
+## Aanvullende inspiratiemateriaal
+
+{{< video https://www.youtube.com/embed/ZbdTcKi2p7w >}}

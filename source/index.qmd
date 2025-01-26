@@ -8,18 +8,20 @@ Dit werkboek ondersteunt de Masterclass AI en Strategie en bevat activiteiten, i
 
 ## Programma
 
-| **Tijd**        | **Duur (min)** | **Onderdeel**                                                           |
-|-----------------|----------------|-------------------------------------------------------------------------|
-| **0:00 - 0:15** | 15             | Welkom & Introductie                                                     |
-| **0:15 - 1:00** | 45             | **Thema 1:** Strategische betekenis van AI-technologie                   |
-| **1:00 - 1:45** | 45             | **Thema 2:** AI: Invloed op arbeid                                       |
-| **1:45 - 2:15** | 30             | **Thema 3:** AI: Regelgeving en governance                               |
-| **2:15 - 3:00** | 45             | **Thema 4:** AI: Strategische positionering                              |
-| **3:00 - 3:30** | 30             | Vragen & discussie over de ochtendthema’s                                |
-| **3:30 - 4:30** | 60             | **Lunchpauze**                                                           |
-| **4:30 - 6:00** | 90             | **Thema 5:** AI: Succesfactoren voor strategische implementatie          |
-| **6:00 - 7:30** | 90             | **Thema 6:** AI: Roadmap                                                 |
-| **7:30 - 7:45** | 15             | Vragen & discussie over de middagthema’s                                 |
-| **7:45 - 8:00** | 15             | Samenvatting en afsluiting                                               |
+| **Tijd** | **Duur (min)** | **Onderdeel** |
+|--------------|--------------|--------------------------------------------|
+| **0:00 - 0:15** | 15 | Welkom & Introductie |
+| **0:15 - 1:00** | 45 | **Thema 1:** Strategische betekenis van AI-technologie |
+| **1:00 - 1:45** | 45 | **Thema 2:** AI: Invloed op arbeid |
+| **1:45 - 2:15** | 30 | **Thema 3:** AI: Regelgeving en governance |
+| **2:15 - 3:00** | 45 | **Thema 4:** AI: Strategische positionering |
+| **3:00 - 3:30** | 30 | Vragen & discussie over de ochtendthema’s |
+| **3:30 - 4:30** | 60 | **Lunchpauze** |
+| **4:30 - 6:00** | 90 | **Thema 5:** AI: Succesfactoren voor strategische implementatie |
+| **6:00 - 7:30** | 90 | **Thema 6:** AI: Roadmap |
+| **7:30 - 7:45** | 15 | Vragen & discussie over de middagthema’s |
+| **7:45 - 8:00** | 15 | Samenvatting en afsluiting |
 
+## AI Roadmap
 
+[![Voorbeeld AI Roadmap [@noauthor_ai_nodate]](images/gartner-ai-roadmap.png)](https://www.gartner.com/en/articles/ai-roadmap){target="_blank"}
