@@ -12,10 +12,11 @@ De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving d
 
 Naast de sterk toegenomen regionale concentratie van kapitaal heeft ook binnen sectoren een verschuiving plaatsgevonden in het voordeel van technologiebedrijven. Dit markeert een significante verschuiving in economische macht en technologisch leiderschap, waarbij Europa een duidelijke positie heeft verloren: van de 50 grootste technologiebedrijven wereldwijd komen er momenteel nog maar vier uit de EU [@noauthor_eu_nodate]. Deze verschuiving is cruciaal om de geopolitieke dynamiek rondom AI te begrijpen, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovaties die door deze mondiale economische spelers worden aangedreven.
 
+:::{.column-body-outset}
 ```{python}
 #| echo: false
 #| label: fig-top50
-#| fig-cap: 'Top 50 Technologiebedrijven: Marktcapitalisatie per regio en land'
+#| fig-cap: 'Top 50 Technologiebedrijven: Marktcapitalisatie per regio en land [@noauthor_largest_nodate]'
 
 import plotly.express as px
 import pandas as pd
@@ -64,14 +65,16 @@ fig = px.icicle(
 
 # Pas de layout aan voor betere weergave
 fig.update_layout(
-    margin=dict(t=50, l=25, r=25, b=25),
     title_x=0.5,
-    title_font_size=20
+    title_font_size=20,
+    width=800,  # Set the desired width in pixels
+    height=800   # Set the desired height in pixels
 )
 
 # Toon de figuur
 fig.show()
 ```
+:::
 
 Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële economie, vooral in vergelijking met de VS. Vergelijkingen van de EU met Amerikaanse staten tonen dat de gemiddelde economische prestaties van de EU ver achterblijven. Alleen Luxemburg en Ierland blijken in staat te zijn het Amerikaanse gemiddelde te overstijgen. Sinds 2000 zakten 14 EU-lidstaten, waaronder Duitsland, Frankrijk en Italië, op deze ranglijst. Hoewel Centraal- en Oost-Europese landen sterk groeien, is dit te weinig om de algemene trend van relatieve achteruitgang te keren. Dit benadrukt de noodzaak van een krachtiger Europees economisch beleid en een heroverweging van de interne concurrentiekracht, vooral om in het AI-tijdperk een gelijkwaardige positie ten opzichte van de VS te behouden.
 
@@ -117,4 +120,12 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
 
 ## Aanvullende inspiratiemateriaal
 
+### Video: Tech Titans at War: The US-China Innovation Race with Jimmy Goodrich
+
+De podcast bespreekt de dynamiek van de technologische competitie tussen de Verenigde Staten en China, met nadruk op strategische technologieën zoals AI en halfgeleiders. Het benadrukt hoe China evolueert van een "copycat" naar een innovatieve leider, terwijl het grote investeringen doet in fundamenteel onderzoek en technologische ontwikkeling. Daarnaast belicht het de impact van beleidsmaatregelen, zoals exportcontroles, en de verschillen in benadering tussen de VS en China wat betreft industriële strategieën. Ten slotte wordt de rol van samenwerking in wetenschappelijk onderzoek besproken, naast de geopolitieke uitdagingen van concurrentie in opkomende technologieën [@noauthor_150_nodate].
+
 {{< video https://www.youtube.com/embed/ZbdTcKi2p7w >}}
+
+### Report: ASPI’s two-decade Critical Technology Tracker
+
+This report, produced by the Australian Strategic Policy Institute (ASPI), presents a significant update to their Critical Technology Tracker. The Tracker, a twenty-one-year dataset (2003-2023) focusing on high-impact research publications across 64 critical technologies, analyses global research leadership and institutional performance. A key finding highlights China's substantial gains in research leadership over the past two decades, surpassing the US in numerous crucial technology areas, particularly those with defence applications. The report explores long-term trends, assesses the risk of technological monopolies (particularly concerning China's dominance), and provides detailed analyses of specific technologies, offering insights into both national and institutional capabilities and projections for future research output. Ultimately, the report aims to inform policy and investment decisions by providing empirical data on global technological leadership and its implications[@cave_aspis_nodate].
