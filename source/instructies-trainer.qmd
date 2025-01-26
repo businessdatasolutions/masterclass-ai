@@ -1,0 +1,96 @@
+---
+title: "Activiteiten Versie voor de trainer"
+author: "Witek ten Hove"
+jupyter: python3
+---
+
+**Lesactiviteit 1**  
+**Titel:** *"Het geopolitieke schaakbord van AI: Europa en Nederland"*
+
+**Doel:** In groepsverband een basis leggen voor het begrip van de geopolitieke implicaties van AI voor Europa en Nederland, als uitgangspunt voor de AI-roadmap die in de Masterclass verder wordt ontwikkeld.
+
+**Tijd:** 45 minuten
+
+**Benodigdheden:**  
+- Toegang tot de verstrekte bronnen  
+- Whiteboard (of een digitale variant)  
+- Stiften/pennen of digitale annotatietools  
+
+---
+
+### (1) Introductie en Kader (5 minuten)  
+1. **Doelstellingen benoemen**  
+   - Leg uit dat deze sessie bedoeld is om de geopolitieke betekenis van AI voor Europa en Nederland te verkennen.  
+   - Benadruk dat de focus niet op technische details ligt, maar op de bredere strategische en politieke context.  
+2. **Relevantie uitleggen**  
+   - Licht toe dat de uitkomsten de basis vormen voor de AI-roadmaps die later in de Masterclass worden uitgewerkt.  
+   - Geef aan dat die roadmaps ook onderwerpen als arbeidsmarkt, governance en bedrijfsstrategie zullen bestrijken.
+
+---
+
+### (2) Interactieve Brainstorm: "Geopolitieke AI-drivers" (15 minuten)  
+1. **Opdeling in groepen**  
+   - Verdeel de deelnemers in groepjes van 3-4 personen.  
+2. **Uitleg van ‘lenzen’**  
+   - Wijs elke groep willekeurig een invalshoek (lens) toe:  
+     - **Economische concurrentie**  
+     - **Technologische soevereiniteit**  
+     - **Veiligheid en defensie**  
+     - **Sociale en ethische implicaties**  
+   - Benadruk dat ze bij hun brainstorm gebruikmaken van de verstrekte bronnen.  
+3. **Brainstorm (10 minuten)**  
+   - Laat de groepen de belangrijkste punten noteren op een (digitaal) whiteboard.  
+4. **Korte presentaties (5 minuten)**  
+   - Laat elke groep 2-3 inzichten presenteren.  
+   - Stimuleer korte vragen na elke presentatie voor helderheid.
+
+**Trainerstips:**  
+- Loop rond en luister mee; geef waar nodig suggesties of stel vragen om de discussie te verdiepen.  
+- Let op de tijd en moedig de groepen aan om tot concrete punten te komen.
+
+---
+
+### (3) Geleid Gesprek en Synthese (15 minuten)  
+1. **Vragen om de discussie te sturen**  
+   - **Waar staat Europa nu?**  
+     - Sterke en zwakke punten (bijv. hoge mate van integratie, maar achterstand op tech-inkomsten).  
+   - **Bedreigingen en kansen voor Europa**  
+     - Concurreren met China en de VS, kansen in een nieuwe digitale revolutie.  
+   - **Uitdagingen en kansen voor Nederland**  
+     - Differentiëren (edge computing, autonome robotica), tekort aan technisch talent.  
+   - **Cruciale vragen voor de AI-roadmaps**  
+     - Onderwijs, defensiecapaciteit, “buitenlandse economische politiek.”  
+2. **Synthese**  
+   - Moedig deelnemers aan om overlappingen of tegenstrijdigheden te benoemen.  
+   - Vraag de groepen naar de thema’s die ze willen uitwerken in hun AI-roadmaps.
+
+**Trainerstips:**  
+- Houd de discussie gestructureerd.  
+- Wijs op informatie uit de bronnen als die niet spontaan naar voren komt.  
+- Stimuleer deelnemers om elkaar te bevragen en te corrigeren.
+
+---
+
+### (4) Afronding en Vervolgstappen (5 minuten)  
+1. **Samenvatting**  
+   - Benoem de belangrijkste thema’s en inzichten.  
+2. **Volgende stappen**  
+   - Benadruk dat de AI-roadmaps rekening moeten houden met de geopolitieke context.  
+   - Geef aan dat de Masterclass verdergaat met AI en de toekomst van werk, regulering en strategie.
+
+---
+
+### Verwachte Resultaten  
+- Inzicht in de geopolitieke context van AI.  
+- Inventarisatie van uitdagingen en kansen voor Europa en Nederland.  
+- Eerste ideeën voor de AI-roadmaps.  
+- Begrip van de relatieve positie van de EU.  
+- Bewustzijn van het langetermijnperspectief bij AI.
+
+---
+
+### Belangrijke Overwegingen voor de Trainer  
+- **Tijdsplanning:** Houd de tijd in de gaten om alle onderdelen binnen 45 minuten af te ronden.  
+- **Betrokkenheid:** Stimuleer actieve deelname van iedereen, en moedig stille deelnemers aan.  
+- **Gebruik van Bronnen:** Verwijs regelmatig naar de bronnen om discussies te voeden en te onderbouwen.  
+- **Focus:** Richt de aandacht op strategische en toekomstgerichte vraagstukken, houd technische details beperkt.

@@ -1,0 +1,115 @@
+---
+jupyter: python3
+---
+
+# Inleiding
+
+De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. De grafieken in @fig-capmarket2004 en @fig-capmarket2024 laten een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2024 de opkomst van Aziatische bedrijven onmiskenbaar.
+
+[![Regionale verdeling kapitaalmarkt in 2004](images/capmarket2004.png){#fig-capmarket2004}](https://datadrivendecisions.github.io/marketcap/world2004.html)
+
+[![Regionale verdeling kapitaalmarkt in 2024](images/capmarket2024.png){#fig-capmarket2024}](https://datadrivendecisions.github.io/marketcap/)
+
+Naast dat de sterk toegenomen regionale concentratie van kapitaal, heeft deze ook binnen sectoren plaats gevonden in het voordeel van technologiebedrijven. Dit markeert een significante verschuiving van economische macht en technologische leiderschap, met een duidelijke verzwakking van de Europese positie, waarbij momenteel van de 50 top tech-bedrijven nog maar vier uit de EU komen. Deze verschuiving is essentieel in het begrijpen van de geopolitieke dynamiek van AI, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovatie die door deze mondiale economische spelers worden gegenereerd.
+
+```{python}
+#| echo: false
+import plotly.express as px
+import pandas as pd
+
+# Load the uploaded CSV file to inspect the data
+file_path = 'data/marketcap.csv'
+data = pd.read_csv(file_path)
+
+# Mapping countries to regions
+country_to_region = {
+    "United States": "Noord-Amerika",
+    "China": "Azië",
+    "Taiwan": "Azië",
+    "South Korea": "Azië",
+    "Germany": "Europa",
+    "Netherlands": "Europa",
+    "Japan": "Azië",
+    "United Kingdom": "Europa",
+    "Sweden": "Europa",
+    "Canada": "Noord-Amerika",
+    "India": "Azië",
+    "Switzerland": "Europa",
+    "Australia": "Azië",
+    "France": "Europa",
+    "Israel": "Azië",
+    "Argentina": "Zuid-Amerika"
+}
+
+# Add a "Regio" column based on the "country" column
+data['Regio'] = data['country'].map(country_to_region)
+
+# Save the updated data as a Python variable
+updated_data = data[['Name', 'marketcap', 'country', 'Regio']]
+
+# Gebruik de al bestaande dataset met de kolommen Name, marketcap, country en Regio
+# Beperk de data tot de top 50
+filtered_data = updated_data.head(50)
+
+# Maak de icicle chart
+fig = px.icicle(
+    filtered_data,
+    path=['Regio', 'country', 'Name'],  # Hierarchische structuur: regio > land > bedrijf
+    values='marketcap',                # Marktcapitalisatie als waarde
+    title='Top 50 Technologiebedrijven: Marktcapitalisatie per Regio en Land',
+    labels={'marketcap': 'Marktcapitalisatie (GBP)'}
+)
+
+# Pas de layout aan voor betere weergave
+fig.update_layout(
+    margin=dict(t=50, l=25, r=25, b=25),
+    title_x=0.5,
+    title_font_size=20
+)
+
+# Toon de figuur
+fig.show()
+```
+
+Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële economie, vooral in vergelijking met de VS. Vergelijkingen van de EU met Amerikaanse staten tonen dat de gemiddelde economische prestaties van de EU ver achterblijven. Alleen Luxemburg en Ierland blijken in staat te zijn het Amerikaanse gemiddelde te overstijgen. Sinds 2000 zakten 14 EU-lidstaten, waaronder Duitsland, Frankrijk en Italië, op deze ranglijst. Hoewel Centraal- en Oost-Europese landen sterk groeien, is dit te weinig om de algemene trend van relatieve achteruitgang te keren. Dit benadrukt de noodzaak van een krachtiger Europees economisch beleid en een heroverweging van de interne concurrentiekracht, vooral om in het AI-tijdperk een gelijkwaardige positie ten opzichte van de VS te behouden.
+
+![Ranking landen EU versus afzonderlijke staten in de VS [@erixon_if_nodate]](images/eur-vs-us-gdp.png){#fig-eustatesgdp}
+
+::: callout-tip
+## Lesactiviteit 1 - Het geopolitieke schaakbord van AI: Europa en Nederland
+
+**Doel van de sessie:** Samen onderzoeken hoe AI de geopolitieke verhoudingen in Europa en Nederland beïnvloedt. De bevindingen van deze sessie vormen de basis voor het maken van AI-roadmaps in deze Masterclass.
+
+**Tijd:** 45 minuten
+
+**Werkwijze:**
+
+1.  **Introductie (5 minuten)**
+    -   We bespreken kort waarom de geopolitieke context van AI belangrijk is en hoe dit invloed heeft op Europa en Nederland.
+2.  **Groepsopdracht - Brainstorm (15 minuten)**
+    -   Jullie werken in kleine groepjes (3-4 personen).\
+    -   Ieder groepje krijgt een specifieke ‘lens’ (invalshoek) toegewezen om naar de geopolitieke impact van AI te kijken. Deze invalshoeken zijn:
+        1.  *Economische concurrentie*\
+        2.  *Technologische soevereiniteit*\
+        3.  *Veiligheid en defensie*\
+        4.  *Sociale en ethische implicaties*\
+    -   Gebruik de bronnen die zijn verstrekt om jullie discussie te voeden.\
+    -   Noteer de belangrijkste punten (bijvoorbeeld op een whiteboard of digitaal).
+3.  **Korte presentaties (5 minuten)**
+    -   Elk groepje presenteert in 2-3 minuten de belangrijkste inzichten die jullie tijdens de brainstorm hebben verzameld.
+4.  **Discussie en Synthese (15 minuten)**
+    -   We gaan met de hele groep in gesprek over jullie bevindingen.\
+    -   Denk bij de discussie aan vragen als:
+        -   Waar staat Europa nu op het gebied van AI?\
+        -   Welke kansen en bedreigingen zien jullie voor Europa en specifiek voor Nederland?\
+        -   Welke vragen moeten worden beantwoord om een goede AI-roadmap te maken?
+5.  **Afronding (5 minuten)**
+    -   We vatten samen welke inzichten we hebben opgedaan en hoe deze terugkomen in de AI-roadmaps.\
+    -   We kijken vooruit naar de volgende stappen in de Masterclass.
+
+**Verwachtingen voor jullie als deelnemers:**\
+- Actief meedoen aan discussies en brainstorms.\
+- De verstrekte bronnen bestuderen en meenemen in je gesprekken.\
+- Kritisch nadenken over Europa’s en Nederland’s positie in het wereldwijde AI-landschap.\
+- De opgedane inzichten gebruiken voor het ontwikkelen van je eigen AI-roadmap.
+:::

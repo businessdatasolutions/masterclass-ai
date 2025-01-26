@@ -1,0 +1,5 @@
+---
+jupyter: python3
+---
+
+# AI: Succesfacoren voor strategische implementatie

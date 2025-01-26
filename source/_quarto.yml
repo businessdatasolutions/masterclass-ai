@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: ../book
+
+book:
+  title: "Masterclass AI"
+  subtitle: "Een roadmap voor strategische AI-implementatie"
+  author: "Witek ten Hove"
+  date: "1/26/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - work.qmd
+    - governance.qmd
+    - strategy.qmd
+    - implementation.qmd
+    - roadmap.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
