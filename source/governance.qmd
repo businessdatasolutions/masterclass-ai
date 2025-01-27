@@ -3,3 +3,120 @@ jupyter: python3
 ---
 
 # AI: Regelgeving en governance
+
+**Introductie: Thema 3 – AI: Regelgeving en Governance**
+
+Zoals eerder besproken, ontwikkelt AI zich razendsnel, wat de dringende noodzaak met zich meebrengt van solide regelgevende kaders en governance-structuren. Maar hoe reguleren we effectief iets dat we, vaak onbewust, vanuit een menselijk perspectief bekijken? Dit brengt ons bij het concept van **antropomorfisme**, de neiging om menselijke eigenschappen toe te kennen aan niet-menselijke entiteiten. Dit zien we bijvoorbeeld in onze interacties met AI, waarbij we intenties of begrip toeschrijven die feitelijk niet aanwezig zijn.
+
+![Degrees of anthropomorphism [@noauthor_4_nodate]](images/anthropomorphism.png){#fig-anthropomorphism}
+
+Deze neiging tot antropomorfisme beïnvloedt hoe we AI ontwerpen, waarnemen en reguleren. Het gaat niet alleen om de technische capaciteiten van AI-systemen, maar ook om hoe wij, als mensen, ermee omgaan en hoe zij ons beïnvloeden. Dit maakt het ontwikkelen van effectieve governance bijzonder uitdagend, omdat onze percepties van AI een rol spelen bij het definiëren van risico's en het implementeren van waarborgen.
+
+Enkele voorbeelden van regelgeving en governance wereldwijd:  
+- **De EU AI Act** hanteert een risicogebaseerde aanpak, waarbij AI-systemen worden gecategoriseerd en verschillende eisen worden gesteld aan hoogrisico-systemen. Er wordt tevens gewerkt aan een gedragscode voor algemene AI-systemen. Dit kader is een poging om een uniforme juridische aanpak te creëren die van toepassing is op alle aanbieders en gebruikers van AI-systemen op de EU-markt.  
+- **De Verenigde Staten** beschikken niet over een allesomvattende AI-wet, maar passen bestaande regelgeving, zoals die rond consumentenbescherming en anti-discriminatie, toe op AI-technologieën. De VS richt zich sterk op het stimuleren van innovatie, het aanpassen van bestaande regels en intensieve informatieverzameling over AI-modellen. Het US AI Safety Institute werkt samen met bedrijven aan het beperken van risico’s en het ontwikkelen van best practices.  
+- **Mondiaal** zijn er eveneens veel initiatieven op het gebied van AI-governance. Landen nemen ethische principes en richtlijnen over, zoals die van de OECD en UNESCO. Daarnaast ontwikkelen veel landen nationale strategieën gericht op onderzoek, training en samenwerking rondom AI.
+
+In deze sessie duiken we in de complexiteit van AI-governance. We onderzoeken hoe regelgeving wordt ontwikkeld, welke uitdagingen daarbij komen kijken, en hoe we ervoor kunnen zorgen dat deze regels geschikt zijn voor een tijdperk waarin AI steeds geavanceerder – en soms ten onrechte als ‘menselijk’ – wordt waargenomen.  
+
+Deze introductie benadrukt het belang van het herkennen van onze menselijke vooroordelen bij het reguleren van AI en vormt het vertrekpunt voor een discussie over de verschillende aanpakken die wereldwijd worden gehanteerd en hun mogelijke impact.
+
+::: callout-tip
+## Moeten AI-systemen zich gedragen als mensen?
+
+Deze [test](https://businessdatasolutions.github.io/ai-attitudes/){target="_blank"} stelt je vragen over hoe jij denkt dat AI-systemen zich zouden moeten gedragen, vooral als het gaat om het hebben van menselijke trekken. Volg de onderstaande instructies om aan de test deel te nemen:
+
+1. **Start de test:**  
+   Zodra je op de **"Nieuw vraag"**-knop klikt, verschijnt er een willekeurige vraag. Deze vraag gaat over een specifiek thema, zoals transparantie, mentaal bewustzijn, mens-AI-relaties, omgangsvormen of verantwoordelijkheid.
+
+2. **Lees het thema en de vraag:**  
+   - Het **thema** geeft aan welk aspect van AI wordt behandeld.  
+   - De **vraag** laat je reflecteren op een situatie of principe dat verband houdt met AI en menselijke trekken.
+
+3. **Overweeg je mening:**  
+   Denk na over je antwoord. Er zijn geen juiste of foute antwoorden; het gaat om jouw perspectief.
+
+4. **Volgende vraag:**  
+   Klik opnieuw op de knop om een nieuwe vraag te bekijken. Elke vraag is willekeurig en biedt je de kans om na te denken over een ander aspect van AI.
+
+5. **Herhaal het proces:**  
+   Beantwoord zoveel vragen als je wilt of nodig is.
+
+### Doel van de test {.unnumbered}
+Deze test helpt inzicht te krijgen in hoe jij en anderen denken over AI-systemen en hun rol in menselijke interacties. De resultaten kunnen bijdragen aan discussies over de ethiek, regelgeving en het ontwerp van AI.
+:::
+
+::: callout-tip
+## Lesactiviteit – Ontwerp je eigen AI-regelgeving
+
+**Doel van de sessie:**\
+Jullie gaan in deze activiteit nadenken over hoe een effectief kader voor AI-regelgeving eruit zou kunnen zien, met een balans tussen innovatie en ethiek. De inzichten die jullie opdoen, worden meegenomen in de verdere discussie over governance en strategie binnen de Masterclass.
+
+**Tijd:** 30 minuten
+
+------------------------------------------------------------------------
+
+### Werkwijze {.unnumbered}
+
+1.  **Introductie (5 minuten)**
+    -   In deze activiteit ontwerpen jullie een kader voor AI-regelgeving dat zowel innovatie stimuleert als ethische normen handhaaft.\
+    -   Sta stil bij de vraag: *Hoe ziet effectieve AI-regelgeving eruit die innovatie ondersteunt en tegelijkertijd verantwoordelijk gebruik bevordert?*
+2.  **Groepsopdracht (15 minuten)**
+    -   Jullie werken in kleine groepen van 3-4 personen.\
+    -   Binnen je groep bespreek je en ontwerp je een kader voor AI-regelgeving. Overweeg de volgende vragen:
+        1.  **Welke AI-toepassingen moeten als hoog risico worden beschouwd, en welke eisen zouden hieraan gesteld moeten worden?**\
+        2.  **Hoe kan transparantie gewaarborgd worden in AI-systemen?**\
+        3.  **Welke ethische normen moeten worden opgenomen in regelgeving?**\
+        4.  **Hoe kunnen innovatie en compliance worden gecombineerd?**\
+    -   Noteer jullie belangrijkste ideeën, bijvoorbeeld op een flip-over of sticky notes.
+3.  **Presentatie (5 minuten)**
+    -   Elke groep presenteert kort (max. 2 minuten) hun voorgestelde regelgevingskader.\
+    -   Focus op de kernprincipes en de belangrijkste overwegingen die jullie ontwerp hebben gestuurd.
+4.  **Discussie en Synthese (5 minuten)**
+    -   Samen bespreken we de verschillende voorstellen. Welke overeenkomsten zien jullie? Welke innovatieve ideeën springen eruit?\
+    -   Bespreek hoe deze inzichten aansluiten bij bestaande regelgeving en hoe ze kunnen bijdragen aan verantwoorde AI-strategieën.\
+    -   Tot slot koppelen we de belangrijkste thema’s aan de bredere strategische AI-roadmap die in latere sessies verder wordt uitgewerkt.
+
+------------------------------------------------------------------------
+
+**Opbrengsten van de sessie:**\
+- Jullie krijgen inzicht in hoe AI-regelgeving kan worden ontworpen met een focus op ethiek en innovatie.\
+- Jullie ontwikkelen creatieve ideeën die bijdragen aan het debat over verantwoord AI-gebruik.\
+- Jullie leggen een basis voor strategische besluitvorming en governance in het AI-tijdperk.
+:::
+
+## Aanvullend inspiratiemateriaal
+
+### Artikel: Should AI systems behave like people?
+
+Deze blogpost van het UK AI Safety Institute bespreekt een enquête naar publieke attitudes ten aanzien van antropomorfe AI – AI die zich gedraagt als een mens. Het onderzoek richtte zich op vijf kerngebieden: transparantie (moet AI duidelijk maken dat het kunstmatig is?), mentale toestanden (moet AI emoties uitdrukken?), relaties (is het wenselijk dat mensen relaties aangaan met AI?), toon (moet AI formeel of informeel communiceren?) en verantwoordelijkheid (kan AI moreel verantwoordelijk worden gehouden?). De resultaten tonen een overwegend sceptische houding van het publiek, met sterke weerstand tegen AI die menselijke relaties simuleert of emoties uitdrukt, een voorkeur voor transparantie en aanzienlijke onzekerheid over de toerekenbaarheid van AI. Het onderzoek beoogt publieke opinie te integreren in het ontwerp van veiligere en ethisch verantwoorde AI-systemen [@noauthor_should_nodate].
+
+### Video: AI Anthropomorphism - Paths, Dangers, and Strategies Mitigating Cognitive Bias
+
+Onze perceptie van AI wordt sterk beïnvloed door onze neiging tot **antropomorfisme**: het toekennen van menselijke eigenschappen aan technologie. Hoewel dit instinct ons kan helpen complexe systemen te begrijpen, kan het ook leiden tot misvattingen, zeker bij geavanceerde AI zoals GPT-4 en levensechte avatars.  
+
+In deze sessie bespreekt Fausto Albers hoe technologiebedrijven deze menselijke neiging bewust benutten, waardoor het steeds moeilijker wordt om werkelijkheid en illusie te onderscheiden. Tegelijkertijd benadrukt hij het belang van een realistischer begrip van AI, niet alleen door technische kennis, maar ook door inzicht in onze eigen cognitieve processen. Dit bewustzijn is essentieel om de maatschappelijke impact en beperkingen van AI beter te begrijpen [@european_chatbot_and_conversational_ai_summit_ai_2024]?
+
+{{< video https://www.youtube.com/embed/nAQLQnrhKOI >}}
+
+### Video: The race for artificial intelligence - Can Europe compete?
+
+Kunstmatige intelligentie (AI) transformeert industrieën en de samenleving, en er is een wereldwijde race gaande om de meest geavanceerde technologie te ontwikkelen.
+
+De uitkomst hiervan kan het mondiale machtsevenwicht ingrijpend veranderen. Op dit moment zijn de Verenigde Staten en China de koplopers in deze race, terwijl Europa achterblijft. Toch is het continent vastberaden om een inhaalslag te maken. Europese beleidsmakers hopen dat een sterke nadruk op transparantie en eerlijkheid in AI-ontwikkeling Europese AI onderscheidend zal maken en op de lange termijn een concurrentievoordeel zal opleveren.
+
+Maar de vraag blijft: Kan Europa met deze initiatieven concurreren met de enorme middelen die Big Tech-bedrijven investeren in AI-onderzoek? En zal de ethiek-georiënteerde aanpak van de EU een concurrentievoordeel blijken in de wereldwijde AI-race, of juist leiden tot een nog grotere achterstand [@dw_documentary_race_2023]?
+
+{{< video https://www.youtube.com/embed/i8ljZYzn0Uc >}}
+
+### Video: The future of AI governance, with SB 1047 architect Sen. Scott Wiener
+
+In deze webinar verkennen experts het veranderende landschap van AI-regelgeving, waarbij de proactieve EU AI Act wordt vergeleken met de meer gefragmenteerde aanpak van de VS. Een centraal thema is de spanning tussen het bevorderen van innovatie en het beperken van risico's, geïllustreerd door de discussie rond California’s SB 1047, een wetsvoorstel gericht op AI-veiligheidstesten en klokkenluidersbescherming, dat uiteindelijk werd afgewezen. De webinar belicht de uitdagingen bij het opstellen van effectieve AI-wetgeving, zoals de invloed van lobbygroepen, het balanceren van concurrerende prioriteiten en het vaststellen van aansprakelijkheidskaders. Daarnaast wordt de rol van het AI Safety Institute besproken, een vrijwillig initiatief dat zich richt op AI-veiligheid door middel van testen, richtlijnen en ecosysteemontwikkeling, evenals de voortdurende zoektocht naar een balans tussen vrijwillige en verplichte regelgeving [@techcrunch_future_2024].
+
+{{< video https://www.youtube.com/embed/OaMxVQu6F_A >}}
+
+### Rapport: Global AI Law and Policy Tracker
+
+Landen wereldwijd ontwikkelen wet- en regelgeving voor AI om het tempo en de diversiteit van AI-technologieën bij te benen. Hoewel er geen standaardbenadering bestaat, volgen veel jurisdicties een patroon waarin nationale strategieën of ethische richtlijnen als eerste stap dienen voordat specifieke wetgeving wordt ingevoerd. Het balanceren van innovatie en risicobeheersing blijft daarbij een grote uitdaging. Multilaterale samenwerking speelt een steeds grotere rol, met initiatieven van organisaties zoals de OECD, UNESCO en de Afrikaanse Unie, en evenementen zoals de AI Safety Summit in het Verenigd Koninkrijk. Het volgen en begrijpen van de complexe wereldwijde AI-regelgeving is een strategische prioriteit geworden, en tools zoals de IAPP AI Global Law and Policy Tracker ondersteunen professionals met inzichten, training en netwerkmogelijkheden [@noauthor_global_nodate].
+
+### Wetgeving: EU AI Act [@noauthor_regulation_nodate].

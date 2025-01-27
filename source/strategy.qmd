@@ -4,66 +4,92 @@ jupyter: python3
 
 # AI: Strategische positionering
 
-::: callout-tip
-## Lesactiviteit 4 – Strategische positionering in het AI-tijdperk
+Een heldere definitie van strategie is essentieel om effectieve keuzes te maken over hoe middelen worden ingezet en succes wordt behaald. Strategie gaat niet alleen om het plannen van acties, maar om het begrijpen van waarom en hoe deze acties waarde creëren en bijdragen aan de doelen van een organisatie. Zonder een duidelijke strategische basis kan een organisatie moeite hebben om te anticiperen op veranderingen, middelen effectief te benutten en haar doelen te bereiken.
 
-**Doel van deze sessie**  
+## Wat is strategie?
+
+Strategie kan vanuit verschillende perspectieven worden gedefinieerd:  
+- **Een plan om waarde te creëren:** Strategie beschrijft hoe een organisatie waarde levert aan klanten, werknemers en leveranciers.  
+- **Een integratieve set van keuzes:** Strategie omvat een reeks onderling verbonden beslissingen over waar te concurreren en hoe te winnen.  
+- **De logica van succes:** Het legt uit hoe een organisatie de middelen verzamelt die nodig zijn om doelen te bereiken en beschrijft hoe succes wordt gerealiseerd.  
+- **Een strategisch argument:** Strategie is een samenhangende redenering waarin aannames leiden tot een conclusie over hoe investeringen en activiteiten waarde creëren en behouden.
+
+Belangrijk is het onderscheid tussen strategie en planning. **Planning gaat over controle over interne processen en de volgorde van acties, terwijl strategie gericht is op het omgaan met externe onzekerheden**, zoals concurrenten, klanten en regelgeving. Een goed geformuleerde strategie is een ‘levend argument’ dat constant wordt bijgesteld op basis van nieuwe informatie en veranderende omstandigheden.
+
+![Een voorbeeld van een strategisch spel - Prisoner's Dilemma [@noauthor_game_2024]](images/game-theory.webp){#fig-game-theory}
+
+Het Prisoner’s Dilemma biedt inzicht in enkele elementen van strategische besluitvorming, zoals keuzes onder onzekerheid en de afhankelijkheid van anderen. Toch is het geen volledig strategisch probleem, omdat het ontbreekt aan fundamentele aspecten zoals waardecreatie, een lange-termijnperspectief en communicatie. In een strategische context gaat het niet alleen om het vermijden van verlies, maar om het scheppen van duurzame waarde voor alle belanghebbenden.
+
+Wanneer het dilemma wordt herhaald, verandert de dynamiek. Samenwerking kan ontstaan doordat spelers leren van eerdere interacties, vertrouwen opbouwen en zich richten op lange-termijnvoordelen. Dit reflecteert de essentie van strategie: het voortdurend aanpassen, anticiperen en bouwen aan relaties om succes op lange termijn te realiseren. 
+
+## Strategie in het AI-tijdperk
+
+Met de opkomst van AI wordt het belang van een goed doordachte strategie nog groter. AI verandert niet alleen marktdynamieken en bedrijfsmodellen, maar beïnvloedt ook hoe waarde wordt gecreëerd en behouden. Het strategisch omgaan met AI vraagt om keuzes onder onzekerheid, het blootleggen van aannames en het voortdurend aanpassen aan nieuwe inzichten. Cruciale elementen hierbij zijn:  
+- **Een Just Cause:** Een langetermijndoel dat richting geeft.  
+- **Waardecreatie:** Hoe AI kan bijdragen aan klanten, medewerkers en leveranciers.  
+- **Een iteratieve aanpak:** Strategie als een continu proces dat inspeelt op een veranderlijke omgeving.  
+- **Communicatie en samenwerking:** Zorgen dat iedereen in de organisatie de strategie begrijpt en bijdraagt aan de uitvoering ervan.
+
+Strategie in het AI-tijdperk is niet statisch of lineair, maar een dynamisch en iteratief proces waarbij de focus ligt op het creëren van waarde, het omgaan met onzekerheden en het bouwen van een duurzame en concurrerende positie in een steeds veranderende wereld.
+
+::: callout-tip
+## Lesactiviteit – Strategische positionering in het AI-tijdperk
+
+**Doel van deze sessie**\
 Jullie gaan de huidige strategie van jullie organisatie opnieuw onder de loep nemen, met nadruk op wat AI-ontwikkelingen hierin kunnen betekenen. Zo ontdekken jullie welke aannames jullie maken over het creëren en vasthouden van waarde, welke invloed AI daarop kan hebben, en waar aanpassingen nodig kunnen zijn.
 
-**Tijd:** 45 minuten  
+**Tijd:** 45 minuten
 
-**Benodigde materialen**  
-- Whiteboard of flipover  
-- Stiften  
-- Hand-out met leidende vragen  
+**Benodigde materialen**\
+- Whiteboard of flipover\
+- Stiften\
 
----
+------------------------------------------------------------------------
 
-### Werkwijze
+### Werkwijze {.unnumbered}
 
-1. **Inleiding en kader (5 minuten)**  
-   - Bespreek samen kort de belangrijkste AI-thema’s die eerder tijdens de Masterclass aan bod zijn gekomen (bijv. macro-economie, geopolitiek, de aard en organisatie van werk).  
-   - Sta stil bij het idee dat een strategie niet zomaar een verzameling doelen is, maar een logisch ‘argument’ over hoe jullie waarde creëren en vasthouden.  
-   - Realiseer je dat jullie met deze activiteit jullie huidige strategie-argument toetsen aan de nieuwste AI-inzichten.
+1.  **Inleiding en kader (5 minuten)**
+    -   Bespreek samen kort de belangrijkste AI-thema’s die eerder tijdens de Masterclass aan bod zijn gekomen (bijv. macro-economie, geopolitiek, de aard en organisatie van werk).\
+    -   Sta stil bij het idee dat een strategie niet zomaar een verzameling doelen is, maar een logisch ‘argument’ over hoe jullie waarde creëren en vasthouden.\
+    -   Realiseer je dat jullie met deze activiteit jullie huidige strategie-argument toetsen aan de nieuwste AI-inzichten.
+2.  **Individuele reflectie (10 minuten)**
+    -   Neem 10 minuten de tijd om voor jezelf te beschrijven:
+        1.  **Wat is de huidige strategie-argumentatie van onze organisatie?** (Welke aannames maken we?)\
+        2.  **Hoe kunnen AI-ontwikkelingen op macro-economie en geopolitiek die aannames uitdagen?**\
+        3.  **Hoe kunnen AI-veranderingen in werk en organisatiestructuur onze strategie beïnvloeden?**\
+        4.  **Welke onderdelen van onze strategie moeten we mogelijk herzien of versterken?**\
+        5.  **Welke cruciale aannames doen we over de (nabije) toekomst met betrekking tot AI?**\
+    -   Schrijf je antwoorden kort op; je zult ze straks delen in een kleine groep.
+3.  **Kleine groepsgesprekken (20 minuten)**
+    -   Vorm vervolgens met een paar anderen (3-4 personen) een groepje.\
+    -   Vergelijk jullie ingevulde reflecties en let op opvallende overeenkomsten of juist tegenstrijdige punten.\
+    -   Daag elkaar uit om aannames te bevragen: *Waarop baseren we deze veronderstelling?* *Wat als AI deze aanname verandert?*\
+    -   Benoem in elk geval één mogelijke ‘misfit’ tussen jullie huidige strategie en de invloed van AI, maar ook minstens één concrete kans die AI biedt.\
+    -   Kies één woordvoerder die jullie inzichten straks aan de hele groep presenteert.
+4.  **Gezamenlijke terugkoppeling en eerste conclusies (10 minuten)**
+    -   De woordvoerder van elk groepje deelt in 1-2 minuten jullie belangrijkste bevindingen.\
+    -   Luister goed naar de rode draden die naar voren komen bij andere groepen. Hoe sluiten deze aan bij jullie eigen inzichten?\
+    -   Sta stil bij het idee dat een strategie doorlopend moet worden bijgesteld, zeker als AI de markt en werkwijzen blijft veranderen.
 
-2. **Individuele reflectie (10 minuten)**  
-   - Neem 10 minuten de tijd om voor jezelf te beschrijven:
-     1. **Wat is de huidige strategie-argumentatie van onze organisatie?** (Welke aannames maken we?)  
-     2. **Hoe kunnen AI-ontwikkelingen op macro-economie en geopolitiek die aannames uitdagen?**  
-     3. **Hoe kunnen AI-veranderingen in werk en organisatiestructuur onze strategie beïnvloeden?**  
-     4. **Welke onderdelen van onze strategie moeten we mogelijk herzien of versterken?**  
-     5. **Welke cruciale aannames doen we over de (nabije) toekomst met betrekking tot AI?**  
-   - Schrijf je antwoorden kort op; je zult ze straks delen in een kleine groep.
+------------------------------------------------------------------------
 
-3. **Kleine groepsgesprekken (20 minuten)**  
-   - Vorm vervolgens met een paar anderen (3-4 personen) een groepje.  
-   - Vergelijk jullie ingevulde reflecties en let op opvallende overeenkomsten of juist tegenstrijdige punten.  
-   - Daag elkaar uit om aannames te bevragen: *Waarop baseren we deze veronderstelling?* *Wat als AI deze aanname verandert?*  
-   - Benoem in elk geval één mogelijke ‘misfit’ tussen jullie huidige strategie en de invloed van AI, maar ook minstens één concrete kans die AI biedt.  
-   - Kies één woordvoerder die jullie inzichten straks aan de hele groep presenteert.
+### Tips voor jullie bespreking {.unnumbered}
 
-4. **Gezamenlijke terugkoppeling en eerste conclusies (10 minuten)**  
-   - De woordvoerder van elk groepje deelt in 1-2 minuten jullie belangrijkste bevindingen.  
-   - Luister goed naar de rode draden die naar voren komen bij andere groepen. Hoe sluiten deze aan bij jullie eigen inzichten?  
-   - Sta stil bij het idee dat een strategie doorlopend moet worden bijgesteld, zeker als AI de markt en werkwijzen blijft veranderen.
+-   **Voer een open en constructieve discussie**: Beschouw verschillen van inzicht als een kans om te leren.\
+-   **Focus op de logica**: Vraag steeds door naar het ‘waarom’ achter jullie keuzes.\
+-   **Geen perfecte strategie**: Een strategie is altijd in ontwikkeling. Het doel is om de beste keuzes te maken op basis van de informatie die jullie nu hebben.
 
----
+------------------------------------------------------------------------
 
-### Tips voor jullie bespreking
-- **Voer een open en constructieve discussie**: Beschouw verschillen van inzicht als een kans om te leren.  
-- **Focus op de logica**: Vraag steeds door naar het ‘waarom’ achter jullie keuzes.  
-- **Geen perfecte strategie**: Een strategie is altijd in ontwikkeling. Het doel is om de beste keuzes te maken op basis van de informatie die jullie nu hebben.  
+### Wat levert het op? {.unnumbered}
 
----
-
-### Wat levert het op?
-- Je krijgt een beter beeld van hoe AI je huidige strategie (mogelijk) beïnvloedt.  
-- Je ontdekt of er aannames zijn die niet langer houdbaar zijn in het AI-tijdperk.  
-- Je leert welke kansen AI kan bieden om je strategie te verbeteren of uit te breiden.  
-- Je verzamelt waardevolle input die later in de Masterclass van pas komt bij de uitwerking van een strategische AI-roadmap.
+-   Je krijgt een beter beeld van hoe AI je huidige strategie (mogelijk) beïnvloedt.\
+-   Je ontdekt of er aannames zijn die niet langer houdbaar zijn in het AI-tijdperk.\
+-   Je leert welke kansen AI kan bieden om je strategie te verbeteren of uit te breiden.\
+-   Je verzamelt waardevolle input die later in de Masterclass van pas komt bij de uitwerking van een strategische AI-roadmap.
 :::
 
-## Aanvullende inspiratiemateriaal
+## Aanvullend inspiratiemateriaal
 
 ### Video: **Strategy Success - How to Communicate Your Gameplan**
 
@@ -71,13 +97,13 @@ Volgens hoogleraar Jesper Sørensen ontstaat een succesvolle strategie eerder do
 
 Sørensen stelt dat een strategie vanuit de top kan worden aangestuurd, maar dat dit niet per se nodig is. “Veel geweldige strategieën worden ontdekt,” zegt hij. “Ze komen tot stand doordat leiders goed luisteren naar hun mensen aan de frontlinie.” Een meer iteratieve benadering helpt organisaties hun strategie continu aan te passen aan een veranderlijke omgeving.
 
-In de deze aflevering van Think Fast, Talk Smart gaat Sørensen in gesprek met presentator en docent Matt Abrahams over hoe organisaties via betere communicatie tot betere strategieën kunnen komen.  [@stanford_graduate_school_of_business_71_2022].
+In de deze aflevering van Think Fast, Talk Smart gaat Sørensen in gesprek met presentator en docent Matt Abrahams over hoe organisaties via betere communicatie tot betere strategieën kunnen komen. [@stanford_graduate_school_of_business_71_2022].
 
 {{< video https://www.youtube.com/embed/vn1oA5QNDWo >}}
 
 ### Video: **A Plan Is Not a Strategy**
 
-Een uitgebreid plan met doelen, initiatieven en budgetten kan een geruststellend gevoel geven. Toch is beginnen met zo’n plan volgens Roger Martin—voormalig decaan van de Rotman School of Management (Universiteit van Toronto) en een van ’s werelds toonaangevende strategiedenkers—een ondoeltreffende manier om strategie te ontwikkelen. Hij benadrukt dat een goede strategie juist vraagt om het verlaten van de comfortzone en het vermijden van de gebruikelijke valkuilen van strategische planning  [@harvard_business_review_plan_2022].
+Een uitgebreid plan met doelen, initiatieven en budgetten kan een geruststellend gevoel geven. Toch is beginnen met zo’n plan volgens Roger Martin—voormalig decaan van de Rotman School of Management (Universiteit van Toronto) en een van ’s werelds toonaangevende strategiedenkers—een ondoeltreffende manier om strategie te ontwikkelen. Hij benadrukt dat een goede strategie juist vraagt om het verlaten van de comfortzone en het vermijden van de gebruikelijke valkuilen van strategische planning [@harvard_business_review_plan_2022].
 
 {{< video https://www.youtube.com/embed/iuYlGRnC7J8 >}}
 
@@ -87,11 +113,11 @@ Deze MIT Sloan Management Review-webinar bespreekt ‘Open Strategy’, een boek
 
 {{< video https://www.youtube.com/embed/kg2E3GHnWU0 >}}
 
-### Video: **Grit & Growth | Making Great Strategy**
+### Video: **Grit & Growth \| Making Great Strategy**
 
-Jesper Sørensen, hoogleraar aan Stanford Graduate School of Business en coauteur van *Making Great Strategy*, stelt dat een succesvolle strategie niet simpelweg een takenlijst is, maar een ‘argument’ over hoe een organisatie middelen verzamelt om doelen te bereiken. Zo’n strategie vereist het omgaan met onzekerheid door aannames expliciet te maken en na te gaan of de conclusie logisch uit die aannames voortvloeit.  
+Jesper Sørensen, hoogleraar aan Stanford Graduate School of Business en coauteur van *Making Great Strategy*, stelt dat een succesvolle strategie niet simpelweg een takenlijst is, maar een ‘argument’ over hoe een organisatie middelen verzamelt om doelen te bereiken. Zo’n strategie vereist het omgaan met onzekerheid door aannames expliciet te maken en na te gaan of de conclusie logisch uit die aannames voortvloeit.
 
-Daarnaast benadrukt Sørensen dat iedereen in de organisatie de strategie moet begrijpen, zodat individuele beslissingen bijdragen aan het geheel. Een constructief debat is daarbij onmisbaar: zorg voor psychologische veiligheid en voorkom “arguing blue” (star vasthouden aan eigen standpunten). In plaats daarvan draait het om het toetsen van de interne logica van de strategie.  
+Daarnaast benadrukt Sørensen dat iedereen in de organisatie de strategie moet begrijpen, zodat individuele beslissingen bijdragen aan het geheel. Een constructief debat is daarbij onmisbaar: zorg voor psychologische veiligheid en voorkom “arguing blue” (star vasthouden aan eigen standpunten). In plaats daarvan draait het om het toetsen van de interne logica van de strategie.
 
 Perfectie is niet nodig. Begin met de beste versie van je strategie, voer deze uit, en leer van de data die ontstaat. Ook is het nuttig te beseffen dat uitdagingen rond strategie niet uniek zijn: veel organisaties ervaren dezelfde knelpunten [@stanford_graduate_school_of_business_s3e07_2023].
 
@@ -99,35 +125,28 @@ Perfectie is niet nodig. Begin met de beste versie van je strategie, voer deze u
 
 ### Video: **The Infinite Game**
 
-Jesper Sørensen, hoogleraar aan Stanford Graduate School of Business en coauteur van *Making Great Strategy*, stelt dat een succesvolle strategie niet simpelweg een takenlijst is, maar een ‘argument’ over hoe een organisatie middelen verzamelt om doelen te bereiken. Zo’n strategie vereist het omgaan met onzekerheid door aannames expliciet te maken en na te gaan of de conclusie logisch uit die aannames voortvloeit.  
-
-Daarnaast benadrukt Sørensen dat iedereen in de organisatie de strategie moet begrijpen, zodat individuele beslissingen bijdragen aan het geheel. Een constructief debat is daarbij onmisbaar: zorg voor psychologische veiligheid en voorkom “arguing blue” (star vasthouden aan eigen standpunten). In plaats daarvan draait het om het toetsen van de interne logica van de strategie.  
-
-Perfectie is niet nodig. Begin met de beste versie van je strategie, voer deze uit, en leer van de data die ontstaat. Ook is het nuttig te beseffen dat uitdagingen rond strategie niet uniek zijn: veel organisaties ervaren dezelfde knelpunten [@new_york_times_events_infinite_2018].
+Dit fragment uit een New York Times Events-video bespreekt het verschil tussen eindige en oneindige “games”. Aan de hand van de Vietnamoorlog laat de spreker zien dat de Verenigde Staten vooral op overwinning (een eindige game) waren gericht, terwijl Noord-Vietnam zich concentreerde op voortbestaan (een oneindige game). Dit concept wordt doorgetrokken naar bijvoorbeeld bedrijfsleven en onderwijs, waar organisaties die louter mikken op korte-termijnoverwinningen vaak geen duurzame basis opbouwen. Om succesvol een oneindige game te spelen, zijn vijf elementen essentieel: een ‘Just Cause’, moedig leiderschap, onderling vertrouwen, een waardige rivaal en een flexibel draaiboek. De spreker pleit uiteindelijk voor een lange-termijnvisie waarin doel en mensen boven korte-termijngroei en oppervlakkige meetpunten gaan [@new_york_times_events_infinite_2018].
 
 {{< video https://www.youtube.com/embed/tye525dkfi8 >}}
-
-### Video: **The Infinite Game**
-
-Jesper Sørensen, hoogleraar aan Stanford Graduate School of Business en coauteur van *Making Great Strategy*, stelt dat een succesvolle strategie niet simpelweg een takenlijst is, maar een ‘argument’ over hoe een organisatie middelen verzamelt om doelen te bereiken. Zo’n strategie vereist het omgaan met onzekerheid door aannames expliciet te maken en na te gaan of de conclusie logisch uit die aannames voortvloeit.  
-
-Daarnaast benadrukt Sørensen dat iedereen in de organisatie de strategie moet begrijpen, zodat individuele beslissingen bijdragen aan het geheel. Een constructief debat is daarbij onmisbaar: zorg voor psychologische veiligheid en voorkom “arguing blue” (star vasthouden aan eigen standpunten). In plaats daarvan draait het om het toetsen van de interne logica van de strategie.  
-
-Perfectie is niet nodig. Begin met de beste versie van je strategie, voer deze uit, en leer van de data die ontstaat. Ook is het nuttig te beseffen dat uitdagingen rond strategie niet uniek zijn: veel organisaties ervaren dezelfde knelpunten [@new_york_times_events_infinite_2018].
-
-{{< video https://www.youtube.com/embed/tye525dkfi8 >}}
-
 
 ### Video: **What Is Strategy? It’s a Lot Simpler Than You Think**
 
-Voor veel mensen is strategie een vaag begrip, maar volgens Felix Oberholzer-Gee, hoogleraar aan Harvard Business School en auteur van *Better, Simpler Strategy*, is het allesbehalve ingewikkeld.  
+Voor veel mensen is strategie een vaag begrip, maar volgens Felix Oberholzer-Gee, hoogleraar aan Harvard Business School en auteur van *Better, Simpler Strategy*, is het allesbehalve ingewikkeld.
 
-Strategie draait niet primair om winst, maar om het creëren van waarde. Oberholzer-Gee introduceert de ‘value stick’, een eenvoudig hulpmiddel om de waarde die je creëert te visualiseren, gebaseerd op twee kernfactoren: **willingness-to-pay** (wat klanten bereid zijn te betalen) en **willingness-to-sell** (de minimale voorwaarden waaronder medewerkers willen werken).  
+Strategie draait niet primair om winst, maar om het creëren van waarde. Oberholzer-Gee introduceert de ‘value stick’, een eenvoudig hulpmiddel om de waarde die je creëert te visualiseren, gebaseerd op twee kernfactoren: **willingness-to-pay** (wat klanten bereid zijn te betalen) en **willingness-to-sell** (de minimale voorwaarden waaronder medewerkers willen werken).
 
 Hij pleit voor een vereenvoudigde aanpak, waarbij organisaties zich richten op slechts twee waarde-drivers: klanttevredenheid en medewerkerstevredenheid. Door strategische initiatieven hierop te richten, worden processen eenvoudiger, medewerkers effectiever en de klantbeleving beter. Een praktijkvoorbeeld van deze aanpak is de succesvolle turnaround van Best Buy [@harvard_business_review_what_2022].
 
 {{< video https://www.youtube.com/embed/o7Ik1OB4TaE >}}
 
-### Artikel: **Why Strategy Always Beats Talent (w/Seth Godin)**
+### Video: **Why Strategy Always Beats Talent (w/Seth Godin)**
 
-Dit artikel stelt dat effectieve strategie niet draait om voorspellingen, maar om het bouwen van logisch onderbouwde argumenten. Succesvolle bedrijven zoals Amazon en Netflix creëren een cultuur van constructief debat om strategische ideeën grondig te toetsen. De auteurs introduceren een driestapsysteem: constructief debat, iteratieve visualisatie (via strategiemaps) en logische formalisering. Het doel is om intuïtieve aannames om te zetten in duidelijke, valide argumenten die onderliggende aannames blootleggen, teambetrokkenheid bevorderen en leiden tot betere strategische uitvoering en continue leerprocessen [@sorensen_why_2021].
+In deze video vertelt Seth Godin over de essentie van strategie. Ze bespreken waarom strategie belangrijker is dan tactiek en hoe veel mensen de neiging hebben om direct in acties te duiken zonder eerst een duidelijke strategische basis te leggen. Het belang van het definiëren van je doelgroep en doelen voordat je handelt staat centraal.
+
+Daarnaast behandelen ze onderwerpen zoals het verschil tussen werken aan je bedrijf versus erin werken, hoe creatieven vaak worstelen met tijd en prioriteiten, en waarom het kiezen van de juiste klanten cruciaal is voor duurzaam succes. Tot slot benadrukt Godin het belang van reflectie en nadenken over strategie. [@chase_jarvis_why_2024].
+
+{{< video https://www.youtube.com/embed/AZeCxY5yHUY >}}
+
+### Artikel: **Why Good Arguments Make Better Strategy**
+
+Dit artikel stelt dat effectieve strategie niet draait om voorspellingen, maar om het bouwen van logisch onderbouwde argumenten. Succesvolle bedrijven zoals Amazon en Netflix creëren een cultuur van constructief debat om strategische ideeën grondig te toetsen. De auteurs introduceren een driestapsysteem: constructief debat, iteratieve visualisatie (via strategiemaps) en logische formalisering. Het doel is om intuïtieve aannames om te zetten in duidelijke, valide argumenten die onderliggende aannames blootleggen, teambetrokkenheid bevorderen en leiden tot betere strategische uitvoering en continue leerprocessen [@sorensen_why_2021] .

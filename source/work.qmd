@@ -13,44 +13,40 @@ De snelle opkomst van **Artificiële Intelligentie (AI) creëert aanzienlijke ui
 Het navigeren door dit veranderende landschap vereist een grondig begrip van de omvang van de uitdaging. Het doel van dit onderdeel is om deelnemers aan te moedigen na te denken over deze complexe veranderingen en de specifieke gevolgen voor hun organisaties te overwegen. De belangrijkste uitdaging zal zijn om zich voor te bereiden op de ontwrichting van het personeelsbestand die door AI wordt veroorzaakt, en om na te denken over hoe de balans tussen mens en machine zal veranderen. We beginnen bij onszelf en gaan daarna kijken naar de schaal van de verandering en welke vragen moeten worden beantwoord voor de Roadmap.
 
 ::: callout-tip
-## Lesactiviteit 2 - De invloed van AI op arbeid
+## Lesactiviteit - De invloed van AI op arbeid
 
-**Doel van de sessie:**  
+**Doel van de sessie:**\
 Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werkzaamheden kan veranderen, en welke kansen en uitdagingen dit oplevert. De inzichten die jullie opdoen, nemen jullie later mee in het ontwikkelen van een strategische AI-Roadmap.
 
 **Tijd:** 45 minuten
 
----
+------------------------------------------------------------------------
 
-### Werkwijze
+### Werkwijze {.unnumbered}
 
-1. **Introductie (5 minuten)**  
-    - In deze activiteit onderzoeken we het volgende: *Welke impact heeft AI op onze dagelijkse werkzaamheden, nu en in de toekomst?*  
-    - De opbrengsten van deze activiteit zullen worden meegenomen in de Roadmap.
-
-2. **Survey invullen (10 minuten)**  
-    - Jullie vullen individueel deze korte [vragenlijst](https://businessdatasolutions.github.io/ai-at-work-survey/){target="_blank"} in.  
-    - De vragen helpen jullie nadenken over de huidige en verwachte invloed van AI op je eigen werk.  
-    - Er zijn geen goede of foute antwoorden; het is jullie eigen ervaring die telt.
-
-3. **Presentatie van (voorlopige) resultaten (5 minuten)**  
-    - Zodra iedereen klaar is, wordt er een eerste [overzicht](https://businessdatasolutions.github.io/ai-at-work-survey/results.html){target="_blank"} van de resultaten gedeeld.  
-    - Krijgen jullie meteen opvallende cijfers of grafieken te zien, denk dan na over de vraag: *Herkennen jullie deze uitkomsten in jullie eigen situatie?*
-
-4. **Groepsdiscussie in subgroepen (15 minuten)**  
-    - In kleine groepjes (4-5 personen) gaan jullie met elkaar in gesprek.  
-    - Stel jezelf en elkaar de volgende vragen:  
-        1. **“Welke veranderingen in taken en rollen zie ik (of verwacht ik) door AI?”**  
-        2. **“Welke kansen en mogelijke bedreigingen zie ik voor mijn werk en collega's?”**  
-    - Noteer de belangrijkste punten, bijvoorbeeld op een flip-over of sticky notes.
-
-5. **Afronding en koppeling naar de AI-Roadmap (10 minuten)**  
-    - Elk groepje licht kort (max. 2 minuten) de belangrijkste conclusies toe.  
-    - Samen bekijken jullie welke rode draden en aandachtspunten naar voren komen.  
-    - Tot slot horen jullie hoe deze inzichten zullen worden gebruikt in de vervolgstappen voor het ontwikkelen van een strategische AI-Roadmap.
+1.  **Introductie (5 minuten)**
+    -   In deze activiteit onderzoeken we het volgende: *Welke impact heeft AI op onze dagelijkse werkzaamheden, nu en in de toekomst?*\
+    -   De opbrengsten van deze activiteit zullen worden meegenomen in de Roadmap.
+2.  **Survey invullen (10 minuten)**
+    -   Jullie vullen individueel deze korte [vragenlijst](https://businessdatasolutions.github.io/ai-at-work-survey/){target="_blank"} in.\
+    -   De vragen helpen jullie nadenken over de huidige en verwachte invloed van AI op je eigen werk.\
+    -   Er zijn geen goede of foute antwoorden; het is jullie eigen ervaring die telt.
+3.  **Presentatie van (voorlopige) resultaten (5 minuten)**
+    -   Zodra iedereen klaar is, wordt er een eerste [overzicht](https://businessdatasolutions.github.io/ai-at-work-survey/results.html){target="_blank"} van de resultaten gedeeld.\
+    -   Krijgen jullie meteen opvallende cijfers of grafieken te zien, denk dan na over de vraag: *Herkennen jullie deze uitkomsten in jullie eigen situatie?*
+4.  **Groepsdiscussie in subgroepen (15 minuten)**
+    -   In kleine groepjes (4-5 personen) gaan jullie met elkaar in gesprek.\
+    -   Stel jezelf en elkaar de volgende vragen:
+        1.  **“Welke veranderingen in taken en rollen zie ik (of verwacht ik) door AI?”**\
+        2.  **“Welke kansen en mogelijke bedreigingen zie ik voor mijn werk en collega's?”**\
+    -   Noteer de belangrijkste punten, bijvoorbeeld op een flip-over of sticky notes.
+5.  **Afronding en koppeling naar de AI-Roadmap (10 minuten)**
+    -   Elk groepje licht kort (max. 2 minuten) de belangrijkste conclusies toe.\
+    -   Samen bekijken jullie welke rode draden en aandachtspunten naar voren komen.\
+    -   Tot slot horen jullie hoe deze inzichten zullen worden gebruikt in de vervolgstappen voor het ontwikkelen van een strategische AI-Roadmap.
 :::
 
-## Aanvullende inspiratiemateriaal
+## Aanvullend inspiratiemateriaal
 
 ### Video: Artificial Intelligence and the Future of Work
 

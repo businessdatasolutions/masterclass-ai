@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -160,7 +180,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#aanvullend-inspiratiemateriaal" id="toc-aanvullend-inspiratiemateriaal" class="nav-link active" data-scroll-target="#aanvullend-inspiratiemateriaal"><span class="header-section-number">3.1</span> Aanvullend inspiratiemateriaal</a>
+  <ul class="collapse">
+  <li><a href="#artikel-should-ai-systems-behave-like-people" id="toc-artikel-should-ai-systems-behave-like-people" class="nav-link" data-scroll-target="#artikel-should-ai-systems-behave-like-people"><span class="header-section-number">3.1.1</span> Artikel: Should AI systems behave like people?</a></li>
+  <li><a href="#video-ai-anthropomorphism---paths-dangers-and-strategies-mitigating-cognitive-bias" id="toc-video-ai-anthropomorphism---paths-dangers-and-strategies-mitigating-cognitive-bias" class="nav-link" data-scroll-target="#video-ai-anthropomorphism---paths-dangers-and-strategies-mitigating-cognitive-bias"><span class="header-section-number">3.1.2</span> Video: AI Anthropomorphism - Paths, Dangers, and Strategies Mitigating Cognitive Bias</a></li>
+  <li><a href="#video-the-race-for-artificial-intelligence---can-europe-compete" id="toc-video-the-race-for-artificial-intelligence---can-europe-compete" class="nav-link" data-scroll-target="#video-the-race-for-artificial-intelligence---can-europe-compete"><span class="header-section-number">3.1.3</span> Video: The race for artificial intelligence - Can Europe compete?</a></li>
+  <li><a href="#video-the-future-of-ai-governance-with-sb-1047-architect-sen.-scott-wiener" id="toc-video-the-future-of-ai-governance-with-sb-1047-architect-sen.-scott-wiener" class="nav-link" data-scroll-target="#video-the-future-of-ai-governance-with-sb-1047-architect-sen.-scott-wiener"><span class="header-section-number">3.1.4</span> Video: The future of AI governance, with SB 1047 architect Sen.&nbsp;Scott Wiener</a></li>
+  <li><a href="#rapport-global-ai-law-and-policy-tracker" id="toc-rapport-global-ai-law-and-policy-tracker" class="nav-link" data-scroll-target="#rapport-global-ai-law-and-policy-tracker"><span class="header-section-number">3.1.5</span> Rapport: Global AI Law and Policy Tracker</a></li>
+  <li><a href="#wetgeving-eu-ai-act-noauthor_regulation_nodate." id="toc-wetgeving-eu-ai-act-noauthor_regulation_nodate." class="nav-link" data-scroll-target="#wetgeving-eu-ai-act-noauthor_regulation_nodate."><span class="header-section-number">3.1.6</span> Wetgeving: EU AI Act <span class="citation" data-cites="noauthor_regulation_nodate">(<span>“Regulation - <span>EU</span> - 2024/1689 - <span>EN</span> - <span>EUR</span>-<span>Lex</span>”</span> n.d.)</span>.</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -184,8 +218,178 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><strong>Introductie: Thema 3 – AI: Regelgeving en Governance</strong></p>
+<p>Zoals eerder besproken, ontwikkelt AI zich razendsnel, wat de dringende noodzaak met zich meebrengt van solide regelgevende kaders en governance-structuren. Maar hoe reguleren we effectief iets dat we, vaak onbewust, vanuit een menselijk perspectief bekijken? Dit brengt ons bij het concept van <strong>antropomorfisme</strong>, de neiging om menselijke eigenschappen toe te kennen aan niet-menselijke entiteiten. Dit zien we bijvoorbeeld in onze interacties met AI, waarbij we intenties of begrip toeschrijven die feitelijk niet aanwezig zijn.</p>
+<div id="fig-anthropomorphism" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-anthropomorphism-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/anthropomorphism.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-anthropomorphism-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3.1: Degrees of anthropomorphism <span class="citation" data-cites="noauthor_4_nodate">(<a href="references.html#ref-noauthor_4_nodate" role="doc-biblioref"><span>“The 4 <span>Degrees</span> of <span>Anthropomorphism</span> of <span>Generative</span> <span>AI</span>”</span> n.d.</a>)</span>
+</figcaption>
+</figure>
+</div>
+<p>Deze neiging tot antropomorfisme beïnvloedt hoe we AI ontwerpen, waarnemen en reguleren. Het gaat niet alleen om de technische capaciteiten van AI-systemen, maar ook om hoe wij, als mensen, ermee omgaan en hoe zij ons beïnvloeden. Dit maakt het ontwikkelen van effectieve governance bijzonder uitdagend, omdat onze percepties van AI een rol spelen bij het definiëren van risico’s en het implementeren van waarborgen.</p>
+<p>Enkele voorbeelden van regelgeving en governance wereldwijd:<br>
+- <strong>De EU AI Act</strong> hanteert een risicogebaseerde aanpak, waarbij AI-systemen worden gecategoriseerd en verschillende eisen worden gesteld aan hoogrisico-systemen. Er wordt tevens gewerkt aan een gedragscode voor algemene AI-systemen. Dit kader is een poging om een uniforme juridische aanpak te creëren die van toepassing is op alle aanbieders en gebruikers van AI-systemen op de EU-markt.<br>
+- <strong>De Verenigde Staten</strong> beschikken niet over een allesomvattende AI-wet, maar passen bestaande regelgeving, zoals die rond consumentenbescherming en anti-discriminatie, toe op AI-technologieën. De VS richt zich sterk op het stimuleren van innovatie, het aanpassen van bestaande regels en intensieve informatieverzameling over AI-modellen. Het US AI Safety Institute werkt samen met bedrijven aan het beperken van risico’s en het ontwikkelen van best practices.<br>
+- <strong>Mondiaal</strong> zijn er eveneens veel initiatieven op het gebied van AI-governance. Landen nemen ethische principes en richtlijnen over, zoals die van de OECD en UNESCO. Daarnaast ontwikkelen veel landen nationale strategieën gericht op onderzoek, training en samenwerking rondom AI.</p>
+<p>In deze sessie duiken we in de complexiteit van AI-governance. We onderzoeken hoe regelgeving wordt ontwikkeld, welke uitdagingen daarbij komen kijken, en hoe we ervoor kunnen zorgen dat deze regels geschikt zijn voor een tijdperk waarin AI steeds geavanceerder – en soms ten onrechte als ‘menselijk’ – wordt waargenomen.</p>
+<p>Deze introductie benadrukt het belang van het herkennen van onze menselijke vooroordelen bij het reguleren van AI en vormt het vertrekpunt voor een discussie over de verschillende aanpakken die wereldwijd worden gehanteerd en hun mogelijke impact.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Moeten AI-systemen zich gedragen als mensen?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Deze <a href="https://businessdatasolutions.github.io/ai-attitudes/" target="_blank">test</a> stelt je vragen over hoe jij denkt dat AI-systemen zich zouden moeten gedragen, vooral als het gaat om het hebben van menselijke trekken. Volg de onderstaande instructies om aan de test deel te nemen:</p>
+<ol type="1">
+<li><p><strong>Start de test:</strong><br>
+Zodra je op de <strong>“Nieuw vraag”</strong>-knop klikt, verschijnt er een willekeurige vraag. Deze vraag gaat over een specifiek thema, zoals transparantie, mentaal bewustzijn, mens-AI-relaties, omgangsvormen of verantwoordelijkheid.</p></li>
+<li><p><strong>Lees het thema en de vraag:</strong></p>
+<ul>
+<li>Het <strong>thema</strong> geeft aan welk aspect van AI wordt behandeld.<br>
+</li>
+<li>De <strong>vraag</strong> laat je reflecteren op een situatie of principe dat verband houdt met AI en menselijke trekken.</li>
+</ul></li>
+<li><p><strong>Overweeg je mening:</strong><br>
+Denk na over je antwoord. Er zijn geen juiste of foute antwoorden; het gaat om jouw perspectief.</p></li>
+<li><p><strong>Volgende vraag:</strong><br>
+Klik opnieuw op de knop om een nieuwe vraag te bekijken. Elke vraag is willekeurig en biedt je de kans om na te denken over een ander aspect van AI.</p></li>
+<li><p><strong>Herhaal het proces:</strong><br>
+Beantwoord zoveel vragen als je wilt of nodig is.</p></li>
+</ol>
+<section id="doel-van-de-test" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="doel-van-de-test">Doel van de test</h3>
+<p>Deze test helpt inzicht te krijgen in hoe jij en anderen denken over AI-systemen en hun rol in menselijke interacties. De resultaten kunnen bijdragen aan discussies over de ethiek, regelgeving en het ontwerp van AI.</p>
+</section>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Lesactiviteit – Ontwerp je eigen AI-regelgeving
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Doel van de sessie:</strong><br>
+Jullie gaan in deze activiteit nadenken over hoe een effectief kader voor AI-regelgeving eruit zou kunnen zien, met een balans tussen innovatie en ethiek. De inzichten die jullie opdoen, worden meegenomen in de verdere discussie over governance en strategie binnen de Masterclass.</p>
+<p><strong>Tijd:</strong> 30 minuten</p>
+<hr>
+<section id="werkwijze" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="werkwijze">Werkwijze</h3>
+<ol type="1">
+<li><strong>Introductie (5 minuten)</strong>
+<ul>
+<li>In deze activiteit ontwerpen jullie een kader voor AI-regelgeving dat zowel innovatie stimuleert als ethische normen handhaaft.<br>
+</li>
+<li>Sta stil bij de vraag: <em>Hoe ziet effectieve AI-regelgeving eruit die innovatie ondersteunt en tegelijkertijd verantwoordelijk gebruik bevordert?</em></li>
+</ul></li>
+<li><strong>Groepsopdracht (15 minuten)</strong>
+<ul>
+<li>Jullie werken in kleine groepen van 3-4 personen.<br>
+</li>
+<li>Binnen je groep bespreek je en ontwerp je een kader voor AI-regelgeving. Overweeg de volgende vragen:
+<ol type="1">
+<li><strong>Welke AI-toepassingen moeten als hoog risico worden beschouwd, en welke eisen zouden hieraan gesteld moeten worden?</strong><br>
+</li>
+<li><strong>Hoe kan transparantie gewaarborgd worden in AI-systemen?</strong><br>
+</li>
+<li><strong>Welke ethische normen moeten worden opgenomen in regelgeving?</strong><br>
+</li>
+<li><strong>Hoe kunnen innovatie en compliance worden gecombineerd?</strong><br>
+</li>
+</ol></li>
+<li>Noteer jullie belangrijkste ideeën, bijvoorbeeld op een flip-over of sticky notes.</li>
+</ul></li>
+<li><strong>Presentatie (5 minuten)</strong>
+<ul>
+<li>Elke groep presenteert kort (max. 2 minuten) hun voorgestelde regelgevingskader.<br>
+</li>
+<li>Focus op de kernprincipes en de belangrijkste overwegingen die jullie ontwerp hebben gestuurd.</li>
+</ul></li>
+<li><strong>Discussie en Synthese (5 minuten)</strong>
+<ul>
+<li>Samen bespreken we de verschillende voorstellen. Welke overeenkomsten zien jullie? Welke innovatieve ideeën springen eruit?<br>
+</li>
+<li>Bespreek hoe deze inzichten aansluiten bij bestaande regelgeving en hoe ze kunnen bijdragen aan verantwoorde AI-strategieën.<br>
+</li>
+<li>Tot slot koppelen we de belangrijkste thema’s aan de bredere strategische AI-roadmap die in latere sessies verder wordt uitgewerkt.</li>
+</ul></li>
+</ol>
+<hr>
+<p><strong>Opbrengsten van de sessie:</strong><br>
+- Jullie krijgen inzicht in hoe AI-regelgeving kan worden ontworpen met een focus op ethiek en innovatie.<br>
+- Jullie ontwikkelen creatieve ideeën die bijdragen aan het debat over verantwoord AI-gebruik.<br>
+- Jullie leggen een basis voor strategische besluitvorming en governance in het AI-tijdperk.</p>
+</section>
+</div>
+</div>
+<section id="aanvullend-inspiratiemateriaal" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="aanvullend-inspiratiemateriaal"><span class="header-section-number">3.1</span> Aanvullend inspiratiemateriaal</h2>
+<section id="artikel-should-ai-systems-behave-like-people" class="level3" data-number="3.1.1">
+<h3 data-number="3.1.1" class="anchored" data-anchor-id="artikel-should-ai-systems-behave-like-people"><span class="header-section-number">3.1.1</span> Artikel: Should AI systems behave like people?</h3>
+<p>Deze blogpost van het UK AI Safety Institute bespreekt een enquête naar publieke attitudes ten aanzien van antropomorfe AI – AI die zich gedraagt als een mens. Het onderzoek richtte zich op vijf kerngebieden: transparantie (moet AI duidelijk maken dat het kunstmatig is?), mentale toestanden (moet AI emoties uitdrukken?), relaties (is het wenselijk dat mensen relaties aangaan met AI?), toon (moet AI formeel of informeel communiceren?) en verantwoordelijkheid (kan AI moreel verantwoordelijk worden gehouden?). De resultaten tonen een overwegend sceptische houding van het publiek, met sterke weerstand tegen AI die menselijke relaties simuleert of emoties uitdrukt, een voorkeur voor transparantie en aanzienlijke onzekerheid over de toerekenbaarheid van AI. Het onderzoek beoogt publieke opinie te integreren in het ontwerp van veiligere en ethisch verantwoorde AI-systemen <span class="citation" data-cites="noauthor_should_nodate">(<a href="references.html#ref-noauthor_should_nodate" role="doc-biblioref"><span>“Should <span>AI</span> Systems Behave Like People? <span></span> <span>AISI</span> <span>Work</span>”</span> n.d.</a>)</span>.</p>
+</section>
+<section id="video-ai-anthropomorphism---paths-dangers-and-strategies-mitigating-cognitive-bias" class="level3" data-number="3.1.2">
+<h3 data-number="3.1.2" class="anchored" data-anchor-id="video-ai-anthropomorphism---paths-dangers-and-strategies-mitigating-cognitive-bias"><span class="header-section-number">3.1.2</span> Video: AI Anthropomorphism - Paths, Dangers, and Strategies Mitigating Cognitive Bias</h3>
+<p>Onze perceptie van AI wordt sterk beïnvloed door onze neiging tot <strong>antropomorfisme</strong>: het toekennen van menselijke eigenschappen aan technologie. Hoewel dit instinct ons kan helpen complexe systemen te begrijpen, kan het ook leiden tot misvattingen, zeker bij geavanceerde AI zoals GPT-4 en levensechte avatars.</p>
+<p>In deze sessie bespreekt Fausto Albers hoe technologiebedrijven deze menselijke neiging bewust benutten, waardoor het steeds moeilijker wordt om werkelijkheid en illusie te onderscheiden. Tegelijkertijd benadrukt hij het belang van een realistischer begrip van AI, niet alleen door technische kennis, maar ook door inzicht in onze eigen cognitieve processen. Dit bewustzijn is essentieel om de maatschappelijke impact en beperkingen van AI beter te begrijpen <span class="citation" data-cites="european_chatbot_and_conversational_ai_summit_ai_2024">(<a href="references.html#ref-european_chatbot_and_conversational_ai_summit_ai_2024" role="doc-biblioref">European Chatbot and Conversational AI Summit 2024</a>)</span>?</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/nAQLQnrhKOI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-the-race-for-artificial-intelligence---can-europe-compete" class="level3" data-number="3.1.3">
+<h3 data-number="3.1.3" class="anchored" data-anchor-id="video-the-race-for-artificial-intelligence---can-europe-compete"><span class="header-section-number">3.1.3</span> Video: The race for artificial intelligence - Can Europe compete?</h3>
+<p>Kunstmatige intelligentie (AI) transformeert industrieën en de samenleving, en er is een wereldwijde race gaande om de meest geavanceerde technologie te ontwikkelen.</p>
+<p>De uitkomst hiervan kan het mondiale machtsevenwicht ingrijpend veranderen. Op dit moment zijn de Verenigde Staten en China de koplopers in deze race, terwijl Europa achterblijft. Toch is het continent vastberaden om een inhaalslag te maken. Europese beleidsmakers hopen dat een sterke nadruk op transparantie en eerlijkheid in AI-ontwikkeling Europese AI onderscheidend zal maken en op de lange termijn een concurrentievoordeel zal opleveren.</p>
+<p>Maar de vraag blijft: Kan Europa met deze initiatieven concurreren met de enorme middelen die Big Tech-bedrijven investeren in AI-onderzoek? En zal de ethiek-georiënteerde aanpak van de EU een concurrentievoordeel blijken in de wereldwijde AI-race, of juist leiden tot een nog grotere achterstand <span class="citation" data-cites="dw_documentary_race_2023">(<a href="references.html#ref-dw_documentary_race_2023" role="doc-biblioref">DW Documentary 2023</a>)</span>?</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/i8ljZYzn0Uc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-the-future-of-ai-governance-with-sb-1047-architect-sen.-scott-wiener" class="level3" data-number="3.1.4">
+<h3 data-number="3.1.4" class="anchored" data-anchor-id="video-the-future-of-ai-governance-with-sb-1047-architect-sen.-scott-wiener"><span class="header-section-number">3.1.4</span> Video: The future of AI governance, with SB 1047 architect Sen.&nbsp;Scott Wiener</h3>
+<p>In deze webinar verkennen experts het veranderende landschap van AI-regelgeving, waarbij de proactieve EU AI Act wordt vergeleken met de meer gefragmenteerde aanpak van de VS. Een centraal thema is de spanning tussen het bevorderen van innovatie en het beperken van risico’s, geïllustreerd door de discussie rond California’s SB 1047, een wetsvoorstel gericht op AI-veiligheidstesten en klokkenluidersbescherming, dat uiteindelijk werd afgewezen. De webinar belicht de uitdagingen bij het opstellen van effectieve AI-wetgeving, zoals de invloed van lobbygroepen, het balanceren van concurrerende prioriteiten en het vaststellen van aansprakelijkheidskaders. Daarnaast wordt de rol van het AI Safety Institute besproken, een vrijwillig initiatief dat zich richt op AI-veiligheid door middel van testen, richtlijnen en ecosysteemontwikkeling, evenals de voortdurende zoektocht naar een balans tussen vrijwillige en verplichte regelgeving <span class="citation" data-cites="techcrunch_future_2024">(<a href="references.html#ref-techcrunch_future_2024" role="doc-biblioref">TechCrunch 2024</a>)</span>.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/OaMxVQu6F_A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="rapport-global-ai-law-and-policy-tracker" class="level3" data-number="3.1.5">
+<h3 data-number="3.1.5" class="anchored" data-anchor-id="rapport-global-ai-law-and-policy-tracker"><span class="header-section-number">3.1.5</span> Rapport: Global AI Law and Policy Tracker</h3>
+<p>Landen wereldwijd ontwikkelen wet- en regelgeving voor AI om het tempo en de diversiteit van AI-technologieën bij te benen. Hoewel er geen standaardbenadering bestaat, volgen veel jurisdicties een patroon waarin nationale strategieën of ethische richtlijnen als eerste stap dienen voordat specifieke wetgeving wordt ingevoerd. Het balanceren van innovatie en risicobeheersing blijft daarbij een grote uitdaging. Multilaterale samenwerking speelt een steeds grotere rol, met initiatieven van organisaties zoals de OECD, UNESCO en de Afrikaanse Unie, en evenementen zoals de AI Safety Summit in het Verenigd Koninkrijk. Het volgen en begrijpen van de complexe wereldwijde AI-regelgeving is een strategische prioriteit geworden, en tools zoals de IAPP AI Global Law and Policy Tracker ondersteunen professionals met inzichten, training en netwerkmogelijkheden <span class="citation" data-cites="noauthor_global_nodate">(<a href="references.html#ref-noauthor_global_nodate" role="doc-biblioref"><span>“Global <span>AI</span> <span>Law</span> and <span>Policy</span> <span>Tracker</span>”</span> n.d.</a>)</span>.</p>
+</section>
+<section id="wetgeving-eu-ai-act-noauthor_regulation_nodate." class="level3" data-number="3.1.6">
+<h3 data-number="3.1.6" class="anchored" data-anchor-id="wetgeving-eu-ai-act-noauthor_regulation_nodate."><span class="header-section-number">3.1.6</span> Wetgeving: EU AI Act <span class="citation" data-cites="noauthor_regulation_nodate">(<a href="references.html#ref-noauthor_regulation_nodate" role="doc-biblioref"><span>“Regulation - <span>EU</span> - 2024/1689 - <span>EN</span> - <span>EUR</span>-<span>Lex</span>”</span> n.d.</a>)</span>.</h3>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-dw_documentary_race_2023" class="csl-entry" role="listitem">
+DW Documentary. 2023. <span>“The Race for Artificial Intelligence - <span>Can</span> <span>Europe</span> Compete? <span></span> <span>DW</span> <span>Documentary</span>.”</span> <a href="https://www.youtube.com/watch?v=i8ljZYzn0Uc">https://www.youtube.com/watch?v=i8ljZYzn0Uc</a>.
+</div>
+<div id="ref-european_chatbot_and_conversational_ai_summit_ai_2024" class="csl-entry" role="listitem">
+European Chatbot and Conversational AI Summit. 2024. <span>“<span>AI</span> <span>ANTHROPOMORPHISM</span>: <span>PATHS</span>, <span>DANGERS</span>, <span>AND</span> <span>STRATEGIES</span> <span>MITIGATING</span> <span>COGNITIVE</span> <span>BIAS</span>.”</span> <a href="https://www.youtube.com/watch?v=nAQLQnrhKOI">https://www.youtube.com/watch?v=nAQLQnrhKOI</a>.
+</div>
+<div id="ref-noauthor_global_nodate" class="csl-entry" role="listitem">
+<span>“Global <span>AI</span> <span>Law</span> and <span>Policy</span> <span>Tracker</span>.”</span> n.d. Accessed January 27, 2025. <a href="https://iapp.org/resources/article/global-ai-legislation-tracker/">https://iapp.org/resources/article/global-ai-legislation-tracker/</a>.
+</div>
+<div id="ref-noauthor_regulation_nodate" class="csl-entry" role="listitem">
+<span>“Regulation - <span>EU</span> - 2024/1689 - <span>EN</span> - <span>EUR</span>-<span>Lex</span>.”</span> n.d. Accessed January 27, 2025. <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng">https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng</a>.
+</div>
+<div id="ref-noauthor_should_nodate" class="csl-entry" role="listitem">
+<span>“Should <span>AI</span> Systems Behave Like People? <span></span> <span>AISI</span> <span>Work</span>.”</span> n.d. Accessed January 27, 2025. <a href="https://www.aisi.gov.uk/work/should-ai-systems-behave-like-people">https://www.aisi.gov.uk/work/should-ai-systems-behave-like-people</a>.
+</div>
+<div id="ref-techcrunch_future_2024" class="csl-entry" role="listitem">
+TechCrunch. 2024. <span>“The Future of <span>AI</span> Governance, with <span>SB</span> 1047 Architect <span>Sen</span>. <span>Scott</span> <span>Wiener</span> <span></span> <span>TechCrunch</span> <span>Disrupt</span> 2024.”</span> <a href="https://www.youtube.com/watch?v=OaMxVQu6F_A">https://www.youtube.com/watch?v=OaMxVQu6F_A</a>.
+</div>
+<div id="ref-noauthor_4_nodate" class="csl-entry" role="listitem">
+<span>“The 4 <span>Degrees</span> of <span>Anthropomorphism</span> of <span>Generative</span> <span>AI</span>.”</span> n.d. <em>Nielsen Norman Group</em>. Accessed January 27, 2025. <a href="https://www.nngroup.com/articles/anthropomorphism/">https://www.nngroup.com/articles/anthropomorphism/</a>.
+</div>
+</div>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

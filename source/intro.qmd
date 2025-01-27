@@ -81,7 +81,7 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
 ![Ranking landen EU versus afzonderlijke staten in de VS [@erixon_if_nodate]](images/eur-vs-us-gdp.png){#fig-eustatesgdp}
 
 ::: callout-tip
-## Lesactiviteit 1 - Het geopolitieke schaakbord van AI: Europa en Nederland
+## Lesactiviteit - Het geopolitieke schaakbord van AI: Europa en Nederland
 
 **Doel van de sessie:** Samen onderzoeken hoe AI de geopolitieke verhoudingen in Europa en Nederland beïnvloedt. De bevindingen van deze sessie vormen de basis voor het maken van AI-roadmaps in deze Masterclass.
 
@@ -118,7 +118,7 @@ Europa's achterblijvende concurrentiepositie is duidelijk zichtbaar in de reële
 - De opgedane inzichten gebruiken voor het ontwikkelen van je eigen AI-roadmap.
 :::
 
-## Aanvullende inspiratiemateriaal
+## Aanvullend inspiratiemateriaal
 
 ### Video: Tech Titans at War: The US-China Innovation Race with Jimmy Goodrich
 
