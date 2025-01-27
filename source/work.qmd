@@ -3,3 +3,7 @@ jupyter: python3
 ---
 
 # AI: Invloed op arbeid
+
+Zie @fig-wef-job-growth
+
+![The hardst groeiende en dalende banen [@noauthor_future_nodate]](images/wef-job-growth.png){#fig-wef-job-growth}

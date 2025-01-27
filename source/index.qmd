@@ -4,7 +4,7 @@ jupyter: python3
 
 # Voorwoord {.unnumbered}
 
-Dit werkboek ondersteunt de Masterclass AI en Strategie en bevat activiteiten, inspiratiemateriaal en relevante bronnen.
+Dit werkboek dient ter ondersteunting tijdens de Masterclass en bevat activiteiten, inspiratiemateriaal en relevant naslagwerk.
 
 ## Programma
 
@@ -22,6 +22,12 @@ Dit werkboek ondersteunt de Masterclass AI en Strategie en bevat activiteiten, i
 | **7:30 - 7:45** | 15 | Vragen & discussie over de middagthema’s |
 | **7:45 - 8:00** | 15 | Samenvatting en afsluiting |
 
-## AI Roadmap
+Tijdens deze Masterclass AI gaan we in zes thema’s de belangrijkste pijlers van een AI-strategie verkennen. We beginnen (Thema 1) met de **strategische betekenis** van AI-technologie, waarbij we vooral ingaan op de **macro-economische** en **geopolitieke** effecten van AI en hoe organisaties hierop kunnen inspelen. Vervolgens (Thema 2) gaan we kijken naar de **invloed van AI op arbeid**, waarbij we stilstaan bij de veranderingen in rollen en competenties en hoe organisaties daarop kunnen anticiperen.
+
+Daarna (Thema 3) gaan we onderzoeken hoe **regelgeving en governance** rondom AI zich ontwikkelen, welke risico’s AI met zich meebrengt en hoe organisaties verantwoord kunnen blijven opereren. In (Thema 4) gaan we in op de **strategische positionering** van AI: we bespreken hoe je de rol van AI in jouw organisatie bepaalt en welke samenwerkingen en ecosystemen belangrijk zijn.
+
+Na de lunch (Thema 5) gaan we de **succesfactoren voor AI-implementatie** bespreken. We bekijken welke praktische stappen, randvoorwaarden en managementaspecten essentieel zijn om AI-projecten te laten slagen. Tot slot (Thema 6) gaan we alle inzichten vertalen naar een **concrete AI Roadmap**.  
+
+Gedurende het hele programma krijgen de deelnemers **inspiratie** en **praktische handvatten** aangereikt om hun de strategische AI Roadmap voor hun eigen organisatie verder aan te scherpen.
 
 [![Voorbeeld AI Roadmap [@noauthor_ai_nodate]](images/gartner-ai-roadmap.png)](https://www.gartner.com/en/articles/ai-roadmap){target="_blank"}

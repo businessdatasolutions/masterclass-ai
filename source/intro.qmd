@@ -4,13 +4,13 @@ jupyter: python3
 
 # Inleiding
 
-De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. De grafieken in @fig-capmarket2004 en @fig-capmarket2024 laten een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2024 de opkomst van Aziatische bedrijven onmiskenbaar.
+De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. De grafieken in @fig-capmarket2004 en @fig-capmarket2024 laten een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2024 de opkomst van Aziatische bedrijven ten koste van Europese onmiskenbaar.
 
 [![Regionale verdeling kapitaalmarkt in 2004](images/capmarket2004.png){#fig-capmarket2004}](https://datadrivendecisions.github.io/marketcap/world2004.html){target="_blank"}
 
 [![Regionale verdeling kapitaalmarkt in 2024](images/capmarket2024.png){#fig-capmarket2024}](https://datadrivendecisions.github.io/marketcap/){target="_blank"}
 
-Naast de sterk toegenomen regionale concentratie van kapitaal heeft ook binnen sectoren een verschuiving plaatsgevonden in het voordeel van technologiebedrijven. Dit markeert een significante verschuiving in economische macht en technologisch leiderschap, waarbij Europa een duidelijke positie heeft verloren: van de 50 grootste technologiebedrijven wereldwijd komen er momenteel nog maar vier uit de EU [@noauthor_eu_nodate]. Deze verschuiving is cruciaal om de geopolitieke dynamiek rondom AI te begrijpen, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovaties die door deze mondiale economische spelers worden aangedreven.
+Naast de sterk toegenomen regionale concentratie van kapitaal heeft ook binnen sectoren een verschuiving plaatsgevonden en hebben technologiebedrijven een dominante positie ingenomen. Dit markeert een significante verschuiving in economische macht en technologisch leiderschap, waarbij Europa een duidelijke positie heeft verloren: van de 50 grootste technologiebedrijven wereldwijd komen er momenteel nog maar vier uit de EU [@noauthor_eu_nodate]. Deze verschuiving is cruciaal om de geopolitieke dynamiek rondom AI te begrijpen, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovaties die door deze mondiale economische spelers worden aangedreven.
 
 :::{.column-body-outset}
 ```{python}
@@ -126,6 +126,12 @@ De podcast bespreekt de dynamiek van de technologische competitie tussen de Vere
 
 {{< video https://www.youtube.com/embed/ZbdTcKi2p7w >}}
 
-### Report: ASPI’s two-decade Critical Technology Tracker
+### Report: ASPI’s Critical Technology Tracker
 
-This report, produced by the Australian Strategic Policy Institute (ASPI), presents a significant update to their Critical Technology Tracker. The Tracker, a twenty-one-year dataset (2003-2023) focusing on high-impact research publications across 64 critical technologies, analyses global research leadership and institutional performance. A key finding highlights China's substantial gains in research leadership over the past two decades, surpassing the US in numerous crucial technology areas, particularly those with defence applications. The report explores long-term trends, assesses the risk of technological monopolies (particularly concerning China's dominance), and provides detailed analyses of specific technologies, offering insights into both national and institutional capabilities and projections for future research output. Ultimately, the report aims to inform policy and investment decisions by providing empirical data on global technological leadership and its implications[@cave_aspis_nodate].
+Deze Tracker, opgesteld door het Australian Strategic Policy Institute (ASPI), bevat een dataset over een periode van 21 jaar (2003–2023) waarin onderzoek is gedaan naar publicaties over 64 kritieke technologieën met een grote impact. De analyse richt zich op het mondiale onderzoeksleiderschap en de prestaties van verschillende instellingen.  
+
+Een van de belangrijkste bevindingen wijst op de aanzienlijke voorsprong die China de afgelopen twee decennia heeft opgebouwd op het gebied van onderzoeksleiderschap, waarmee het in veel essentiële technologieën – met name die met militaire toepassingen – de Verenigde Staten heeft ingehaald.  
+
+Het rapport onderzoekt langetermijntrends, beoordeelt het risico van technologische monopolies (vooral rond de dominantie van China) en bevat diepgaande analyses van specifieke technologieën. Hierdoor biedt het zowel nationaal als institutioneel inzicht in de huidige stand van zaken en in prognoses voor toekomstig onderzoek.  
+
+Uiteindelijk is het doel van het rapport om beleids- en investeringsbeslissingen te ondersteunen door empirische gegevens te verstrekken over het mondiale technologische leiderschap en de consequenties daarvan [@cave_aspis_nodate].
