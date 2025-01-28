@@ -2,4 +2,74 @@
 jupyter: python3
 ---
 
-# AI: Succesfacoren voor strategische implementatie
+# AI: Succesfacoren voor strategische implementatie / Roadmap
+
+Succesvol inzetten van AI vraagt méér dan technologie; het vereist een organisatiebrede visie en aanpassing van bestaande werkwijzen. In deze sessie gaan we ontdekken welke voorwaarden moeten worden geschapen op het gebied van **cultuur**, **structuur**, **systemen** en **human capital**, zodat de AI-strategie succesvol kan worden uitgevoerd.
+
+![Het dynamic-capabilities model [@noauthor_building_nodate] beschrijft hoe factoren als disruptieve concurrentie en nieuwe technologieën leiden tot een proces van ‘digital sensing’, ‘digital seizing’ en ‘digital transforming’, met als doel een vernieuwd businessmodel en cultuur.](images/dynamic-capabilities.jpg)
+
+## Cultuur, Structuur, Systemen én Human Capital
+
+1.  **Cultuur**
+    -   **Experimenteer en leer:** Creëer een veilige omgeving voor pilots en prototypes.\
+    -   **Samenwerking:** Doorbreek silo’s; laat domeinexperts en AI-specialisten elkaars krachten benutten.\
+    -   **Continue ontwikkeling:** Bied (her)scholing voor digitale en AI-vaardigheden.\
+    -   **Focus op mens + AI:** Positioneer AI als aanvulling op menselijk oordeel, niet als vervanging.
+2.  **Structuur**
+    -   **Wendbaar organiseren:** Vermijd starre hiërarchieën, werk in multidisciplinaire teams.\
+    -   **Centraliseer AI-kennis:** Richt een AI-center of excellence in om standaarden te borgen.\
+    -   **Data als ruggengraat:** Bouw een infrastructuur die schone, goed georganiseerde data garandeert.
+3.  **Systemen & Governance**
+    -   **Technologische basis:** Investeer in schaalbare AI-platforms en tooling.\
+    -   **Naadloze integratie:** Zorg dat AI-oplossingen onderdeel worden van dagelijkse processen en besluitvorming.\
+    -   **AI-governance:** Waarborg ethiek, privacy en transparantie in alle AI-toepassingen.
+4.  **Human Capital**
+    -   **Vaardigheden en upskilling:** Schenk aandacht aan het ontwikkelen van nieuwe competenties, zoals data-analyse, AI-ethiek en samenwerking tussen mens en machine.\
+    -   **Verandermanagement:** Neem medewerkers mee in het proces en zorg dat zij de toegevoegde waarde van AI begrijpen.\
+    -   **Werving en behoud:** Trek talent aan dat AI-innovaties kan vormgeven én implementeren, en stimuleer een cultuur van continue professionele groei.
+
+Het succes van AI staat of valt met de manier waarop mensen en teams ermee leren werken en hoe goed de organisatie is ingericht om van data naar besluitvorming te gaan.
+
+![De drie focusgebieden van management: exploratie, transfereren, exploitatie [@noauthor_business_nodate]](images/explore-exploit.jpeg)
+
+In deze sessie zullen we het **Business Model Portfolio** raamwerk hanteren:
+
+1.  **Explore**
+    -   **Visie formuleren:** Bepaal hoe AI bijdraagt aan de bedrijfsstrategie.\
+    -   **Kansen identificeren:** Onderzoek zowel interne capaciteiten (data, human capital) als externe markttrends.
+2.  **Transfer**
+    -   **AI-capaciteiten ontwikkelen:** Bouw prototypes, leg AI-standaarden vast en form de juiste teams.\
+    -   **Klantwaarde en winst verhogen:** Gebruik AI om waardeproposities te verbeteren en operationele kosten te verlagen.
+3.  **Exploit**
+    -   **Integratie in workflows:** Zorg dat AI-oplossingen onderdeel worden van dagelijkse processen en besluitvorming.\
+    -   **Schaalbaarheid en optimalisatie:** Borg de governance en blijf continu verbeteren om AI op grotere schaal te benutten.
+
+Door deze fasen systematisch te doorlopen, leert u niet alleen nieuwe AI-initiatieven op te zetten, maar deze ook succesvol te verankeren in uw organisatie.
+
+## Aanvullend inspiratiemateriaal
+
+### Artikel: Investigating the influence of artificial intelligence on business value in the digital era of strategy.
+
+Dit artikel uit 2023 van Perifanis en Kitsios is een systematische literatuurstudie naar de invloed van kunstmatige intelligentie (AI) op de bedrijfswaarde in het kader van digitale transformatie. De auteurs benadrukken hoe de integratie van AI-capaciteiten met bedrijfs- en IT-strategieën essentieel is om betere resultaten te behalen en digitale transformatieactiviteiten op elkaar af te stemmen. Een kernonderwerp daarbij is ‘AI-ambidexteriteit’: het tegelijkertijd inzetten van zowel routinematige als innovatieve AI-toepassingen als motor voor strategische flexibiliteit. Het onderzoek richt zich erop te begrijpen hoe organisaties AI effectief kunnen inzetten om hun strategische wendbaarheid te vergroten en substantiële bedrijfsvoordelen te realiseren, met bijzondere aandacht voor de rol van verantwoord AI-beheer [@perifanis2023investigating].
+
+### Rapport: Where’s the Value in AI?
+
+Deze bron is waardevol omdat ze rechtstreeks ingaat op de vraag waar AI waarde kan opleveren—iets wat onmisbaar is voor elke AI-strategie. De publicatie wijst erop dat veel organisaties vastlopen in de proof-of-conceptfase en biedt inzichten in hoe AI-koplopers écht waarde uit de technologie halen. De rapportage heeft een praktische insteek, benoemt waar andere bedrijven tekortschieten en geeft suggesties voor verbetering van AI-trajecten. Voor een Masterclass is dit document uitermate geschikt, omdat het een praktische benadering van AI-implementatie geeft met nadruk op waardecreatie [@noauthor_wheres_2024].
+
+### Video: Developing a Gen AI Strategy for your Company
+
+In deze webinar wordt besproken hoe AI-capaciteiten praktisch binnen een bedrijf kunnen worden geïntegreerd. Zo komen de inzet van beeldgeneratie en spraakherkenning aan bod en wordt duidelijk hoe deze tools bedrijfsprocessen kunnen verbeteren. De transcriptie bespreekt ook een bedrijf dat gepersonaliseerde diensten aanbiedt met behulp van AI, wat goed illustreert hoe AI kan bijdragen aan een betere klantervaring. Daarnaast gaat het in op de manier waarop een organisatie AI-native kan worden, in plaats van AI simpelweg toe te passen op bestaande processen. Daarmee biedt deze bron een actueel en praktisch voorbeeld van hoe een organisatie een generatieve AI-strategie kan opstellen. [@digital_data_design_institute_at_harvard_developing_2023].
+
+{{< video https://www.youtube.com/embed/yKi5saVdZ50 >}}
+
+### Video: Common business use cases for generative AI
+
+In deze video verkennen experts een aantal praktische toepassingen van generatieve AI in het bedrijfsleven. Ze bespreken use-cases zoals productcatalogisering en klantenservice, en laten zien hoe AI kan worden ingezet om concrete zakelijke uitdagingen op te lossen. De voordelen van samenvattingsfuncties en het belang van experimenteren met AI worden hierbij benadrukt. Daarnaast worden inzichten gedeeld wat betreft de technische aspecten en vereisten voor het implementeren van generatieve AI [@google_cloud_common_2023].
+
+{{< video https://www.youtube.com/embed/c4dwJlTzgdI >}}
+
+### Video: Never just tech - Unlocking the full value of gen AI
+
+Onderzoek van McKinsey schat dat generatieve AI (gen AI) jaarlijks tot 4,4 biljoen dollar kan bijdragen aan de wereldeconomie. In uiteenlopende sectoren en functies zou gen AI kunnen worden ingezet om bureaucratische processen te verkorten, klantreizen te verbeteren en het proces van coderen en contentcreatie te versnellen. Tijdens een recente editie van McKinsey Live bespraken partner Jessica Lamb en senior partner Gayatri Shenai de potentie van gen AI, de uitdagingen die ermee gepaard gaan en gaven zij bestuurders advies over de integratie van gen AI in hun organisaties. [@mckinsey__company_never_2024].
+
+{{< video https://www.youtube.com/embed/g4TILHS49tk >}}

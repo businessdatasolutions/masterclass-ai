@@ -6,10 +6,31 @@ jupyter: python3
 
 Dit werkboek dient ter ondersteunting tijdens de Masterclass en bevat activiteiten, inspiratiemateriaal en relevant naslagwerk.
 
+Voor toegang scan de onderstaande code of ga naar: [tinyurl.com/masterclass-ai-strategy](https://tinyurl.com/masterclass-ai-strategy)
+
+## Voorbereiding
+
+Tijdens de masterclass ga je aan de slag met het vraagstuk hoe AI een bijdrage kan leveren aan de strategie van jouw organisatie. Je gaat tijdens de dag dan ook toewerken naar een roadmap richting die stip op de horizon. Mogelijk zijn er al initiatieven rond AI binnen je organisatie gaande of zijn er al concrete ideeën voor toepassingen. Goed om voor de masterclass stil te staan waar je organisatie nu staat, wat er al is, zodat je dat als input kunt meenemen tijdens de dag.
+
+De vragen die je jezelf kan stellen:
+
+Huidige rol van AI:
+
+-   **Welke AI-toepassingen worden al gebruikt in jouw organisatie? (bijvoorbeeld chatbots, data-analyse, automatisering)**
+-   **In welke afdelingen of processen speelt AI een rol?**
+
+Kansen en mogelijkheden:
+
+-   **Welke processen of activiteiten zouden kunnen profiteren van generatieve AI? (bijvoorbeeld contentcreatie, klantinteracties, innovaties)**
+
+-   **Hoe kan generatieve AI bijdragen aan strategische doelen of concurrentievoordeel?**
+
+Schrijf voor jezelf jouw antwoorden op en neem ze mee naar de masterclass. Zo ben je beter voorbereid en haal je meer uit de dag!
+
 ## Programma
 
 | **Tijd** | **Duur (min)** | **Onderdeel** |
-|--------------|--------------|--------------------------------------------|
+|-----------------|-----------------|--------------------------------------|
 | **0:00 - 0:15** | 15 | Welkom & Introductie |
 | **0:15 - 1:00** | 45 | **Thema 1:** Strategische betekenis van AI-technologie |
 | **1:00 - 1:45** | 45 | **Thema 2:** AI: Invloed op arbeid |
@@ -26,8 +47,8 @@ Tijdens deze Masterclass AI gaan we in zes thema’s de belangrijkste pijlers va
 
 Daarna (Thema 3) gaan we onderzoeken hoe **regelgeving en governance** rondom AI zich ontwikkelen, welke risico’s AI met zich meebrengt en hoe organisaties verantwoord kunnen blijven opereren. In (Thema 4) gaan we in op de **strategische positionering** van AI: we bespreken hoe je de rol van AI in jouw organisatie bepaalt en welke samenwerkingen en ecosystemen belangrijk zijn.
 
-Na de lunch (Thema 5) gaan we de **succesfactoren voor AI-implementatie** bespreken. We bekijken welke praktische stappen, randvoorwaarden en managementaspecten essentieel zijn om AI-projecten te laten slagen. Tot slot (Thema 6) gaan we alle inzichten vertalen naar een **concrete AI Roadmap**.  
+Na de lunch (Thema 5) gaan we de **succesfactoren voor AI-implementatie** bespreken. We bekijken welke praktische stappen, randvoorwaarden en managementaspecten essentieel zijn om AI-projecten te laten slagen. Tot slot (Thema 6) gaan we alle inzichten vertalen naar een **concrete AI Roadmap**.
 
 Gedurende het hele programma krijgen de deelnemers **inspiratie** en **praktische handvatten** aangereikt om hun de strategische AI Roadmap voor hun eigen organisatie verder aan te scherpen.
 
-[![Voorbeeld AI Roadmap [@noauthor_ai_nodate]](images/gartner-ai-roadmap.png)](https://www.gartner.com/en/articles/ai-roadmap){target="_blank"}
+[![Voorbeeld AI Roadmap](images/gartner-ai-roadmap.png)](https://www.gartner.com/en/articles/ai-roadmap)

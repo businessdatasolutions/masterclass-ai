@@ -8,7 +8,7 @@ jupyter: python3
 
 Zoals eerder besproken, ontwikkelt AI zich razendsnel, wat de dringende noodzaak met zich meebrengt van solide regelgevende kaders en governance-structuren. Maar hoe reguleren we effectief iets dat we, vaak onbewust, vanuit een menselijk perspectief bekijken? Dit brengt ons bij het concept van **antropomorfisme**, de neiging om menselijke eigenschappen toe te kennen aan niet-menselijke entiteiten. Dit zien we bijvoorbeeld in onze interacties met AI, waarbij we intenties of begrip toeschrijven die feitelijk niet aanwezig zijn.
 
-![Degrees of anthropomorphism [@noauthor_4_nodate]](images/anthropomorphism.png){#fig-anthropomorphism}
+![Niveau's van antropomorfisme [@noauthor_4_nodate]](images/anthropomorphism.png){#fig-anthropomorphism}
 
 Deze neiging tot antropomorfisme beïnvloedt hoe we AI ontwerpen, waarnemen en reguleren. Het gaat niet alleen om de technische capaciteiten van AI-systemen, maar ook om hoe wij, als mensen, ermee omgaan en hoe zij ons beïnvloeden. Dit maakt het ontwikkelen van effectieve governance bijzonder uitdagend, omdat onze percepties van AI een rol spelen bij het definiëren van risico's en het implementeren van waarborgen.
 
