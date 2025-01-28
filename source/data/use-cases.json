@@ -4,7 +4,7 @@
         "Sector": "Technology",
         "Use case name": "Microsoft 365 Copilot",
         "Use case description": "AI tool that automates repetitive tasks such as checking emails and taking notes during meetings, enhancing productivity.",
-        "Sources": "https://www.plainconcepts.com/ai-trends-2025/",
+        "Sources": "https://youtu.be/rc-fc7pT9nw?si=rAc7YseCTkfIT53W",
         "Value factors": ["Productivity Gain", "Quality Improvement"]
     },
     {
@@ -12,7 +12,7 @@
         "Sector": "Aviation",
         "Use case name": "AI Chatbot",
         "Use case description": "Chatbot on Facebook Messenger providing instant customer support and answering queries.",
-        "Sources": "https://www.binmile.com/blog/ai-business-trends-of-top-industries/",
+        "Sources": "https://youtu.be/PGLASey3MAE?si=bG9tBOIqkOVs2ALF",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
@@ -20,7 +20,7 @@
         "Sector": "Logistics",
         "Use case name": "ORION",
         "Use case description": "AI-powered logistics platform optimizing delivery routes and improving efficiency.",
-        "Sources": "https://www.thestrategyinstitute.org/insights/the-role-of-ai-in-business-strategies-for-2025-and-beyond",
+        "Sources": "https://cdotimes.com/2025/01/06/ups-and-agentic-ai-a-case-study-in-logistics-innovation/",
         "Value factors": ["Productivity Gain", "Quality Improvement"]
     },
     {
@@ -28,31 +28,31 @@
         "Sector": "Beverages",
         "Use case name": "AI-assisted Design",
         "Use case description": "Using AI to synthesize customer feedback for product development.",
-        "Sources": "https://www.prismetric.com/ai-business-ideas/",
+        "Sources": "https://www.coca-colacompany.com/media-center/coca-cola-creations-imagines-year-3000-futuristic-flavor-ai-powered-experience",
         "Value factors": ["Innovation", "Customer Value Enhancement"]
     },
     {
-        "Company": "Various",
+        "Company": "Intercom",
         "Sector": "Customer Service",
         "Use case name": "AI-powered Chatbots",
         "Use case description": "AI systems providing 24/7 support and instant responses to customer inquiries.",
-        "Sources": "https://www.ssbm.ch/artificial-intelligence-applications-in-2025-transforming-industries-and-lives/",
+        "Sources": "https://youtu.be/yzdzJF4KcVo?si=MXuf558abLvXbRsr",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
-        "Company": "Bloomreach",
-        "Sector": "Travel",
-        "Use case name": "Personalized Customer Touchpoints",
-        "Use case description": "Cloud-based software personalizing customer experiences in the travel industry.",
-        "Sources": "https://www.synthesia.io/post/generative-ai-examples",
-        "Value factors": ["Customer Value Enhancement", "Innovation"]
+        "Company": "Runway",
+        "Sector": "Creative Industries",
+        "Use case name": "Audiovisual Content Creation",
+        "Use case description": "AI Technology applications to audiovisual content generation.",
+        "Sources": "https://runwayml.com/product/use-cases",
+        "Value factors": ["Productivity Gain", "Innovation"]
     },
     {
-        "Company": "Yooz",
+        "Company": "Stripe",
         "Sector": "Finance",
         "Use case name": "Automated Invoice Processing",
         "Use case description": "AI solution assisting in managing invoices and streamlining workflows.",
-        "Sources": "https://iot.eetimes.com/ai-in-2025-how-artificial-intelligence-will-shape-business-industry-and-everyday-life/",
+        "Sources": "https://stripe.com/nl/resources/more/automated-invoice-processing-101-a-guide-for-businesses#how-does-automated-invoice-processing-work",
         "Value factors": ["Productivity Gain", "Quality Improvement"]
     },
     {
@@ -60,7 +60,7 @@
         "Sector": "Customer Relationship Management",
         "Use case name": "Agentforce 2.0",
         "Use case description": "Next-generation AI-powered customer support solution that combines AI, automation, and human interaction. It includes new CRM skills for lead nurturing, the ability to join prospecting calls, and integration with Slack for seamless collaboration.",
-        "Sources": "https://www.intigris.nl/blog-posts/what-to-expect-from-salesforce-in-2025",
+        "Sources": "https://youtu.be/vwgmBsMSwmo?si=TdALcGH1-N0T-l2c",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain", "Innovation"]
     },
     {
@@ -68,7 +68,7 @@
         "Sector": "Technology",
         "Use case name": "Operator",
         "Use case description": "An AI agent capable of automating tasks such as purchasing groceries and filing expense reports, enhancing personal and professional productivity.",
-        "Sources": "https://www.wsj.com/articles/openais-operator-agent-can-buy-groceries-file-expense-reports-030c30c0",
+        "Sources": "https://youtu.be/vwgmBsMSwmo?si=TdALcGH1-N0T-l2c",
         "Value factors": ["Productivity Gain", "Innovation"]
     },
     {
@@ -76,7 +76,7 @@
         "Sector": "Beauty",
         "Use case name": "AI-Driven Personalization",
         "Use case description": "Utilizing AI to provide hyper-personalized beauty product recommendations, improving customer engagement and satisfaction.",
-        "Sources": "https://www.voguebusiness.com/story/beauty/what-if-robots-ran-the-beauty-industry",
+        "Sources": "https://youtu.be/kfRGxkllF5M?si=LYRMjpdhXg5SZRIG",
         "Value factors": ["Customer Value Enhancement", "Innovation"]
     },
     {
@@ -84,23 +84,23 @@
         "Sector": "Web Services",
         "Use case name": "GoDaddy Airo",
         "Use case description": "An AI-powered tool designed to assist small businesses in enhancing their online presence and operations.",
-        "Sources": "https://people.com/slug-placeholder-8778792",
+        "Sources": "https://youtu.be/3ovP7r04NQE?si=9kokvbhKmqoadDLn",
         "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
     },
     {
-        "Company": "Sainsbury's",
+        "Company": "Wallmart",
         "Sector": "Retail",
         "Use case name": "AI-Enhanced Operations",
         "Use case description": "Implementing AI to optimize stock management and customer interactions, thereby improving operational efficiency.",
-        "Sources": "https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs",
+        "Sources": "https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/walmarts-ai-powered-inventory-system-brightens-the-holidays.html?utm_source=chatgpt.com",
         "Value factors": ["Productivity Gain", "Quality Improvement"]
     },
     {
         "Company": "Commonwealth Bank of Australia",
         "Sector": "Finance",
         "Use case name": "AI-Powered Customer Service",
-        "Use case description": "Employing AI to triage customer inquiries and provide personalized assistance, enhancing customer experience.",
-        "Sources": "https://www.theaustralian.com.au/business/corporate-chiefs-back-artificial-intelligence-as-means-to-boost-their-operations/news-story/89990d859c157c7f37c78b9dd78fd8a2",
+        "Use case description": "Improving customer outcomes and experiences.",
+        "Sources": "https://youtu.be/92IYENgVQmQ?si=ZYIQn2SMW3TbQGyb",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
@@ -108,7 +108,7 @@
         "Sector": "Real Estate",
         "Use case name": "AI-Powered Digital Marketing Platform",
         "Use case description": "Provides real estate professionals with an AI-driven platform that targets and converts leads using property ads, enhancing client engagement.",
-        "Sources": "https://builtin.com/artificial-intelligence/artificial-intelligence-in-business",
+        "Sources": "https://youtu.be/Kmx4qhYLerY?si=CPzpTO3dwUzESJS-",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
@@ -116,7 +116,7 @@
         "Sector": "E-commerce",
         "Use case name": "Personalized Shopping Experience",
         "Use case description": "Utilizes AI to analyze customer behavior and preferences, delivering personalized product recommendations to enhance the shopping experience.",
-        "Sources": "https://www.datacamp.com/blog/examples-of-ai",
+        "Sources": "https://www.aboutamazon.eu/news/retail/amazon-announces-the-launch-of-rufus-a-new-generative-ai-powered-conversational-shopping-assistant-in-beta-across-europe",
         "Value factors": ["Customer Value Enhancement", "Innovation"]
     },
     {
@@ -124,23 +124,23 @@
         "Sector": "Telecommunications",
         "Use case name": "AI-Enhanced Customer Service",
         "Use case description": "Employs AI to optimize customer service interactions and manage network operations more efficiently.",
-        "Sources": "https://www.theaustralian.com.au/business/corporate-chiefs-back-artificial-intelligence-as-means-to-boost-their-operations/news-story/89990d859c157c7f37c78b9dd78fd8a2",
+        "Sources": "https://www.telstra.com.au/aboutus/media/media-releases/telstra-scales-up-ai-adoption",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
-        "Company": "Bunnings",
+        "Company": "Amazon Go",
         "Sector": "Retail",
         "Use case name": "AI-Enabled In-Store Assistance",
-        "Use case description": "Utilizes AI-enabled headsets to provide staff with real-time product information, improving customer assistance.",
-        "Sources": "https://www.theaustralian.com.au/business/corporate-chiefs-back-artificial-intelligence-as-means-to-boost-their-operations/news-story/89990d859c157c7f37c78b9dd78fd8a2",
+        "Use case description": "Just Walk Out shopping experience powered by AI, enabling customers to shop without checkout lines or cashiers.",
+        "Sources": "https://youtu.be/uvlJvqwNGuc?si=oI_bksHwv7MFQybq",
         "Value factors": ["Customer Value Enhancement", "Productivity Gain"]
     },
     {
-        "Company": "National Australia Bank",
-        "Sector": "Finance",
-        "Use case name": "AI in Coding and Marketing",
-        "Use case description": "Integrates AI tools to streamline coding processes and create marketing content, enhancing productivity.",
-        "Sources": "https://www.theaustralian.com.au/business/corporate-chiefs-back-artificial-intelligence-as-means-to-boost-their-operations/news-story/89990d859c157c7f37c78b9dd78fd8a2",
+        "Company": "Cursor",
+        "Sector": "Software Development",
+        "Use case name": "Programming",
+        "Use case description": "AI-powered coding assistants that integrate with development environments.",
+        "Sources": "https://youtu.be/tw9GyD0Zkiw?si=aTLYRlUiBBupmBRB",
         "Value factors": ["Productivity Gain", "Innovation"]
     },
     {
@@ -148,7 +148,7 @@
         "Sector": "Mining",
         "Use case name": "AI for Operational Efficiency",
         "Use case description": "Applies AI to improve safety, efficiency, and sustainability in mining operations.",
-        "Sources": "https://www.theaustralian.com.au/business/corporate-chiefs-back-artificial-intelligence-as-means-to-boost-their-operations/news-story/89990d859c157c7f37c78b9dd78fd8a2",
+        "Sources": "https://www.bhp.com/news/bhp-insights/2024/08/artificial-intelligence-is-unearthing-a-smarter-future",
         "Value factors": ["Productivity Gain", "Quality Improvement", "Innovation"]
     }
 ]

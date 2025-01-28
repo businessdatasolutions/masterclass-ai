@@ -58,7 +58,66 @@ Stap voor stap een AI-roadmap ontwikkelen, gebaseerd op de fasen *Explore, Trans
 
 1.  **Introductie (5 minuten)**
     -   Uitleg van de *Explore → Transfer → Exploit*-aanpak.\
-    -   Voorbeelden benoemen van AI-projecten die deze route succesvol hebben doorlopen.
+    -   Voorbeelden van AI use cases.
+```{python}
+#| echo: false
+import json
+import pandas as pd
+from IPython.display import display, HTML
+
+# 1) Load the JSON data
+json_file_path = "data/use-cases.json"  # <-- Replace with your actual file path
+with open(json_file_path, "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+# 2) Collect unique Sectors and Value Factors
+sectors = sorted({item["Sector"] for item in data})
+
+all_factors = set()
+for item in data:
+    # Each use case can have multiple value factors
+    all_factors.update(item["Value factors"])
+value_factors = sorted(all_factors)
+
+# 3) Prepare a structure to hold the matrix data
+#    We'll store lists of hyperlinks (strings) in each (Sector, Value Factor) cell
+matrix = {
+    sector: {factor: [] for factor in value_factors}
+    for sector in sectors
+}
+
+# 4) Populate the matrix
+for item in data:
+    sector = item["Sector"]
+    company = item["Company"]
+    name = item["Use case name"]
+    link_url = item["Sources"]
+    
+    # Create a clickable link that opens in a new tab
+    # Example: <a href="..." target="_blank">Link Text</a>
+    hyperlink = f'{company}:  <a href="{link_url}" target="_blank">{name}</a>'
+    
+    # For each value factor in this use case, add the hyperlink
+    for vf in item["Value factors"]:
+        matrix[sector][vf].append(hyperlink)
+
+# 5) Convert to a DataFrame
+df = pd.DataFrame(index=sectors, columns=value_factors)
+
+# 6) For each cell, join multiple hyperlinks (if any) with a line break
+for s in sectors:
+    for vf in value_factors:
+        if matrix[s][vf]:
+            df.loc[s, vf] = "<br>".join(matrix[s][vf])
+        else:
+            df.loc[s, vf] = ""  # No use cases for this combination
+
+# 7) Render as an HTML table with hyperlinks
+#    Using escape=False allows HTML links to render properly in the notebook
+html_table = df.to_html(escape=False)
+display(HTML(html_table))
+```
+    
 2.  **Station 1: Explore (15 minuten)**
     -   Deelnemers vormen kleine groepjes (3-4 personen).\
     -   Identificeer 2-3 AI-kansen (use-cases) die aansluiten bij de organisatiedoelen. Denk aan gebruik van data, klantbehoeften of markttrends.\

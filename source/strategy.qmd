@@ -46,7 +46,7 @@ Jullie gaan de huidige strategie van jullie organisatie opnieuw onder de loep ne
 
 ------------------------------------------------------------------------
 
-### Werkwijze {.unnumbered}
+**Werkwijze**
 
 1.  **Inleiding en kader (5 minuten)**
     -   Bespreek samen kort de belangrijkste AI-thema’s die eerder tijdens de Masterclass aan bod zijn gekomen (bijv. macro-economie, geopolitiek, de aard en organisatie van werk).\
@@ -73,7 +73,7 @@ Jullie gaan de huidige strategie van jullie organisatie opnieuw onder de loep ne
 
 ------------------------------------------------------------------------
 
-### Tips voor jullie bespreking {.unnumbered}
+**Tips voor jullie bespreking**
 
 -   **Voer een open en constructieve discussie**: Beschouw verschillen van inzicht als een kans om te leren.\
 -   **Focus op de logica**: Vraag steeds door naar het ‘waarom’ achter jullie keuzes.\
@@ -81,7 +81,7 @@ Jullie gaan de huidige strategie van jullie organisatie opnieuw onder de loep ne
 
 ------------------------------------------------------------------------
 
-### Wat levert het op? {.unnumbered}
+**Wat levert het op?**
 
 -   Je krijgt een beter beeld van hoe AI je huidige strategie (mogelijk) beïnvloedt.\
 -   Je ontdekt of er aannames zijn die niet langer houdbaar zijn in het AI-tijdperk.\

@@ -4,20 +4,18 @@ jupyter: python3
 
 # AI: Regelgeving en governance
 
-**Introductie: Thema 3 – AI: Regelgeving en Governance**
-
 Zoals eerder besproken, ontwikkelt AI zich razendsnel, wat de dringende noodzaak met zich meebrengt van solide regelgevende kaders en governance-structuren. Maar hoe reguleren we effectief iets dat we, vaak onbewust, vanuit een menselijk perspectief bekijken? Dit brengt ons bij het concept van **antropomorfisme**, de neiging om menselijke eigenschappen toe te kennen aan niet-menselijke entiteiten. Dit zien we bijvoorbeeld in onze interacties met AI, waarbij we intenties of begrip toeschrijven die feitelijk niet aanwezig zijn.
 
 ![Niveau's van antropomorfisme [@noauthor_4_nodate]](images/anthropomorphism.png){#fig-anthropomorphism}
 
 Deze neiging tot antropomorfisme beïnvloedt hoe we AI ontwerpen, waarnemen en reguleren. Het gaat niet alleen om de technische capaciteiten van AI-systemen, maar ook om hoe wij, als mensen, ermee omgaan en hoe zij ons beïnvloeden. Dit maakt het ontwikkelen van effectieve governance bijzonder uitdagend, omdat onze percepties van AI een rol spelen bij het definiëren van risico's en het implementeren van waarborgen.
 
-Enkele voorbeelden van regelgeving en governance wereldwijd:  
-- **De EU AI Act** hanteert een risicogebaseerde aanpak, waarbij AI-systemen worden gecategoriseerd en verschillende eisen worden gesteld aan hoogrisico-systemen. Er wordt tevens gewerkt aan een gedragscode voor algemene AI-systemen. Dit kader is een poging om een uniforme juridische aanpak te creëren die van toepassing is op alle aanbieders en gebruikers van AI-systemen op de EU-markt.  
-- **De Verenigde Staten** beschikken niet over een allesomvattende AI-wet, maar passen bestaande regelgeving, zoals die rond consumentenbescherming en anti-discriminatie, toe op AI-technologieën. De VS richt zich sterk op het stimuleren van innovatie, het aanpassen van bestaande regels en intensieve informatieverzameling over AI-modellen. Het US AI Safety Institute werkt samen met bedrijven aan het beperken van risico’s en het ontwikkelen van best practices.  
+Enkele voorbeelden van regelgeving en governance wereldwijd:\
+- **De EU AI Act** hanteert een risicogebaseerde aanpak, waarbij AI-systemen worden gecategoriseerd en verschillende eisen worden gesteld aan hoogrisico-systemen. Er wordt tevens gewerkt aan een gedragscode voor algemene AI-systemen. Dit kader is een poging om een uniforme juridische aanpak te creëren die van toepassing is op alle aanbieders en gebruikers van AI-systemen op de EU-markt.\
+- **De Verenigde Staten** beschikken niet over een allesomvattende AI-wet, maar passen bestaande regelgeving, zoals die rond consumentenbescherming en anti-discriminatie, toe op AI-technologieën. De VS richt zich sterk op het stimuleren van innovatie, het aanpassen van bestaande regels en intensieve informatieverzameling over AI-modellen. Het US AI Safety Institute werkt samen met bedrijven aan het beperken van risico’s en het ontwikkelen van best practices.\
 - **Mondiaal** zijn er eveneens veel initiatieven op het gebied van AI-governance. Landen nemen ethische principes en richtlijnen over, zoals die van de OECD en UNESCO. Daarnaast ontwikkelen veel landen nationale strategieën gericht op onderzoek, training en samenwerking rondom AI.
 
-In deze sessie duiken we in de complexiteit van AI-governance. We onderzoeken hoe regelgeving wordt ontwikkeld, welke uitdagingen daarbij komen kijken, en hoe we ervoor kunnen zorgen dat deze regels geschikt zijn voor een tijdperk waarin AI steeds geavanceerder – en soms ten onrechte als ‘menselijk’ – wordt waargenomen.  
+In deze sessie duiken we in de complexiteit van AI-governance. We onderzoeken hoe regelgeving wordt ontwikkeld, welke uitdagingen daarbij komen kijken, en hoe we ervoor kunnen zorgen dat deze regels geschikt zijn voor een tijdperk waarin AI steeds geavanceerder – en soms ten onrechte als ‘menselijk’ – wordt waargenomen.
 
 Deze introductie benadrukt het belang van het herkennen van onze menselijke vooroordelen bij het reguleren van AI en vormt het vertrekpunt voor een discussie over de verschillende aanpakken die wereldwijd worden gehanteerd en hun mogelijke impact.
 
@@ -26,23 +24,25 @@ Deze introductie benadrukt het belang van het herkennen van onze menselijke voor
 
 Deze [test](https://businessdatasolutions.github.io/ai-attitudes/){target="_blank"} stelt je vragen over hoe jij denkt dat AI-systemen zich zouden moeten gedragen, vooral als het gaat om het hebben van menselijke trekken. Volg de onderstaande instructies om aan de test deel te nemen:
 
-1. **Start de test:**  
-   Zodra je op de **"Nieuw vraag"**-knop klikt, verschijnt er een willekeurige vraag. Deze vraag gaat over een specifiek thema, zoals transparantie, mentaal bewustzijn, mens-AI-relaties, omgangsvormen of verantwoordelijkheid.
+1.  **Start de test:**\
+    Zodra je op de **"Nieuw vraag"**-knop klikt, verschijnt er een willekeurige vraag. Deze vraag gaat over een specifiek thema, zoals transparantie, mentaal bewustzijn, mens-AI-relaties, omgangsvormen of verantwoordelijkheid.
 
-2. **Lees het thema en de vraag:**  
-   - Het **thema** geeft aan welk aspect van AI wordt behandeld.  
-   - De **vraag** laat je reflecteren op een situatie of principe dat verband houdt met AI en menselijke trekken.
+2.  **Lees het thema en de vraag:**
 
-3. **Overweeg je mening:**  
-   Denk na over je antwoord. Er zijn geen juiste of foute antwoorden; het gaat om jouw perspectief.
+    -   Het **thema** geeft aan welk aspect van AI wordt behandeld.\
+    -   De **vraag** laat je reflecteren op een situatie of principe dat verband houdt met AI en menselijke trekken.
 
-4. **Volgende vraag:**  
-   Klik opnieuw op de knop om een nieuwe vraag te bekijken. Elke vraag is willekeurig en biedt je de kans om na te denken over een ander aspect van AI.
+3.  **Overweeg je mening:**\
+    Denk na over je antwoord. Er zijn geen juiste of foute antwoorden; het gaat om jouw perspectief.
 
-5. **Herhaal het proces:**  
-   Beantwoord zoveel vragen als je wilt of nodig is.
+4.  **Volgende vraag:**\
+    Klik opnieuw op de knop om een nieuwe vraag te bekijken. Elke vraag is willekeurig en biedt je de kans om na te denken over een ander aspect van AI.
+
+5.  **Herhaal het proces:**\
+    Beantwoord zoveel vragen als je wilt of nodig is.
 
 ### Doel van de test {.unnumbered}
+
 Deze test helpt inzicht te krijgen in hoe jij en anderen denken over AI-systemen en hun rol in menselijke interacties. De resultaten kunnen bijdragen aan discussies over de ethiek, regelgeving en het ontwerp van AI.
 :::
 
@@ -56,7 +56,7 @@ Jullie gaan in deze activiteit nadenken over hoe een effectief kader voor AI-reg
 
 ------------------------------------------------------------------------
 
-### Werkwijze {.unnumbered}
+**Werkwijze**
 
 1.  **Introductie (5 minuten)**
     -   In deze activiteit ontwerpen jullie een kader voor AI-regelgeving dat zowel innovatie stimuleert als ethische normen handhaaft.\
@@ -93,7 +93,7 @@ Deze blogpost van het UK AI Safety Institute bespreekt een enquête naar publiek
 
 ### Video: AI Anthropomorphism - Paths, Dangers, and Strategies Mitigating Cognitive Bias
 
-Onze perceptie van AI wordt sterk beïnvloed door onze neiging tot **antropomorfisme**: het toekennen van menselijke eigenschappen aan technologie. Hoewel dit instinct ons kan helpen complexe systemen te begrijpen, kan het ook leiden tot misvattingen, zeker bij geavanceerde AI zoals GPT-4 en levensechte avatars.  
+Onze perceptie van AI wordt sterk beïnvloed door onze neiging tot **antropomorfisme**: het toekennen van menselijke eigenschappen aan technologie. Hoewel dit instinct ons kan helpen complexe systemen te begrijpen, kan het ook leiden tot misvattingen, zeker bij geavanceerde AI zoals GPT-4 en levensechte avatars.
 
 In deze sessie bespreekt Fausto Albers hoe technologiebedrijven deze menselijke neiging bewust benutten, waardoor het steeds moeilijker wordt om werkelijkheid en illusie te onderscheiden. Tegelijkertijd benadrukt hij het belang van een realistischer begrip van AI, niet alleen door technische kennis, maar ook door inzicht in onze eigen cognitieve processen. Dit bewustzijn is essentieel om de maatschappelijke impact en beperkingen van AI beter te begrijpen [@european_chatbot_and_conversational_ai_summit_ai_2024]?
 
