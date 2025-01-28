@@ -6,7 +6,7 @@ jupyter: python3
 
 Dit werkboek dient ter ondersteunting tijdens de Masterclass en bevat activiteiten, inspiratiemateriaal en relevant naslagwerk.
 
-Voor toegang scan de onderstaande code of ga naar: [tinyurl.com/masterclass-ai-strategy](https://tinyurl.com/masterclass-ai-strategy)
+Voor toegang scan de onderstaande code of ga naar: [businessdatasolutions.github.io/masterclass-ai/book/](https://businessdatasolutions.github.io/masterclass-ai/book/){target="_blank"}
 
 ## Leeruitkomsten
 
@@ -40,7 +40,7 @@ Schrijf voor jezelf jouw antwoorden op en neem ze mee naar de masterclass. Zo be
 ## Programma
 
 | **Tijd** | **Duur (min)** | **Onderdeel** |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **0:00 - 0:15** | 15 | Welkom & Introductie |
 | **0:15 - 1:00** | 45 | **Thema 1:** Strategische betekenis van AI-technologie |
 | **1:00 - 1:45** | 45 | **Thema 2:** AI: Invloed op arbeid |
