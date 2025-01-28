@@ -49,118 +49,107 @@ Door deze fasen systematisch te doorlopen, leert u niet alleen nieuwe AI-initiat
 ::: callout-tip
 ## Lesactiviteit 1 – “From Explore to Exploit”–Roadmap Lab
 
-**Doel van de sessie:**  
+**Doel van de sessie:**\
 Stap voor stap een AI-roadmap ontwikkelen, gebaseerd op de fasen *Explore, Transfer, Exploit*. Deelnemers maken voor hun eigen organisatie een eerste opzet van een end-to-end AI-strategie.
 
 **Tijd:** 60 minuten
 
 **Werkwijze:**
 
-1. **Introductie (5 minuten)**  
-   -  Uitleg van de *Explore → Transfer → Exploit*-aanpak.  
-   -  Voorbeelden benoemen van AI-projecten die deze route succesvol hebben doorlopen.
+1.  **Introductie (5 minuten)**
+    -   Uitleg van de *Explore → Transfer → Exploit*-aanpak.\
+    -   Voorbeelden benoemen van AI-projecten die deze route succesvol hebben doorlopen.
+2.  **Station 1: Explore (15 minuten)**
+    -   Deelnemers vormen kleine groepjes (3-4 personen).\
+    -   Identificeer 2-3 AI-kansen (use-cases) die aansluiten bij de organisatiedoelen. Denk aan gebruik van data, klantbehoeften of markttrends.\
+    -   Noteer kort de businesswaarden en beoogde impact: *Waarmee kunnen we het meeste verschil maken?*
+3.  **Station 2: Transfer (15 minuten)**
+    -   Schuif door naar de volgende tafel of flip-over.\
+    -   Per use-case: wat is nodig om van concept naar werkende AI-oplossing te gaan?\
+    -   *Teams en middelen:* Welke expertises zijn vereist? Hoe vorm je de juiste multidisciplinaire teams?\
+    -   *Prototypes:* Welke MVP’s/proofs of concept kun je snel testen?\
+    -   *Standards & governance:* Welke richtlijnen (privacy, ethiek) moet je meteen meenemen?
+4.  **Station 3: Exploit (15 minuten)**
+    -   Opnieuw doorwisselen.\
+    -   Plan de grootschalige uitrol van de gekozen oplossing. Denk aan:
+    -   *Integratie in workflows:* Hoe borg je dat AI onderdeel wordt van dagelijkse besluitvorming?\
+    -   *Rollen & verantwoordelijkheden:* Wie is eigenaar in de beheerfase?\
+    -   *Continu verbeteren:* Hoe evalueer en optimaliseer je periodiek?
+5.  **Presentaties en Reflectie (10 minuten)**
+    -   Elk groepje presenteert de hoofdlijnen van hun uitgewerkte roadmap.\
+    -   Korte feedback en tips van de andere groepen.
 
-2. **Station 1: Explore (15 minuten)**  
-   -  Deelnemers vormen kleine groepjes (3-4 personen).  
-   -  Identificeer 2-3 AI-kansen (use-cases) die aansluiten bij de organisatiedoelen. Denk aan gebruik van data, klantbehoeften of markttrends.  
-   -  Noteer kort de businesswaarden en beoogde impact: *Waarmee kunnen we het meeste verschil maken?*
-
-3. **Station 2: Transfer (15 minuten)**  
-   -  Schuif door naar de volgende tafel of flip-over.  
-   -  Per use-case: wat is nodig om van concept naar werkende AI-oplossing te gaan?  
-     -  *Teams en middelen:* Welke expertises zijn vereist? Hoe vorm je de juiste multidisciplinaire teams?  
-     -  *Prototypes:* Welke MVP’s/proofs of concept kun je snel testen?  
-     -  *Standards & governance:* Welke richtlijnen (privacy, ethiek) moet je meteen meenemen?
-
-4. **Station 3: Exploit (15 minuten)**  
-   -  Opnieuw doorwisselen.  
-   -  Plan de grootschalige uitrol van de gekozen oplossing. Denk aan:
-     -  *Integratie in workflows:* Hoe borg je dat AI onderdeel wordt van dagelijkse besluitvorming?  
-     -  *Rollen & verantwoordelijkheden:* Wie is eigenaar in de beheerfase?  
-     -  *Continu verbeteren:* Hoe evalueer en optimaliseer je periodiek?
-
-5. **Presentaties en Reflectie (10 minuten)**  
-   -  Elk groepje presenteert de hoofdlijnen van hun uitgewerkte roadmap.  
-   -  Korte feedback en tips van de andere groepen.
-
-**Verwachtingen voor jullie als deelnemers:**  
--  Maak een eerste schets van de AI-roadmap die aansluit bij de behoeften van je eigen organisatie.  
--  Breng een duidelijke focus aan: *welke* AI-kansen pak je nu eerst op, en welke komen later?  
--  Wees bereid om je plannen te delen met andere groepen en actief feedback te geven én ontvangen.
-
+**Verwachtingen voor jullie als deelnemers:**\
+- Maak een eerste schets van de AI-roadmap die aansluit bij de behoeften van je eigen organisatie.\
+- Breng een duidelijke focus aan: *welke* AI-kansen pak je nu eerst op, en welke komen later?\
+- Wees bereid om je plannen te delen met andere groepen en actief feedback te geven én ontvangen.
 :::
 
 ::: callout-tip
 ## Lesactiviteit 2 – “Roadmap Poster” + Peer Feedback
 
-**Doel van de sessie:**  
+**Doel van de sessie:**\
 Deelnemers maken een visuele weergave (poster) van hun AI-roadmap. Via peer feedback scherpen zij hun strategie aan en leren zij van elkaars plannen.
 
 **Tijd:** 45 minuten
 
 **Werkwijze:**
 
-1. **Introductie en uitleg (5 minuten)**  
-   -  Laat zien hoe een ‘roadmap-poster’ eruit kan zien. Denk aan een tijdbalk met mijlpalen of een canvas met pijlers (Explore, Transfer, Exploit).  
-   -  Vertel dat de nadruk ligt op duidelijkheid en prioriteiten.
+1.  **Introductie en uitleg (5 minuten)**
+    -   Laat zien hoe een ‘roadmap-poster’ eruit kan zien. Denk aan een tijdbalk met mijlpalen of een canvas met pijlers (Explore, Transfer, Exploit).\
+    -   Vertel dat de nadruk ligt op duidelijkheid en prioriteiten.
+2.  **Posters maken (15 minuten)**
+    -   Individueel of per organisatiegroep maakt iedereen een poster van hun AI-roadmap.\
+    -   Leg mijlpalen vast op een tijdbalk, van korte-termijndoelen tot langetermijnvisie.\
+    -   Benoem cruciale stakeholders, benodigde resources en verwachte resultaten.
+3.  **Galerij-wandeling (10 minuten)**
+    -   Hang de posters op in de ruimte.\
+    -   Deelnemers lopen rond en lezen elkaars posters.\
+    -   Gebruik feedback-stickers of post-its met korte opmerkingen (bijv. “Inspirerend!” / “Hoe ga je om met XX?”).
+4.  **Korte Reflectie (10 minuten)**
+    -   Postereigenaren beantwoorden vragen en lichten onduidelijkheden toe.\
+    -   Waar zie je overeenkomsten tussen verschillende organisaties? Waar zie je unieke invalshoeken?\
+    -   Noteer direct eventuele verbeterpunten op je eigen poster.
+5.  **Afronding (5 minuten)**
+    -   Ieder past waar nodig zijn roadmap-poster aan of noteert opvolgacties.
 
-2. **Posters maken (15 minuten)**  
-   -  Individueel of per organisatiegroep maakt iedereen een poster van hun AI-roadmap.  
-     -  Leg mijlpalen vast op een tijdbalk, van korte-termijndoelen tot langetermijnvisie.  
-     -  Benoem cruciale stakeholders, benodigde resources en verwachte resultaten.
-
-3. **Galerij-wandeling (10 minuten)**  
-   -  Hang de posters op in de ruimte.  
-   -  Deelnemers lopen rond en lezen elkaars posters.  
-   -  Gebruik feedback-stickers of post-its met korte opmerkingen (bijv. “Inspirerend!” / “Hoe ga je om met XX?”).
-
-4. **Korte Reflectie (10 minuten)**  
-   -  Postereigenaren beantwoorden vragen en lichten onduidelijkheden toe.  
-   -  Waar zie je overeenkomsten tussen verschillende organisaties? Waar zie je unieke invalshoeken?  
-   -  Noteer direct eventuele verbeterpunten op je eigen poster.
-
-5. **Afronding (5 minuten)**  
-   -  Ieder past waar nodig zijn roadmap-poster aan of noteert opvolgacties.
-
-**Verwachtingen voor jullie als deelnemers:**  
--  Wees concreet in wat je op de poster zet: *Wat wil je bereiken en waarom?*  
--  Geef elkaar constructieve feedback, ook over mogelijke valkuilen.  
--  Neem verbeterpunten meteen mee om de roadmap te versterken.
-
+**Verwachtingen voor jullie als deelnemers:**\
+- Wees concreet in wat je op de poster zet: *Wat wil je bereiken en waarom?*\
+- Geef elkaar constructieve feedback, ook over mogelijke valkuilen.\
+- Neem verbeterpunten meteen mee om de roadmap te versterken.
 :::
 
 ::: callout-tip
 ## Lesactiviteit 3 – “Risk & Opportunity” Pre-Mortem
 
-**Doel van de sessie:**  
+**Doel van de sessie:**\
 Identificeren welke risico’s (en bijbehorende kansen) AI-initiatieven kunnen doen mislukken of juist versnellen. Vervolgens formuleren deelnemers strategieën om hiermee om te gaan.
+
+![Voorbeeld uitkomsten van een fysieke premortem-sessie [@atlassian_how_nodate].](images/premorten.jpg)
 
 **Tijd:** 30 minuten
 
 **Werkwijze:**
 
-1. **Introductie (5 minuten)**  
-   -  Uitleg van het concept ‘pre-mortem’: je stelt je voor dat je project is mislukt en verkent *waarom* het is misgegaan.  
-   -  Leg uit dat we ook kijken naar kansen: *Welke onverwachte voordelen kunnen zich voordoen?*
+1.  **Introductie (5 minuten)**
+    -   Uitleg van het concept ‘pre-mortem’: je stelt je voor dat je project is mislukt en verkent *waarom* het is misgegaan.
+    -   Leg uit dat we ook kijken naar kansen: *Welke onverwachte voordelen kunnen zich voordoen?*
+2.  **Groepsopdracht – Pre-mortem en “Opportunity Mapping” (15 minuten)**
+    -   Werken in groepjes van 3-4 personen.\
+    -   **Pre-mortem:** Som zo veel mogelijk redenen op waarom de AI-roadmap zou kunnen falen (bijv. gebrek aan datafundament, weerstand van medewerkers, ethische of wettelijke obstakels, enz.).\
+    -   **Opportunity Mapping:** Identificeer per risico ook een potentieel positief scenario: *Hoe kan AI voor een ‘game-changer’ zorgen?*\
+    -   Rangschik risico’s en kansen op urgentie en impact.
+3.  **Plenaire bespreking (5 minuten)**
+    -   Ieder groepje deelt één cruciaal risico en één interessante kans.\
+    -   Korte discussie: Hoe kun je die risico’s actief mitigeren? Op welke manier kun je de kansen beter benutten?
+4.  **Afronding (5 minuten)**
+    -   Schrijf 2-3 acties op die je meteen kunt ondernemen om de belangrijkste risico’s te verkleinen.\
+    -   Bewaar deze als checklijst voor je AI-roadmap.
 
-2. **Groepsopdracht – Pre-mortem en “Opportunity Mapping” (15 minuten)**  
-   -  Werken in groepjes van 3-4 personen.  
-   -  **Pre-mortem:** Som zo veel mogelijk redenen op waarom de AI-roadmap zou kunnen falen (bijv. gebrek aan datafundament, weerstand van medewerkers, ethische of wettelijke obstakels, enz.).  
-   -  **Opportunity Mapping:** Identificeer per risico ook een potentieel positief scenario: *Hoe kan AI voor een ‘game-changer’ zorgen?*  
-   -  Rangschik risico’s en kansen op urgentie en impact.
-
-3. **Plenaire bespreking (5 minuten)**  
-   -  Ieder groepje deelt één cruciaal risico en één interessante kans.  
-   -  Korte discussie: Hoe kun je die risico’s actief mitigeren? Op welke manier kun je de kansen beter benutten?
-
-4. **Afronding (5 minuten)**  
-   -  Schrijf 2-3 acties op die je meteen kunt ondernemen om de belangrijkste risico’s te verkleinen.  
-   -  Bewaar deze als checklijst voor je AI-roadmap.
-
-**Verwachtingen voor jullie als deelnemers:**  
--  Denk scherp na over wat er mis zou kunnen gaan, zowel vanuit technisch, organisatorisch als menselijk perspectief.  
--  Kom met concrete preventie- of mitigatiestrategieën.  
--  Besef dat AI ook onverwacht positieve wendingen kan geven; wees alert op ‘onvoorziene’ kansen.
+**Verwachtingen voor jullie als deelnemers:**\
+- Denk scherp na over wat er mis zou kunnen gaan, zowel vanuit technisch, organisatorisch als menselijk perspectief.\
+- Kom met concrete preventie- of mitigatiestrategieën.\
+- Besef dat AI ook onverwacht positieve wendingen kan geven; wees alert op ‘onvoorziene’ kansen.
 :::
 
 ## Aanvullend inspiratiemateriaal

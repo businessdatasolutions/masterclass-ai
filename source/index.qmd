@@ -8,6 +8,16 @@ Dit werkboek dient ter ondersteunting tijdens de Masterclass en bevat activiteit
 
 Voor toegang scan de onderstaande code of ga naar: [tinyurl.com/masterclass-ai-strategy](https://tinyurl.com/masterclass-ai-strategy)
 
+## Leeruitkomsten
+
+Na het volgen van de Masterclass AI:
+
+-   kunnen de deelnemers uitleggen hoe AI strategische waarde toevoegt binnen bedrijven en het toekomstige werklandschap beïnvloedt.\
+-   begrijpen de deelnemers hoe wet- en regelgeving de adoptie en toepassing van AI beïnvloeden en hoe dit vraagt om Governance binnen hun organisatie.\
+-   hebben de deelnemers de huidige AI-volwassenheid van hun organisatie in kaart met behulp van een relevant model of framework.\
+-   hebben de deelnemers op basis van casestudies succesvolle AI-strategieën geïdentificeerd voor de eigen organisatiecontext.\
+-   hebben de deelnemers een eerste ontwerp van een roadmap om AI mee te nemen als integraal onderdeel van de toekomstvisie van de eigen organisatie.
+
 ## Voorbereiding
 
 Tijdens de masterclass ga je aan de slag met het vraagstuk hoe AI een bijdrage kan leveren aan de strategie van jouw organisatie. Je gaat tijdens de dag dan ook toewerken naar een roadmap richting die stip op de horizon. Mogelijk zijn er al initiatieven rond AI binnen je organisatie gaande of zijn er al concrete ideeën voor toepassingen. Goed om voor de masterclass stil te staan waar je organisatie nu staat, wat er al is, zodat je dat als input kunt meenemen tijdens de dag.
@@ -30,7 +40,7 @@ Schrijf voor jezelf jouw antwoorden op en neem ze mee naar de masterclass. Zo be
 ## Programma
 
 | **Tijd** | **Duur (min)** | **Onderdeel** |
-|-----------------|-----------------|--------------------------------------|
+|----|----|----|
 | **0:00 - 0:15** | 15 | Welkom & Introductie |
 | **0:15 - 1:00** | 45 | **Thema 1:** Strategische betekenis van AI-technologie |
 | **1:00 - 1:45** | 45 | **Thema 2:** AI: Invloed op arbeid |
