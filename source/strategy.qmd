@@ -8,11 +8,13 @@ Een heldere definitie van strategie is essentieel om effectieve keuzes te maken 
 
 ## Wat is strategie?
 
-Strategie kan vanuit verschillende perspectieven worden gedefinieerd:  
-- **Een plan om waarde te creëren:** Strategie beschrijft hoe een organisatie waarde levert aan klanten, werknemers en leveranciers.  
-- **Een integratieve set van keuzes:** Strategie omvat een reeks onderling verbonden beslissingen over waar te concurreren en hoe te winnen.  
-- **De logica van succes:** Het legt uit hoe een organisatie de middelen verzamelt die nodig zijn om doelen te bereiken en beschrijft hoe succes wordt gerealiseerd.  
+Strategie kan vanuit verschillende perspectieven worden gedefinieerd:\
+- **Een plan om waarde te creëren:** Strategie beschrijft hoe een organisatie waarde levert aan klanten, werknemers en leveranciers.\
+- **Een integratieve set van keuzes:** Strategie omvat een reeks onderling verbonden beslissingen over waar te concurreren en hoe te winnen.\
+- **De logica van succes:** Het legt uit hoe een organisatie de middelen verzamelt die nodig zijn om doelen te bereiken en beschrijft hoe succes wordt gerealiseerd.\
 - **Een strategisch argument:** Strategie is een samenhangende redenering waarin aannames leiden tot een conclusie over hoe investeringen en activiteiten waarde creëren en behouden.
+
+![@McLees2024GenAI](images/ai-pyramid.png){width=60%}
 
 Belangrijk is het onderscheid tussen strategie en planning. **Planning gaat over controle over interne processen en de volgorde van acties, terwijl strategie gericht is op het omgaan met externe onzekerheden**, zoals concurrenten, klanten en regelgeving. Een goed geformuleerde strategie is een ‘levend argument’ dat constant wordt bijgesteld op basis van nieuwe informatie en veranderende omstandigheden.
 
@@ -20,14 +22,14 @@ Belangrijk is het onderscheid tussen strategie en planning. **Planning gaat over
 
 Het Prisoner’s Dilemma biedt inzicht in enkele elementen van strategische besluitvorming, zoals keuzes onder onzekerheid en de afhankelijkheid van anderen. Toch is het geen volledig strategisch probleem, omdat het ontbreekt aan fundamentele aspecten zoals waardecreatie, een lange-termijnperspectief en communicatie. In een strategische context gaat het niet alleen om het vermijden van verlies, maar om het scheppen van duurzame waarde voor alle belanghebbenden.
 
-Wanneer het dilemma wordt herhaald, verandert de dynamiek. Samenwerking kan ontstaan doordat spelers leren van eerdere interacties, vertrouwen opbouwen en zich richten op lange-termijnvoordelen. Dit reflecteert de essentie van strategie: het voortdurend aanpassen, anticiperen en bouwen aan relaties om succes op lange termijn te realiseren. 
+Wanneer het dilemma wordt herhaald, verandert de dynamiek. Samenwerking kan ontstaan doordat spelers leren van eerdere interacties, vertrouwen opbouwen en zich richten op lange-termijnvoordelen. Dit reflecteert de essentie van strategie: het voortdurend aanpassen, anticiperen en bouwen aan relaties om succes op lange termijn te realiseren.
 
 ## Strategie in het AI-tijdperk
 
-Met de opkomst van AI wordt het belang van een goed doordachte strategie nog groter. AI verandert niet alleen marktdynamieken en bedrijfsmodellen, maar beïnvloedt ook hoe waarde wordt gecreëerd en behouden. Het strategisch omgaan met AI vraagt om keuzes onder onzekerheid, het blootleggen van aannames en het voortdurend aanpassen aan nieuwe inzichten. Cruciale elementen hierbij zijn:  
-- **Een Just Cause:** Een langetermijndoel dat richting geeft.  
-- **Waardecreatie:** Hoe AI kan bijdragen aan klanten, medewerkers en leveranciers.  
-- **Een iteratieve aanpak:** Strategie als een continu proces dat inspeelt op een veranderlijke omgeving.  
+Met de opkomst van AI wordt het belang van een goed doordachte strategie nog groter. AI verandert niet alleen marktdynamieken en bedrijfsmodellen, maar beïnvloedt ook hoe waarde wordt gecreëerd en behouden. Het strategisch omgaan met AI vraagt om keuzes onder onzekerheid, het blootleggen van aannames en het voortdurend aanpassen aan nieuwe inzichten. Cruciale elementen hierbij zijn:\
+- **Een Just Cause:** Een langetermijndoel dat richting geeft.\
+- **Waardecreatie:** Hoe AI kan bijdragen aan klanten, medewerkers en leveranciers.\
+- **Een iteratieve aanpak:** Strategie als een continu proces dat inspeelt op een veranderlijke omgeving.\
 - **Communicatie en samenwerking:** Zorgen dat iedereen in de organisatie de strategie begrijpt en bijdraagt aan de uitvoering ervan.
 
 Strategie in het AI-tijdperk is niet statisch of lineair, maar een dynamisch en iteratief proces waarbij de focus ligt op het creëren van waarde, het omgaan met onzekerheden en het bouwen van een duurzame en concurrerende positie in een steeds veranderende wereld.
