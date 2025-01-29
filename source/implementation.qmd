@@ -46,6 +46,8 @@ In deze sessie zullen we het **Business Model Portfolio** raamwerk hanteren:
 
 Door deze fasen systematisch te doorlopen, leert u niet alleen nieuwe AI-initiatieven op te zetten, maar deze ook succesvol te verankeren in uw organisatie.
 
+![@McLees2024GenAI](images/ai-pyramid.png){width=60%}
+
 ::: callout-tip
 ## Lesactiviteit 1 – “From Explore to Exploit”–Roadmap Lab
 

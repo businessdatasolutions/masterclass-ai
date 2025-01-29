@@ -14,8 +14,6 @@ Strategie kan vanuit verschillende perspectieven worden gedefinieerd:\
 - **De logica van succes:** Het legt uit hoe een organisatie de middelen verzamelt die nodig zijn om doelen te bereiken en beschrijft hoe succes wordt gerealiseerd.\
 - **Een strategisch argument:** Strategie is een samenhangende redenering waarin aannames leiden tot een conclusie over hoe investeringen en activiteiten waarde creëren en behouden.
 
-![@McLees2024GenAI](images/ai-pyramid.png){width=60%}
-
 Belangrijk is het onderscheid tussen strategie en planning. **Planning gaat over controle over interne processen en de volgorde van acties, terwijl strategie gericht is op het omgaan met externe onzekerheden**, zoals concurrenten, klanten en regelgeving. Een goed geformuleerde strategie is een ‘levend argument’ dat constant wordt bijgesteld op basis van nieuwe informatie en veranderende omstandigheden.
 
 ![Een voorbeeld van een strategisch spel - Prisoner's Dilemma [@noauthor_game_2024]](images/game-theory.webp){#fig-game-theory}
