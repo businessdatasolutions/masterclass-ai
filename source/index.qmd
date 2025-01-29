@@ -6,7 +6,7 @@ jupyter: python3
 
 Dit werkboek dient ter ondersteunting tijdens de Masterclass en bevat activiteiten, inspiratiemateriaal en relevant naslagwerk.
 
-Voor toegang scan de onderstaande code of ga naar: [businessdatasolutions.github.io/masterclass-ai/book/](https://businessdatasolutions.github.io/masterclass-ai/book/){target="_blank"}
+Voor toegang scan de QR-code of ga naar: [businessdatasolutions.github.io/masterclass-ai/book/](https://businessdatasolutions.github.io/masterclass-ai/book/){target="_blank"}
 
 ## Leeruitkomsten
 
