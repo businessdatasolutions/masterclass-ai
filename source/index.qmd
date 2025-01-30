@@ -57,8 +57,8 @@ Tijdens deze Masterclass AI gaan we in zes thema’s de belangrijkste pijlers va
 
 Daarna (Thema 3) gaan we onderzoeken hoe **regelgeving en governance** rondom AI zich ontwikkelen, welke risico’s AI met zich meebrengt en hoe organisaties verantwoord kunnen blijven opereren. In (Thema 4) gaan we in op de **strategische positionering** van AI: we bespreken hoe je de rol van AI in jouw organisatie bepaalt en welke samenwerkingen en ecosystemen belangrijk zijn.
 
-Na de lunch (Thema 5) gaan we de **succesfactoren voor AI-implementatie** bespreken. We bekijken welke praktische stappen, randvoorwaarden en managementaspecten essentieel zijn om AI-projecten te laten slagen. Tot slot (Thema 6) gaan we alle inzichten vertalen naar een **concrete AI Roadmap**.
+Bij (Thema 5) gaan we de **succesfactoren voor AI-implementatie** bespreken. We bekijken welke praktische stappen, randvoorwaarden en managementaspecten essentieel zijn om AI-projecten te laten slagen. Tot slot (Thema 6) gaan we alle inzichten vertalen naar een **concrete AI Roadmap**.
 
-Gedurende het hele programma krijgen de deelnemers **inspiratie** en **praktische handvatten** aangereikt om hun de strategische AI Roadmap voor hun eigen organisatie verder aan te scherpen.
+Gedurende het hele programma krijgen de deelnemers **inspiratie** en **praktische handvatten** aangereikt om hun de strategische AI-Roadmap voor hun eigen organisatie verder aan te scherpen.
 
 [![Voorbeeld AI Roadmap](images/gartner-ai-roadmap.png)](https://www.gartner.com/en/articles/ai-roadmap)

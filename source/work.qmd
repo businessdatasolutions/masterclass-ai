@@ -33,7 +33,7 @@ Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werk
     -   Er zijn geen goede of foute antwoorden; het is jullie eigen ervaring die telt.
 3.  **Presentatie van (voorlopige) resultaten (5 minuten)**
     -   Zodra iedereen klaar is, wordt er een eerste [overzicht](https://businessdatasolutions.github.io/ai-at-work-survey/results.html){target="_blank"} van de resultaten gedeeld.\
-    -   Krijgen jullie meteen opvallende cijfers of grafieken te zien, denk dan na over de vraag: *Herkennen jullie deze uitkomsten in jullie eigen situatie?*
+    -   Als jullie opvallende cijfers of grafieken zien, denk dan na over de vraag: *Herkennen jullie deze uitkomsten in jullie eigen situatie?*
 4.  **Groepsdiscussie in subgroepen (15 minuten)**
     -   In kleine groepjes (4-5 personen) gaan jullie met elkaar in gesprek.\
     -   Stel jezelf en elkaar de volgende vragen:
@@ -43,7 +43,7 @@ Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werk
 5.  **Afronding en koppeling naar de AI-Roadmap (10 minuten)**
     -   Elk groepje licht kort (max. 2 minuten) de belangrijkste conclusies toe.\
     -   Samen bekijken jullie welke rode draden en aandachtspunten naar voren komen.\
-    -   Tot slot horen jullie hoe deze inzichten zullen worden gebruikt in de vervolgstappen voor het ontwikkelen van een strategische AI-Roadmap.
+    -   Tot slot bespreken jullie hoe deze inzichten zullen worden gebruikt in de vervolgstappen voor het ontwikkelen van een strategische AI-Roadmap.
 :::
 
 ## Aanvullend inspiratiemateriaal
