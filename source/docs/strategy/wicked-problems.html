@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Flexible Wrapped Text in SVG</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column; /* Stack multiple diagrams if needed */
+      align-items: center;
+    }
+
+    .diagram-container {
+      margin-top: 30px; /* Spacing between diagrams */
+    }
+
+    .diagram {
+      width: 900px;
+      height: 900px;
+      border: 1px solid #ccc; /* Just to see the diagram boundary */
+    }
+
+    /* Basic styling for other text and arrows */
+    .center-text {
+      font-family: Arial, sans-serif;
+      font-size: 30px;
+    }
+    .arrow-text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      background-color: white;
+      padding: 5px;
+    }
+    .arrow {
+      fill: none;
+      stroke: #333;
+      stroke-width: 3;
+    }
+
+    /* This CSS class applies *inside* the <foreignObject>, so it’s HTML-based */
+    .wicked-text-foreign {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      color: red;            /* 'fill' doesn’t apply here, since this is HTML text */
+      background-color: white;
+      font-style: italic;
+      text-align: center;
+      /* Ensure word-wrapping */
+      white-space: normal;
+      word-wrap: break-word;
+      width: 100%;           /* So it uses the full foreignObject width */
+      height: auto;          /* The box can expand to fit contents (but foreignObject might clip if too big) */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Diagram #1 -->
+  <div id="diagramContainer1" class="diagram-container"></div>
+  
+  <!-- Diagram #2 -->
+  <div id="diagramContainer2" class="diagram-container"></div>
+
+  <script>
+    /**
+     * Creates a circular diagram with three "wicked problem" labels that are placed
+     * into <foreignObject> to allow HTML-based wrapping.
+     *
+     * @param {string} containerId  ID of the <div> to host the diagram.
+     * @param {string} wickedTop    Text for top label (defaults to "Wicked problem").
+     * @param {string} wickedLeft   Text for left label (defaults to "Wicked problem").
+     * @param {string} wickedRight  Text for right label (defaults to "Wicked problem").
+     */
+    function createCircularDiagram(
+      containerId,
+      wickedTop   = "Wicked problem",
+      wickedLeft  = "Wicked problem",
+      wickedRight = "Wicked problem"
+    ) {
+      const container = document.getElementById(containerId);
+
+      // We replace the old <text> for "Wicked problem" with a <foreignObject> that 
+      // can contain wrapped HTML text. We'll give each <foreignObject> a bounding
+      // box. If the text is longer than the box, it may clip; adjust width/height
+      // as needed.
+
+      // For example, for the top "wicked" label:
+      //   x = 300, y = 90, width=300 => This box will be centered around x=450 
+      //   (because 450 - 300/2 = 300). 
+      //   The y=90 is slightly above the center circle so it is near the top area.
+      //
+      // Similarly for left and right, we pick bounding boxes around x=225 and x=675.
+
+      const svgMarkup = `
+        <svg class="diagram" viewBox="0 0 900 900">
+          <!-- Center circle -->
+          <circle cx="450" cy="450" r="75" fill="white" stroke="black" stroke-width="3"/>
+          <text x="450" y="458" text-anchor="middle" class="center-text">Waarde</text>
+
+          <!-- Nodes -->
+          <text x="450" y="720" text-anchor="middle" class="arrow-text">Risico</text>
+          <text x="195" y="300" text-anchor="middle" class="arrow-text">Productiviteit</text>
+          <text x="675" y="300" text-anchor="middle" class="arrow-text">Groei</text>
+
+          <!-- Arrows -->
+          <path d="M 450 525 L 450 660" class="arrow" marker-end="url(#arrowhead)"/>
+
+          <!-- Left side arrows -->
+          <path d="M 398 398 L 280 300" class="arrow" marker-end="url(#arrowhead)"/>
+          <path d="M 225 480 L 225 330" class="arrow" marker-end="url(#arrowhead)"/>
+
+          <!-- Right side arrows -->
+          <path d="M 503 398 L 620 300" class="arrow" marker-end="url(#arrowhead)"/>
+          <path d="M 675 480 L 675 330" class="arrow" marker-end="url(#arrowhead)"/>
+
+          <!-- Top curved arrows -->
+          <path d="M 225 270 Q 255 195 345 143" class="arrow" marker-start="url(#arrowheadStartReversed)"/>
+        <path d="M 675 270 Q 645 195 555 143" class="arrow" marker-start="url(#arrowheadStartReversed)"/>
+
+          <!-- Bottom curved arrows -->
+          <path d="M 390 705 Q 240 660 225 540" class="arrow" marker-start="url(#arrowheadStartReversed)" />
+          <path d="M 510 705 Q 683 660 675 540" class="arrow" marker-start="url(#arrowheadStartReversed)"/>
+
+          <!-- Arrowhead definition -->
+          <defs>
+            <!-- Normal arrow, for the end -->
+            <marker
+                id="arrowhead"
+                markerWidth="10"
+                markerHeight="7"
+                refX="9"
+                refY="3.5"
+                orient="auto"
+            >
+                <polygon points="0 0, 10 3.5, 0 7" fill="#333"></polygon>
+            </marker>
+
+            <!-- Reversed arrow, for the start -->
+            <marker
+                id="arrowheadStartReversed"
+                markerWidth="10"
+                markerHeight="7"
+                refX="1"
+                refY="3.5"
+                orient="auto"
+            >
+                <!-- Notice we flip the polygon horizontally 
+                    or keep the same polygon but shift refX 
+                    so it points outward. -->
+                <polygon points="10 0, 0 3.5, 10 7" fill="#333"></polygon>
+            </marker>
+          </defs>
+          <!-- Wicked labels replaced with <foreignObject> for text wrapping -->
+          <!-- Top label -->
+          <foreignObject x="300" y="110" width="300" height="120">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="wicked-text-foreign">
+              ${wickedTop}
+            </div>
+          </foreignObject>
+
+          <!-- Left label -->
+          <foreignObject x="75" y="495" width="300" height="120">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="wicked-text-foreign">
+              ${wickedLeft}
+            </div>
+          </foreignObject>
+
+          <!-- Right label -->
+          <foreignObject x="525" y="495" width="300" height="120">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="wicked-text-foreign">
+              ${wickedRight}
+            </div>
+          </foreignObject>
+        </svg>
+      `;
+
+      container.innerHTML = svgMarkup;
+    }
+
+    // Example usage
+    window.onload = function() {
+      // Diagram #1: default "Wicked problem"
+      createCircularDiagram("diagramContainer1");
+
+      // Diagram #2: Pass a much longer text for the top label:
+      createCircularDiagram(
+        "diagramContainer2",
+        "Hoe kan ik 10% meer zorgvolume realiseren bij dezelfde begrotingsruimte?",
+        "Hoe kan ik de arbeidsproductiviteit laten groeien zonder de werkdruk te verhogen?",
+        "Hoe kan ik 10% meer zorg realiseren zonder dat de kans op fouten toe te laten nemen?"
+      );
+    };
+  </script>
+</body>
+</html>
