@@ -1,7 +1,7 @@
 [
     {
         "Company": "Microsoft",
-        "Sector": "Business Process Management",
+        "Sector": "Workflow Management",
         "Use case name": "Microsoft 365 Copilot",
         "Use case description": "AI tool that automates repetitive tasks such as checking emails and taking notes during meetings, enhancing productivity.",
         "Sources": "https://youtu.be/rc-fc7pT9nw?si=rAc7YseCTkfIT53W",
@@ -65,7 +65,7 @@
     },
     {
         "Company": "OpenAI",
-        "Sector": "Technology",
+        "Sector": "Workflow Management",
         "Use case name": "Operator",
         "Use case description": "An AI agent capable of automating tasks such as purchasing groceries and filing expense reports, enhancing personal and professional productivity.",
         "Sources": "https://youtu.be/vwgmBsMSwmo?si=TdALcGH1-N0T-l2c",
@@ -169,7 +169,7 @@
     },
     {
         "Company": "Gumloop",
-        "Sector": "Business Process Management",
+        "Sector": "Workflow Management",
         "Use case name": "AI Automation Framework",
         "Use case description": "No-code platform for automating complex workflows with AI, enabling users to create and deploy custom automations effortlessly.",
         "Sources": "https://www.gumloop.com/",
@@ -193,7 +193,7 @@
     },
     {
         "Company": "Zuni",
-        "Sector": "Business Process Management",
+        "Sector": "Workflow Management",
         "Use case name": "AI-Native Email App",
         "Use case description": "AI-powered email application designed for founders to manage personal and business emails efficiently, enhancing productivity and email management.",
         "Sources": "https://zuni.app/",
@@ -201,7 +201,7 @@
     },
     {
         "Company": "Argil",
-        "Sector": "Business Process Management",
+        "Sector": "Workflow Management",
         "Use case name": "AI Automation Platform",
         "Use case description": "No-code AI automation platform for creating custom automations, saving users time by automating repetitive tasks in image and text processing.",
         "Sources": "https://www.argil.ai/",
