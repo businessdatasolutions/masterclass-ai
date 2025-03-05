@@ -201,9 +201,9 @@
     },
     {
         "Company": "Argil",
-        "Sector": "Workflow Management",
-        "Use case name": "AI Automation Platform",
-        "Use case description": "No-code AI automation platform for creating custom automations, saving users time by automating repetitive tasks in image and text processing.",
+        "Sector": "Creative Industries",
+        "Use case name": "AI Video Generation",
+        "Use case description": "An AI-powered platform that allows users to create short videos featuring AI clones quickly and easily, enabling the generation of engaging social media content with minimal effort.",
         "Sources": "https://www.argil.ai/",
         "Value factors": ["Productivity Gain", "Innovation"]
     }
