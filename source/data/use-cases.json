@@ -1,7 +1,7 @@
 [
     {
         "Company": "Microsoft",
-        "Sector": "Technology",
+        "Sector": "Business Process Management",
         "Use case name": "Microsoft 365 Copilot",
         "Use case description": "AI tool that automates repetitive tasks such as checking emails and taking notes during meetings, enhancing productivity.",
         "Sources": "https://youtu.be/rc-fc7pT9nw?si=rAc7YseCTkfIT53W",
@@ -88,7 +88,7 @@
         "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
     },
     {
-        "Company": "Wallmart",
+        "Company": "Walmart",
         "Sector": "Retail",
         "Use case name": "AI-Enhanced Operations",
         "Use case description": "Implementing AI to optimize stock management and customer interactions, thereby improving operational efficiency.",
@@ -150,8 +150,61 @@
         "Use case description": "Applies AI to improve safety, efficiency, and sustainability in mining operations.",
         "Sources": "https://www.bhp.com/news/bhp-insights/2024/08/artificial-intelligence-is-unearthing-a-smarter-future",
         "Value factors": ["Productivity Gain", "Quality Improvement", "Innovation"]
+    },
+    {
+        "Company": "Vapi",
+        "Sector": "Customer Service",
+        "Use case name": "AI Voice Agents",
+        "Use case description": "Developer platform for creating custom voice agents tailored to specific business needs, enhancing customer interactions and automating phone operations.",
+        "Sources": "https://www.vapi.ai/",
+        "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
+    },
+    {
+        "Company": "Retell AI",
+        "Sector": "Customer Service",
+        "Use case name": "AI Phone Agents",
+        "Use case description": "Platform for building, testing, deploying, and monitoring production-ready AI voice agents, enhancing customer support and call center operations.",
+        "Sources": "https://www.retellai.com/",
+        "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
+    },
+    {
+        "Company": "Gumloop",
+        "Sector": "Business Process Management",
+        "Use case name": "AI Automation Framework",
+        "Use case description": "No-code platform for automating complex workflows with AI, enabling users to create and deploy custom automations effortlessly.",
+        "Sources": "https://www.gumloop.com/",
+        "Value factors": ["Productivity Gain", "Innovation"]
+    },
+    {
+        "Company": "AnswerGrid",
+        "Sector": "Customer Relationship Management",
+        "Use case name": "AI-Powered Web Research Tool",
+        "Use case description": "AI-driven web research and enterprise search platform designed for consultants and B2B sales teams, streamlining lead generation and market research.",
+        "Sources": "https://www.answergrid.ai/",
+        "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
+    },
+    {
+        "Company": "Polymet",
+        "Sector": "Creative Industries",
+        "Use case name": "AI Product Designer",
+        "Use case description": "AI-powered tool that helps non-designers create production-ready designs and front-end code, streamlining the product development process.",
+        "Sources": "https://www.polymet.ai/",
+        "Value factors": ["Productivity Gain", "Innovation"]
+    },
+    {
+        "Company": "Zuni",
+        "Sector": "Business Process Management",
+        "Use case name": "AI-Native Email App",
+        "Use case description": "AI-powered email application designed for founders to manage personal and business emails efficiently, enhancing productivity and email management.",
+        "Sources": "https://zuni.app/",
+        "Value factors": ["Productivity Gain", "Customer Value Enhancement"]
+    },
+    {
+        "Company": "Argil",
+        "Sector": "Business Process Management",
+        "Use case name": "AI Automation Platform",
+        "Use case description": "No-code AI automation platform for creating custom automations, saving users time by automating repetitive tasks in image and text processing.",
+        "Sources": "https://www.argil.ai/",
+        "Value factors": ["Productivity Gain", "Innovation"]
     }
 ]
-        
- 
-
