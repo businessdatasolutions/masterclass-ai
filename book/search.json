@@ -178,15 +178,5 @@
     "crumbs": [
       "Bronnen"
     ]
-  },
-  {
-    "objectID": "implementation.html#tijd-75-minuten",
-    "href": "implementation.html#tijd-75-minuten",
-    "title": "5  AI: Succesfacoren voor strategische implementatie / Roadmap",
-    "section": "",
-    "text": "Werkwijze {.unnumbered} 1. Introductie (5 minuten) - In deze activiteit onderzoeken we: Hoe kan AI helpen om ideeën snel om te zetten naar werkende prototypes?\n- De opbrengsten van deze activiteit kunnen worden meegenomen in de Roadmap als concrete toepassingsmogelijkheden. - Demo tonen om het concept te verduidelijken.\n\nCreatie van mockups (15 minuten)\n\nIn kleine groepjes (3-4 personen) maken jullie op een groot vel papier een mockup van een systeem dat jullie graag zouden willen hebben.\n\nGebruik post-its, stiften en andere beschikbare materialen om de interface en functionaliteit te visualiseren.\n\nDenk aan: Welk probleem lost dit systeem op en voor wie?\n\nVan mockup naar prototype (30 minuten)\n\nMaak een duidelijke foto van jullie mockup.\n\nGa naar een AI-tool (Claude, ChatGPT 4o met Canvas of Gemini).\n\nVoer de volgende prompt in: “Please build a system for [beschrijving van het doel van het systeem] based on the mockup in the image. Use plain HTML, JS and Bootstrap” en voeg de foto van jullie mockup toe.\n\nTest het gegenereerde prototype en verbeter het ontwerp door aanvullende prompts te gebruiken indien nodig.\n\nLet op aspecten als functionaliteit, gebruiksvriendelijkheid en visuele stijl.\n\nMarktstand voorbereiden (10 minuten)\n\nBereid een korte presentatie voor over jullie prototype.\n\nBespreek in jullie groepje:\n\n“Wat kan het systeem doen en voor wie is het bedoeld?”\n\n“Welke verrassingen of uitdagingen kwamen jullie tegen bij het gebruik van AI?”\n\n“Hoe zou dit proces jullie werk in de toekomst kunnen veranderen?”\n\n\nMarktplaats van prototypes (15 minuten)\n\nElke groep presenteert hun prototype bij hun ‘marktstand’.\n\nDe andere deelnemers lopen rond en bekijken alle prototypes (marktplaats-formaat).\n\nMoedig discussie aan over de mogelijkheden die deze manier van werken biedt.\n\nAfronding en reflectie (5 minuten)\n\nReflecteer gezamenlijk op de ervaring en de implicaties voor de organisatie.\n\nBespreek welke inzichten jullie meenemen naar de strategische AI-Roadmap, zoals:\n\nMogelijke use cases voor prototyping met AI\nBenodigde vaardigheden en resources\nKansen voor versnelling van ontwikkelprocessen",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI: Succesfacoren voor strategische implementatie / Roadmap</span>"
-    ]
   }
 ]

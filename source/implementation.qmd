@@ -71,7 +71,7 @@ Jullie gaan ervaren hoe AI kan helpen bij het snel omzetten van ideeën naar wer
 
 3.  **Van mockup naar prototype (30 minuten)**
     -   Maak een duidelijke foto van jullie mockup.\
-    -   Ga naar een AI-tool ([Claude](https://claude.ai/){target="_blank"}, [ChatGPT 4o met Canvas](https://chat.openai.com/){target="_blank"}, [Gemini](https://www.google.com/){target="_blank"} of [Lovable](https://lovable.dev/){target="_blank"}).\
+    -   Ga naar een AI-tool ([Claude](https://claude.ai/){target="_blank"}, [ChatGPT 4o met Canvas](https://chat.openai.com/){target="_blank"}, [Gemini](https://gemini.google.com//){target="_blank"} of [Lovable](https://lovable.dev/){target="_blank"}).\
     -   Voer de volgende prompt in: \
     *"Please build a system for [beschrijving van het doel van het systeem] based on the mockup in the image. Use plain HTML, JS and Bootstrap"* en voeg de foto van jullie mockup toe.\
     -   Test het gegenereerde prototype en verbeter het ontwerp door aanvullende prompts te gebruiken indien nodig.\
