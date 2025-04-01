@@ -13,7 +13,7 @@ De snelle opkomst van **Artificiële Intelligentie (AI) creëert aanzienlijke ui
 Het navigeren door dit veranderende landschap vereist een grondig begrip van de omvang van de uitdaging. Het doel van dit onderdeel is om deelnemers aan te moedigen na te denken over deze complexe veranderingen en de specifieke gevolgen voor hun organisaties te overwegen. De belangrijkste uitdaging zal zijn om zich voor te bereiden op de ontwrichting van het personeelsbestand die door AI wordt veroorzaakt, en om na te denken over hoe de balans tussen mens en machine zal veranderen. We beginnen bij onszelf en gaan daarna kijken naar de schaal van de verandering en welke vragen moeten worden beantwoord voor de Roadmap.
 
 ::: callout-tip
-## Activiteit - De invloed van AI op arbeid
+## Activiteit - De invloed van AI op arbeid {#sec-impactwork}
 
 **Doel van de sessie:**\
 Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werkzaamheden kan veranderen, en welke kansen en uitdagingen dit oplevert. De inzichten die jullie opdoen, nemen jullie later mee in het ontwikkelen van een strategische AI-Roadmap.
@@ -47,7 +47,7 @@ Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werk
 :::
 
 ::: callout-tip
-## Activiteit: Toekomst van werk - De impact van AI
+## Activiteit: Toekomst van werk - De impact van AI {#sec-futurework}
 
 **Doel van de sessie:**\
 Als strategische leiders onderzoeken jullie hoe AI de **aard van het werk**, de **benodigde vaardigheden** en de **rol van menselijk kapitaal** binnen jullie organisaties fundamenteel kan veranderen. Het doel is strategisch inzicht te verkrijgen in de toekomstige organisatie van werk en de implicaties daarvan, inclusief de verwachte tijdlijn van veranderingen.
