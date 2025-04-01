@@ -47,12 +47,12 @@ Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werk
 :::
 
 ::: callout-tip
-## Activiteit: Toekomst van werk - De Impact van AI
+## Activiteit: Toekomst van werk - De impact van AI
 
 **Doel van de sessie:**\
 Als strategische leiders onderzoeken jullie hoe AI de **aard van het werk**, de **benodigde vaardigheden** en de **rol van menselijk kapitaal** binnen jullie organisaties fundamenteel kan veranderen. Het doel is strategisch inzicht te verkrijgen in de toekomstige organisatie van werk en de implicaties daarvan, inclusief de verwachte tijdlijn van veranderingen.
 
-**Totale tijd:** 45 minuten
+**Totale tijd:** 45 minuten (inclusief 5 minuten omschakelen tussen fasen)
 
 **Benodigde materialen (optioneel):**
 
@@ -69,15 +69,16 @@ Als strategische leiders onderzoeken jullie hoe AI de **aard van het werk**, de 
 **Fase 1: Individuele brainstorm zonder AI (10 minuten)**
 
 **Doel:**\
-Stimuleer persoonlijke reflectie over de impact van AI op werk, zonder beïnvloeding van AI-hulpmiddelen.
+Ontwikkel persoonlijke ideeën over de impact van AI op werk, zonder beïnvloeding van AI-hulpmiddelen.
 
 **Instructies:**
 
+-  Zet een timer op 10 minuten.
 -   Selecteer één of meerdere vragen uit onderstaande set en denk na over het antwoord.
 
 <details>
 
-<summary>Vragen</summary>
+<summary>Klik hier voor de vragenset</summary>
 
 <ol>
 
@@ -109,7 +110,7 @@ Stimuleer persoonlijke reflectie over de impact van AI op werk, zonder beïnvloe
 
 ------------------------------------------------------------------------
 
-**Fase 2: Groepsbrainstorm zonder AI (15 minuten)**
+**Fase 2: Groepsbrainstorm zonder AI (10 minuten)**
 
 **Doel:**\
 Deel en verrijk de individuele inzichten door er samen over te discussiëren, zonder directe AI-ondersteuning.
@@ -117,6 +118,8 @@ Deel en verrijk de individuele inzichten door er samen over te discussiëren, zo
 **Instructies:**
 
 -   Vorm kleine groepen (3-4 personen).
+
+-  Zet een timer op 10 minuten.
 
 -   Bespreek binnen de groep jullie individuele bevindingen en reflecties op de impact van AI op werk, rollen en vaardigheden.
 
@@ -139,6 +142,8 @@ Gebruik AI als hulpmiddel binnen de groep om de discussie verder te verdiepen en
 
 **Instructies:**
 
+-  Zet een timer op 10 minuten.
+
 -   Maak gebruik van AI-tooling om een of meerdere kernvragen opnieuw te onderzoeken.
 
 -   Bespreek gezamenlijk de output van de AI en vergelijk deze met de eerder besproken ideeën.
@@ -147,13 +152,14 @@ Gebruik AI als hulpmiddel binnen de groep om de discussie verder te verdiepen en
 
 ------------------------------------------------------------------------
 
-**Fase 4: Evaluatie & Reflectie (10 minuten)**
+**Fase 4: Evaluatie & reflectie (10 minuten)**
 
 **Doel:**\
 Bepaal gezamenlijk in welke fase de inzet van AI de meest waardevolle bijdrage heeft geleverd.
 
 **Instructies:**\
 
+-  Zet een timer op 10 minuten.
 -   Reflecteer kort over de ervaringen in beide settings (alleen, met groep en als groep met AI-ondersteuning).
 
 -   Bespreek in de groep welke aanpak leidde tot meer innovatieve of strategisch bruikbare inzichten.
