@@ -13,7 +13,7 @@ De snelle opkomst van **Artificiële Intelligentie (AI) creëert aanzienlijke ui
 Het navigeren door dit veranderende landschap vereist een grondig begrip van de omvang van de uitdaging. Het doel van dit onderdeel is om deelnemers aan te moedigen na te denken over deze complexe veranderingen en de specifieke gevolgen voor hun organisaties te overwegen. De belangrijkste uitdaging zal zijn om zich voor te bereiden op de ontwrichting van het personeelsbestand die door AI wordt veroorzaakt, en om na te denken over hoe de balans tussen mens en machine zal veranderen. We beginnen bij onszelf en gaan daarna kijken naar de schaal van de verandering en welke vragen moeten worden beantwoord voor de Roadmap.
 
 ::: callout-tip
-## Lesactiviteit - De invloed van AI op arbeid
+## Activiteit - De invloed van AI op arbeid
 
 **Doel van de sessie:**\
 Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werkzaamheden kan veranderen, en welke kansen en uitdagingen dit oplevert. De inzichten die jullie opdoen, nemen jullie later mee in het ontwikkelen van een strategische AI-Roadmap.
@@ -44,6 +44,123 @@ Jullie gaan onderzoeken hoe AI de inhoud, het tempo en de omvang van jullie werk
     -   Elk groepje licht kort (max. 2 minuten) de belangrijkste conclusies toe.\
     -   Samen bekijken jullie welke rode draden en aandachtspunten naar voren komen.\
     -   Tot slot bespreken jullie hoe deze inzichten zullen worden gebruikt in de vervolgstappen voor het ontwikkelen van een strategische AI-Roadmap.
+:::
+
+::: callout-tip
+## Activiteit: Toekomst van werk - De Impact van AI
+
+**Doel van de sessie:**\
+Als strategische leiders onderzoeken jullie hoe AI de **aard van het werk**, de **benodigde vaardigheden** en de **rol van menselijk kapitaal** binnen jullie organisaties fundamenteel kan veranderen. Het doel is strategisch inzicht te verkrijgen in de toekomstige organisatie van werk en de implicaties daarvan, inclusief de verwachte tijdlijn van veranderingen.
+
+**Totale tijd:** 45 minuten
+
+**Benodigde materialen (optioneel):**
+
+-   Sticky notes of een digitaal document
+
+-   Toegang tot AI-tools (zie hieronder)
+
+-   Flip-over of digitaal samenwerkingsplatform (bijv. Miro, Mural)
+
+------------------------------------------------------------------------
+
+**Werkwijze**
+
+**Fase 1: Individuele brainstorm zonder AI (10 minuten)**
+
+**Doel:**\
+Stimuleer persoonlijke reflectie over de impact van AI op werk, zonder beïnvloeding van AI-hulpmiddelen.
+
+**Instructies:**
+
+-   Selecteer één of meerdere vragen uit onderstaande set en denk na over het antwoord.
+
+<details>
+
+<summary>Vragen</summary>
+
+<ol>
+
+<li>Welke soorten menselijke expertise in bestaande functies zullen waarschijnlijk vervangen worden of minder belangrijk worden door AI, met name door LLM’s?</li>
+
+<li>Op welke specifieke manieren kan AI de taken en verantwoordelijkheden van medewerkers ondersteunen en versterken, in plaats van volledig over te nemen?</li>
+
+<li>Welke nieuwe functies of taken kunnen ontstaan door de groeiende mogelijkheden van AI?</li>
+
+<li>Op welke wijze kan de organisatie van werk veranderen door de inzet van AI voor het monitoren en surveilleren van medewerkers?</li>
+
+<li>Welke verschuivingen in de machtsverhoudingen tussen werkgevers en werknemers worden verwacht door de toegenomen inzet van AI op de werkplek?</li>
+
+<li>Welke nieuwe vraagstukken en uitdagingen op het gebied van werknemersrechten, privacy, intellectueel eigendom en beloning kunnen voortvloeien uit de bredere adoptie van AI?</li>
+
+<li>Op welke manieren kan AI mogelijk de waarde van bestaand menselijk kapitaal en expertise binnen bepaalde functies verminderen?</li>
+
+<li>Waarom is het voor medewerkers belangrijk om nieuwe vaardigheden en expertise te ontwikkelen om relevant te blijven in een door AI veranderde werkomgeving?</li>
+
+<li>Wat is het verschil tussen het inzetten van AI ter vervanging (substitutie) en ter aanvulling (complementariteit) van arbeid, en welke factoren spelen hierbij een rol?</li>
+
+<li>Hoe kan de door AI gerealiseerde toename in productiviteit de waarde van menselijk kapitaal (zoals lonen en inkomsten) beïnvloeden, en welke zorgen zijn er over de verdeling van deze winst?</li>
+
+</ol>
+
+</details>
+
+-   Noteer één of twee kernideeën op een sticky note of in een digitaal document.
+
+------------------------------------------------------------------------
+
+**Fase 2: Groepsbrainstorm zonder AI (15 minuten)**
+
+**Doel:**\
+Deel en verrijk de individuele inzichten door er samen over te discussiëren, zonder directe AI-ondersteuning.
+
+**Instructies:**
+
+-   Vorm kleine groepen (3-4 personen).
+
+-   Bespreek binnen de groep jullie individuele bevindingen en reflecties op de impact van AI op werk, rollen en vaardigheden.
+
+-   Focus op het samenbrengen van kernideeën en het identificeren van overkoepelende thema’s, zoals trends in werkprocessen of de evolutie van rolomschrijvingen.
+
+------------------------------------------------------------------------
+
+**Fase 3: Groepsbrainstorm met AI (10 minuten)**
+
+**Doel:**\
+Gebruik AI als hulpmiddel binnen de groep om de discussie verder te verdiepen en aanvullende inzichten te verzamelen.</br> **Aanbevolen AI-tools:**\
+\* [ChatGPT](https://chat.openai.com/){target="_blank"}\
+\* [Perplexity](https://www.perplexity.ai/){target="_blank"}\
+\* [Claude](https://claude.ai/){target="_blank"}\
+\* [Gemini](https://www.google.com/){target="_blank"}\
+\* [Mistral](https://mistral.ai/){target="_blank"}\
+\* [OpenAlex](https://openalex.org/){target="_blank"}\
+\* [Scispace](https://scispace.com/){target="_blank"}\
+\* [Consensus](https://consensus.app/search/){target="_blank"}
+
+**Instructies:**
+
+-   Maak gebruik van AI-tooling om een of meerdere kernvragen opnieuw te onderzoeken.
+
+-   Bespreek gezamenlijk de output van de AI en vergelijk deze met de eerder besproken ideeën.
+
+-   Documenteer welke nieuwe inzichten of perspectieven naar voren komen en hoe deze de eerdere discussie aanvullen.
+
+------------------------------------------------------------------------
+
+**Fase 4: Evaluatie & Reflectie (10 minuten)**
+
+**Doel:**\
+Bepaal gezamenlijk in welke fase de inzet van AI de meest waardevolle bijdrage heeft geleverd.
+
+**Instructies:**\
+
+-   Reflecteer kort over de ervaringen in beide settings (alleen, met groep en als groep met AI-ondersteuning).
+
+-   Bespreek in de groep welke aanpak leidde tot meer innovatieve of strategisch bruikbare inzichten.
+
+-   Noteer de conclusies en bespreek kort de mogelijke implicaties voor toekomstig strategisch gebruik van AI in jullie organisaties.
+
+![Uit: @wilson1973bicycle](images/man-on-a-bike.png)
 :::
 
 ## Aanvullend inspiratiemateriaal
