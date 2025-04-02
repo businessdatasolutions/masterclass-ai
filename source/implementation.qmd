@@ -64,12 +64,12 @@ Jullie gaan ervaren hoe AI kan helpen bij het snel omzetten van ideeën naar wer
     -   De opbrengsten van deze activiteit kunnen worden meegenomen in de Roadmap als concrete toepassingsmogelijkheden.
     -   Zie deze [demo](https://youtu.be/6Mbqmb4RRv0?si=pFYQSS16RSs5dZd2){target="_blank"} ter verduidelijking van het concept.
 
-2.  **Creatie van mockups (15 minuten)**
+2.  **Creatie van mockups (20 minuten)**
     -   In kleine groepjes (3-4 personen) maken jullie op een groot vel papier een mockup van een systeem dat jullie graag zouden willen hebben.\
     -   Gebruik post-its, stiften en andere beschikbare materialen om de interface en functionaliteit te visualiseren.\
     -   Denk aan: *Welk probleem lost dit systeem op en voor wie?*
 
-3.  **Van mockup naar prototype (30 minuten)**
+3.  **Van mockup naar prototype (20 minuten)**
     -   Maak een duidelijke foto van jullie mockup.\
     -   Ga naar een AI-tool ([Claude](https://claude.ai/){target="_blank"}, [ChatGPT 4o met Canvas](https://chat.openai.com/){target="_blank"}, [Gemini](https://gemini.google.com//){target="_blank"} of [Lovable](https://lovable.dev/){target="_blank"}).\
     -   Voer de volgende prompt in: \
