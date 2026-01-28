@@ -172,8 +172,11 @@ display(HTML(html_table))
     
 2.  **Station 1: Explore (15 minuten)**
     -   Deelnemers vormen kleine groepjes (3-4 personen).\
-    -   Identificeer 2-3 AI-kansen (use-cases) die aansluiten bij de organisatiedoelen. Denk aan gebruik van data, klantbehoeften of markttrends.\
-    -   Noteer kort de businesswaarden en beoogde impact: *Waarmee kunnen we het meeste verschil maken?*
+    -   **Start met jullie strategische analogie** uit de ochtend-sessie:
+        -   Welke strategische keuze hebben jullie gemaakt?\
+        -   Welke causale mechanismen zijn relevant voor AI-implementatie?\
+    -   Identificeer 2-3 AI-kansen (use-cases) die **aansluiten bij jullie analogie**. Denk aan gebruik van data, klantbehoeften of markttrends.\
+    -   Noteer kort de businesswaarden en beoogde impact: *Hoe ondersteunt AI de strategische logica uit jullie analogie?*
 3.  **Station 2: Transfer (15 minuten)**
     -   Schuif door naar de volgende tafel of flip-over.\
     -   Per use-case: wat is nodig om van concept naar werkende AI-oplossing te gaan?\
