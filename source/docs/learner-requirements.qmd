@@ -86,7 +86,8 @@ Na het volgen van de Masterclass AI:
 *Integratie van AI in bedrijfsstrategie*
 
 -   Deelnemers kunnen strategische aannames toetsen aan AI-disruptie
--   Deelnemers identificeren strategic misfits en kansen
+-   Deelnemers passen analogisch redeneren toe om strategische patronen te ontdekken
+-   Deelnemers identificeren strategic misfits en kansen via premisse-analyse
 -   Deelnemers positioneren AI binnen de organisatiestrategie
 
 ### Thema 5: Casestudies
@@ -111,6 +112,7 @@ Na het volgen van de Masterclass AI:
 
 -   Geopolitiek bewustzijn en concurrentiepositionering
 -   Strategische argumentatie en logisch denken
+-   Analogisch redeneren: patronen herkennen en premissen expliciet maken
 -   Verandermanagement en organisatie-alignment
 
 ### Praktische competenties
@@ -143,6 +145,7 @@ Na het volgen van de Masterclass AI:
 
 -   **Opbouwende discussie**: Individuele reflectie → kleine groep → plenair
 -   **Perspectiefwisseling**: Brainstorm met perspectieven/lenzen per groep
+-   **Analogisch redeneren**: Gestructureerde analogie-building met Strategische Analogie Builder
 -   **Data-gedreven dialoog**: Real-time surveys met live datavisualisatie
 -   **Hands-on prototyping**: Werken met AI-tools (Claude, ChatGPT, Gemini, Lovable)
 -   **Peer learning**: Gallery walk met peer feedback (sticky notes)

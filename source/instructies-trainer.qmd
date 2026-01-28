@@ -100,3 +100,96 @@ jupyter: python3
 -   **Betrokkenheid:** Stimuleer actieve deelname van iedereen, en moedig stille deelnemers aan.\
 -   **Gebruik van Bronnen:** Verwijs regelmatig naar de bronnen om discussies te voeden en te onderbouwen.\
 -   **Focus:** Richt de aandacht op strategische en toekomstgerichte vraagstukken, houd technische details beperkt.
+
+------------------------------------------------------------------------
+
+**Lesactiviteit 2**\
+**Titel:** *"Strategische Analogie Builder"*
+
+**Doel:** Deelnemers ontwikkelen een onderbouwde strategische analogie voor hun organisatie via gestructureerd analogisch redeneren. De output dient als input voor de Roadmap Lab in Thema 5.
+
+**Tijd:** 45 minuten
+
+**Benodigdheden:**\
+- Laptops of tablets met internettoegang\
+- Whiteboard of flipover voor groepsdiscussie\
+- Toegang tot de [Strategische Analogie Builder](https://businessdatasolutions.github.io/analogy-strategyzing/){target="_blank"}
+
+------------------------------------------------------------------------
+
+### (1) Inleiding en Kader (10 minuten)
+
+1.  **Context schetsen**
+    -   Verwijs naar de eerdere thema's: geopolitiek, werk, governance.\
+    -   Leg uit dat we nu kijken naar strategische positionering.\
+2.  **Analogisch redeneren introduceren**
+    -   Executives gebruiken vaak analogieën ("wij zijn de Uber van X") maar meestal ongestructureerd.\
+    -   Probleem: globale analogieën zonder decompositie leiden tot zwakke argumenten.\
+    -   De kracht zit in het expliciet maken van causale mechanismen: *waarom* werkte de strategie bij het bronbedrijf?\
+3.  **Doel van de activiteit**
+    -   Een onderbouwde analogie bouwen die later als input dient voor de Roadmap Lab.\
+    -   Benadruk: "Bewaar je resultaat, je hebt dit straks nodig!"
+
+**Trainerstips:**\
+- Gebruik een concreet voorbeeld om het concept te illustreren (bijv. "Netflix is de Blockbuster-killer" - waarom werkte dat?).\
+- Benadruk dat het niet gaat om de 'coolste' analogie, maar om de best onderbouwde.
+
+------------------------------------------------------------------------
+
+### (2) Strategische Analogie Builder (20 minuten)
+
+1.  **Instructie geven**
+    -   Laat deelnemers naar de tool navigeren: [businessdatasolutions.github.io/analogy-strategyzing/](https://businessdatasolutions.github.io/analogy-strategyzing/){target="_blank"}\
+    -   Leg de 4 stappen uit:
+        1.  **Kies je positie** bij contrasterende bedrijfsparen (bijv. Figma vs. Adobe)\
+        2.  **Identificeer positieve premissen** — waar lijkt jouw organisatie op de bron?\
+        3.  **Benoem negatieve premissen** — waar verschilt jouw situatie kritisch?\
+        4.  **Articuleer het causale mechanisme** — waarom werkte de bronstrategie?\
+2.  **Individueel werken**
+    -   Deelnemers doorlopen de tool zelfstandig.\
+    -   Loop rond om vragen te beantwoorden.\
+3.  **Reminder**
+    -   Herinner deelnemers halverwege om hun resultaat te bewaren.
+
+**Trainerstips:**\
+- Sommige deelnemers vinden het lastig om premissen te formuleren. Help hen met vragen als: "Welke aannames maak je over je klanten/markt/concurrenten?".\
+- Let op deelnemers die vastlopen bij de keuze - moedig hen aan om gewoon te beginnen.
+
+------------------------------------------------------------------------
+
+### (3) Groepsdiscussie (15 minuten)
+
+1.  **Groepsindeling**
+    -   Verdeel deelnemers in groepjes van 3-4 personen.\
+2.  **Deel en vergelijk**
+    -   Deelnemers delen hun gekozen analogie en onderbouwing.\
+    -   Groepsleden stellen kritische vragen:
+        -   Zijn de positieve premissen echt van toepassing?\
+        -   Welke negatieve premissen worden onderschat?\
+3.  **Selectie**
+    -   Elk groepje kiest één sterke analogie om kort te presenteren.\
+4.  **Korte presentaties**
+    -   Optioneel: laat 2-3 groepjes hun analogie presenteren (1-2 min per groep).
+
+**Trainerstips:**\
+- Stimuleer constructieve kritiek, niet alleen complimenten.\
+- Vraag door op de causale mechanismen: "Waarom denk je dat dit ook voor jullie organisatie werkt?".\
+- Maak de link naar de Roadmap Lab: "Hoe helpt deze analogie bij het identificeren van AI-kansen?"
+
+------------------------------------------------------------------------
+
+### Verwachte Resultaten
+
+-   Elke deelnemer heeft een onderbouwde strategische analogie.\
+-   Deelnemers begrijpen het belang van het expliciet maken van aannames.\
+-   Groepen hebben elkaars analogieën kritisch besproken.\
+-   **Input voor Thema 5:** de analogie dient als startpunt voor de Roadmap Lab.
+
+------------------------------------------------------------------------
+
+### Belangrijke Overwegingen voor de Trainer
+
+-   **Technische voorbereiding:** Test vooraf of de tool werkt op het netwerk.\
+-   **Tijdmanagement:** De tool-fase (20 min) kan uitlopen; wees flexibel met de discussietijd.\
+-   **Rode draad:** Benadruk meerdere keren dat de output nodig is voor de middag.\
+-   **Theoretische achtergrond:** De tool is gebaseerd op Carroll & Sørensen (2024). Verwijs naar het artikel "Strategy theory using analogy" in het werkboek voor geïnteresseerden.
