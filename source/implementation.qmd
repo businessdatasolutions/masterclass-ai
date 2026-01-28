@@ -6,7 +6,7 @@ jupyter: python3
 
 Succesvol inzetten van AI vraagt méér dan technologie; het vereist een organisatiebrede visie en aanpassing van bestaande werkwijzen. In deze sessie ontdekken we welke organisatorische voorwaarden nodig zijn om AI-strategie succesvol uit te voeren.
 
-## AI Experimentatie & Waardecreatie Framework
+## AI Portfolio & Waardecreatie Framework
 
 Om AI-initiatieven effectief te prioriteren, hanteren we een portfoliobenadering gebaseerd op twee dimensies: **implementatierisico** en **waardecreatie potentieel**.
 
@@ -170,6 +170,8 @@ Om AI-initiatieven effectief te prioriteren, hanteren we een portfoliobenadering
   </div>
 </div>
 ```
+
+*Framework: Witek ten Hove — [Meer uitleg](https://businessdatasolutions.github.io/thtx-knowledge-bank/ai-experimentatie-framework/){target="_blank"}*
 
 **De vier kwadranten:**
 
@@ -359,20 +361,20 @@ Dit artikel uit 2023 van Perifanis en Kitsios is een systematische literatuurstu
 
 Deze bron is waardevol omdat ze rechtstreeks ingaat op de vraag waar AI waarde kan opleveren—iets wat onmisbaar is voor elke AI-strategie. De publicatie wijst erop dat veel organisaties vastlopen in de proof-of-conceptfase en biedt inzichten in hoe AI-koplopers écht waarde uit de technologie halen. De rapportage heeft een praktische insteek, benoemt waar andere bedrijven tekortschieten en geeft suggesties voor verbetering van AI-trajecten. Voor een Masterclass is dit document uitermate geschikt, omdat het een praktische benadering van AI-implementatie geeft met nadruk op waardecreatie [@noauthor_wheres_2024].
 
-### Video: Developing a Gen AI Strategy for your Company
+### Video: Leadership at All Levels - Strategieën voor wendbare organisaties
 
-In deze webinar wordt besproken hoe AI-capaciteiten praktisch binnen een bedrijf kunnen worden geïntegreerd. Zo komen de inzet van beeldgeneratie en spraakherkenning aan bod en wordt duidelijk hoe deze tools bedrijfsprocessen kunnen verbeteren. De transcriptie bespreekt ook een bedrijf dat gepersonaliseerde diensten aanbiedt met behulp van AI, wat goed illustreert hoe AI kan bijdragen aan een betere klantervaring. Daarnaast gaat het in op de manier waarop een organisatie AI-native kan worden, in plaats van AI simpelweg toe te passen op bestaande processen. Daarmee biedt deze bron een actueel en praktisch voorbeeld van hoe een organisatie een generatieve AI-strategie kan opstellen. [@digital_data_design_institute_at_harvard_developing_2023].
+In deze aflevering van *Leadership at All Levels* delen leiders van vooraanstaande bedrijven als GE Appliances, W.L. Gore, Bayer en Cascade Engineering zeven bewezen strategieën om traditionele hiërarchieën te doorbreken en teams echte beslissingsbevoegdheid te geven. De video behandelt drie kerngebieden: (1) de mindsetverandering die nodig is voor gedistribueerd leiderschap—met name *nederigheid* en *luisteren* als cruciale vaardigheden; (2) structuren die snelheid en autonomie mogelijk maken, zoals *microenterprises* bij GE Appliances die van een stagnerend bedrijf het snelst groeiende apparatenbedrijf van Amerika maakten; en (3) hoe te floreren wanneer chaos de nieuwe norm is—met *veerkracht* als de belangrijkste competentie. De boodschap is helder: in een wereld waar wat je gisteren plande morgen al achterhaald kan zijn, winnen organisaties die gebouwd zijn op aanpassingsvermogen, niet op gecentraliseerde macht.
 
-{{< video https://www.youtube.com/embed/yKi5saVdZ50 >}}
+{{< video https://www.youtube.com/embed/rq5BefIKxDo?si=4ITdcwYEJcw8MAbK >}}
 
-### Video: Common business use cases for generative AI
+### Video: The AI Vantage - Van generatieve AI naar Agentic AI
 
-In deze video verkennen experts een aantal praktische toepassingen van generatieve AI in het bedrijfsleven. Ze bespreken use-cases zoals productcatalogisering en klantenservice, en laten zien hoe AI kan worden ingezet om concrete zakelijke uitdagingen op te lossen. De voordelen van samenvattingsfuncties en het belang van experimenteren met AI worden hierbij benadrukt. Daarnaast worden inzichten gedeeld wat betreft de technische aspecten en vereisten voor het implementeren van generatieve AI [@google_cloud_common_2023].
+In dit gesprek met Trish Wenton van Google DeepMind—die werkte aan TensorFlow, de transformer-architectuur, en producten als Bard en Gemini—wordt de evolutie van generatieve AI naar *agentic AI* verkend. Waar generatieve AI een menselijke prompt vereist, kunnen agents autonoom redeneren, plannen en acties uitvoeren. Wenton beschrijft dit als de verschuiving van mens-computer *interactie* naar mens-computer *collaboratie*. Voor bedrijven betekent een agentic transformatie geen eenjarig traject, maar een meerjarige reis waarbij je moet starten met een helder beeld van de gewenste business outcomes en dat matcht met wat technisch nu en in de toekomst mogelijk is. De meest vooruitstrevende organisaties denken nu al na over hoe hun bedrijf eruitziet wanneer agents over 5-10 jaar significante delen aansturen. Wenton waarschuwt ook voor risico's zoals media-authenticiteit en geavanceerde phishing, maar is vooral optimistisch over AI's potentieel in wetenschap, medicijnontwikkeling en het begrijpen van het menselijk brein.
 
-{{< video https://www.youtube.com/embed/c4dwJlTzgdI >}}
+{{< video https://www.youtube.com/embed/IkCY53hF8iI?si=T1rn9xpGiUK5N3fH >}}
 
-### Video: Never just tech - Unlocking the full value of gen AI
+### Video: The Lightcone - Het Forward Deployed Engineer Model voor AI-agents
 
-Onderzoek van McKinsey schat dat generatieve AI (gen AI) jaarlijks tot 4,4 biljoen dollar kan bijdragen aan de wereldeconomie. In uiteenlopende sectoren en functies zou gen AI kunnen worden ingezet om bureaucratische processen te verkorten, klantreizen te verbeteren en het proces van coderen en contentcreatie te versnellen. Tijdens een recente editie van McKinsey Live bespraken partner Jessica Lamb en senior partner Gayatri Shenai de potentie van gen AI, de uitdagingen die ermee gepaard gaan en gaven zij bestuurders advies over de integratie van gen AI in hun organisaties. [@mckinsey__company_never_2024].
+In dit gesprek met Bob McGrew—voormalig Chief Research Officer bij OpenAI en early executive bij Palantir—wordt het *Forward Deployed Engineer* (FDE) model ontleed dat nu explosief groeit onder AI-agent startups. Een FDE is een technisch specialist die bij de klant zit en de kloof overbrugt tussen wat het product kan en wat de klant nodig heeft. Bij Palantir ontstond dit model uit noodzaak: ze bouwden software voor spionnen die niet konden vertellen wat ze deden. De kern van het model is dat je *outcomes* verkoopt, geen software-installaties. McGrew beschrijft twee cruciale rollen: het *echo team* (domeinexperts die klantproblemen identificeren) en het *delta team* (engineers die snel prototypes bouwen). Waarom werkt dit juist nu voor AI-agents? Omdat er geen incumbent product is—er is enorme product discovery nodig die alleen van binnenuit de organisatie kan gebeuren. Het model is in essentie "doing things that don't scale, at scale." De belangrijkste metric is niet hoeveel custom werk je doet, maar of de waarde van de geleverde outcomes per klant toeneemt.
 
-{{< video https://www.youtube.com/embed/g4TILHS49tk >}}
+{{< video https://www.youtube.com/embed/Zyw-YA0k3xo?si=F-84uH2-8wzYz49L >}}
