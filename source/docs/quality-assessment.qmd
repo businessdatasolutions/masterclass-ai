@@ -1,0 +1,353 @@
+---
+title: "Kwaliteitsbeoordeling Masterclass AI"
+subtitle: "Didactische analyse tegen LRD-criteria"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+# Samenvatting
+
+Deze analyse beoordeelt de huidige kwaliteit van de Masterclass AI tegen de didactische criteria uit het Learner Requirement Document. De beoordeling is uitgevoerd op basis van een grondige analyse van alle hoofdstukken en activiteiten.
+
+**Totaalscore: 3.9/5 (GOED)**
+
+---
+
+# Scores per Didactisch Principe
+
+| Principe | Score | Beoordeling |
+|----------|:-----:|-------------|
+| **Action Learning** | 3.9/5 | Goede mix van activiteiten, maar H2/H4/H5 te veel discussie, te weinig hands-on |
+| **Sociaal Constructivisme** | 3.9/5 | Consistente groepswerk, maar peer feedback protocollen ontbreken vaak |
+| **Situated Learning** | 4.3/5 | Sterkste punt - consequente focus op eigen organisatiecontext |
+| **Experiential Learning** | 3.6/5 | Alleen H3 en H6 hebben echte hands-on elementen met AI-tools |
+| **Reflective Practice** | 3.9/5 | Goede reflectiemomenten, maar metacognitieve vragen kunnen dieper |
+
+---
+
+# Scores per Hoofdstuk
+
+| Hoofdstuk | Score | Tier | Belangrijkste bevinding |
+|-----------|:-----:|------|-------------------------|
+| H1: Voorwoord | 2.2/5 | Onder gemiddeld | Geen activiteiten in de sessie zelf |
+| H2: Geopolitiek | 3.8/5 | Goed | Sterke groepsdiscussie, mist individuele reflectie |
+| H3: Arbeid | **5.0/5** | Excellent | Survey + AI-tools + reflectie + groepswerk |
+| H4: Governance | 3.2/5 | Voldoende | Quiz en groepsactiviteit zijn losgekoppeld |
+| H5: Strategie | 4.2/5 | Goed | Sterke reflectie, mist hands-on werk |
+| H6: Implementatie | **4.8/5** | Excellent | Prototyping + gallery walk + pre-mortem |
+| Trainershandleiding | 3.6/5 | Voldoende | Alleen voor H2 uitgewerkt |
+
+---
+
+# Detailanalyse per Hoofdstuk
+
+## H1: Voorwoord (index.qmd) - Score: 2.2/5
+
+### Aanwezige elementen
+
+- Pre-masterclass reflectievragen (voorbereiding)
+- Nadruk op eigen organisatiecontext
+- Verwijzingen naar externe bronnen
+
+### Ontbrekende elementen
+
+- Geen in-class activiteiten
+- Geen groepsinteractie
+- Geen hands-on werk
+- Geen activerende kennismaking
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 2/5 |
+| Sociaal Constructivisme | 1/5 |
+| Situated Learning | 4/5 |
+| Experiential Learning | 1/5 |
+| Reflective Practice | 3/5 |
+
+---
+
+## H2: Geopolitiek (intro.qmd) - Score: 3.8/5
+
+### Aanwezige elementen
+
+- Groepsbrainstorm met 4 lenzen (45 min)
+- Presentaties per groep (2-3 min)
+- Plenaire discussie
+- Inspiratiemateriaal (video's, rapporten)
+- Interactieve datavisualisatie (marktkapitalisatie)
+
+### Ontbrekende elementen
+
+- Geen individuele pre-reflectie
+- Geen peer feedback protocol
+- Geen hands-on prototyping
+- Beperkte koppeling naar eigen sector
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 4/5 |
+| Sociaal Constructivisme | 5/5 |
+| Situated Learning | 4/5 |
+| Experiential Learning | 3/5 |
+| Reflective Practice | 3/5 |
+
+---
+
+## H3: Arbeid (work.qmd) - Score: 5.0/5
+
+### Aanwezige elementen
+
+- Interactieve survey met live dashboard
+- Individuele brainstorm ZONDER AI (10 min)
+- Groepsbrainstorm ZONDER AI (10 min)
+- Groepsbrainstorm MET AI-tools (10 min)
+- Vergelijkende reflectie (10 min)
+- Meerdere AI-tools (ChatGPT, Claude, Gemini, Perplexity, etc.)
+- Ondersteunend materiaal (video's, rapporten)
+
+### Dit hoofdstuk is een modelvoorbeeld
+
+- Alle 5 pedagogische principes effectief toegepast
+- Sterke opbouw: individueel → groep → tools → reflectie
+- Directe vergelijking menselijke vs. AI-inzichten
+- Grounding in eigen werksituatie
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 5/5 |
+| Sociaal Constructivisme | 5/5 |
+| Situated Learning | 5/5 |
+| Experiential Learning | 5/5 |
+| Reflective Practice | 5/5 |
+
+---
+
+## H4: Governance (governance.qmd) - Score: 3.2/5
+
+### Aanwezige elementen
+
+- Interactieve quiz over AI-attitudes
+- Groepsontwerp van governance framework
+- Presentaties (2 min per groep)
+- Veel ondersteunend materiaal (EU AI Act, video's, artikelen)
+
+### Ontbrekende elementen
+
+- Quiz en groepsactiviteit zijn losgekoppeld
+- Geen peer feedback protocol
+- Geen hands-on toepassing van framework
+- Geen sectorspecifieke voorbeelden
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 3/5 |
+| Sociaal Constructivisme | 3/5 |
+| Situated Learning | 3/5 |
+| Experiential Learning | 3/5 |
+| Reflective Practice | 4/5 |
+
+---
+
+## H5: Strategie (strategy.qmd) - Score: 4.2/5
+
+### Aanwezige elementen
+
+- Individuele reflectie (10 min, 5 vragen)
+- Kleine groep dialoog (20 min)
+- Identificatie van strategic misfits
+- Plenaire presentaties en synthese
+- Uitgebreid ondersteunend materiaal (8 video's, artikel)
+
+### Ontbrekende elementen
+
+- Geen hands-on strategie prototyping
+- Geen peer feedback protocol
+- Geen scenario testing
+- Beperkte koppeling naar eerdere hoofdstukken
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 4/5 |
+| Sociaal Constructivisme | 4/5 |
+| Situated Learning | 5/5 |
+| Experiential Learning | 3/5 |
+| Reflective Practice | 5/5 |
+
+---
+
+## H6: Implementatie (implementation.qmd) - Score: 4.8/5
+
+### Aanwezige elementen
+
+- **Activiteit 1: Van idee naar prototype** (75 min)
+  - Paper mockup
+  - AI-assisted prototyping (Claude, ChatGPT, Gemini, Lovable)
+  - Marketplace presentatie
+
+- **Activiteit 2: Roadmap Lab** (60 min)
+  - Rotatie door 3 stations: Explore → Transfer → Exploit
+  - Interactieve use case matrix
+
+- **Activiteit 3: Roadmap Poster** (45 min)
+  - Visuele poster creatie
+  - Gallery walk met sticky note feedback
+
+- **Activiteit 4: Pre-mortem** (30 min)
+  - Risico-identificatie
+  - Opportunity mapping
+  - Actieplan
+
+### Dit hoofdstuk is bijna excellent
+
+- Alle 5 principes goed toegepast
+- Hands-on prototyping met echte AI-tools
+- Peer feedback via gallery walk
+- Pre-mortem voor reflectie op risico's
+
+### Verbeterpunt
+
+- Geen individuele pre-reflectie voor groepswerk
+- Geen gestandaardiseerd template voor roadmap output
+
+### Scores per principe
+
+| Principe | Score |
+|----------|:-----:|
+| Action Learning | 5/5 |
+| Sociaal Constructivisme | 5/5 |
+| Situated Learning | 5/5 |
+| Experiential Learning | 5/5 |
+| Reflective Practice | 4/5 |
+
+---
+
+## Trainershandleiding (instructies-trainer.qmd) - Score: 3.6/5
+
+### Aanwezige elementen
+
+- Gedetailleerde instructies voor H2 (Geopolitiek)
+- Facilitatietips en verwachte uitkomsten
+- Timing en discussievragen
+
+### Ontbrekende elementen
+
+- Geen handleidingen voor H3-H6
+- Geen assessment rubrics
+- Geen facilitatietechnieken voor moeilijke situaties
+- Geen guidance voor integratie tussen hoofdstukken
+
+---
+
+# Sterke Punten
+
+## 1. H3 (Arbeid) en H6 (Implementatie) zijn pedagogisch excellent
+
+Beide hoofdstukken kunnen als template dienen voor de andere hoofdstukken:
+
+- Alle 5 pedagogische principes effectief toegepast
+- Hands-on AI-tool gebruik
+- Gestructureerde opbouw van activiteiten
+- Sterke verbinding met organisatiecontext
+
+## 2. Situated Learning is consequent sterk (4.3/5)
+
+- Nadruk op eigen organisatiecontext in alle hoofdstukken
+- Echte use cases en voorbeelden
+- Deelnemers brengen eigen scenario's in
+
+## 3. Gevarieerde werkvormen
+
+- Individuele reflectie
+- Kleine groep discussie
+- Plenaire sessies
+- Surveys en quizzes
+- Gallery walks
+- Hands-on prototyping
+
+---
+
+# Verbeterpunten
+
+## Prioriteit 1: Kritieke gaps
+
+| Gap | Hoofdstukken | Aanbeveling |
+|-----|--------------|-------------|
+| Geen pre-reflectie | H2, H4, H6 | 5 min individuele reflectie toevoegen voor groepswerk |
+| Quiz losgekoppeld | H4 | Quiz-resultaten integreren in groepsopdracht |
+| Trainershandleiding onvolledig | H3-H6 | Handleidingen ontwikkelen voor alle hoofdstukken |
+
+## Prioriteit 2: Versterking nodig
+
+| Gap | Hoofdstukken | Aanbeveling |
+|-----|--------------|-------------|
+| Geen peer feedback protocol | H2, H4, H5 | Sticky-note feedback of rubrics toevoegen |
+| Te weinig hands-on | H2, H4, H5 | Mini-simulaties, scenario mapping toevoegen |
+| Output niet vastgelegd | H2, H4, H5 | Templates voor posters, matrices, frameworks |
+
+## Prioriteit 3: Verdieping mogelijk
+
+| Gap | Hoofdstukken | Aanbeveling |
+|-----|--------------|-------------|
+| Geen cross-chapter integratie | Alle | Integratieve afsluiting toevoegen |
+| Voorwoord zonder activiteit | H1 | Icebreaker of preference mapping toevoegen |
+| Metacognitieve reflectie | Alle | "Wat verraste je?" en "Hoe is je denken veranderd?" toevoegen |
+
+---
+
+# Pad naar Excellence (4.5+)
+
+Om van 3.9/5 naar 4.5+/5 te komen:
+
+1. **Versterk H2, H4, H5** met hands-on tools en peer feedback
+2. **Voeg pre-reflectie toe** aan H2, H4, H6
+3. **Ontwikkel trainershandleidingen** voor alle hoofdstukken
+4. **Creëer output-templates** voor vastlegging van groepswerk
+5. **Voeg cross-chapter integratie** activiteit toe
+6. **Verdiep reflectieve praktijk** met metacognitieve vragen
+
+---
+
+# Checklist Didactische Werkvormen
+
+| Werkvorm | H1 | H2 | H3 | H4 | H5 | H6 |
+|----------|:--:|:--:|:--:|:--:|:--:|:--:|
+| Individuele reflectie | - | - | + | - | + | - |
+| Kleine groep discussie | - | + | + | + | + | + |
+| Plenaire discussie | - | + | + | + | + | + |
+| Hands-on AI-tools | - | - | + | - | - | + |
+| Real-time survey/data | - | - | + | + | - | + |
+| Peer feedback (sticky notes) | - | - | - | - | - | + |
+| Pre-mortem analyse | - | - | - | - | - | + |
+| Gallery walk | - | - | - | - | - | + |
+| Case studies | - | + | + | + | + | + |
+| Ondersteunend materiaal | + | + | + | + | + | + |
+
+**Legenda:** + = aanwezig, - = afwezig
+
+---
+
+# Conclusie
+
+De Masterclass AI scoort **3.9/5 (GOED)** op de didactische criteria. De masterclass heeft twee excellente hoofdstukken (H3 Arbeid en H6 Implementatie) die als template kunnen dienen voor verbetering van de andere hoofdstukken.
+
+De belangrijkste verbeterpunten zijn:
+
+1. Meer hands-on elementen in H2, H4, H5
+2. Consistente peer feedback protocollen
+3. Volledige trainershandleidingen
+4. Cross-chapter integratie
+
+Met gerichte verbeteringen kan de masterclass naar excellence niveau (4.5+) worden gebracht.

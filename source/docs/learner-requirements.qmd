@@ -1,0 +1,156 @@
+---
+title: "Learner Requirement Document"
+subtitle: "Masterclass AI"
+author: "Schouten & Nelissen"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+# Programma-informatie
+
+## Algemeen
+
+| Kenmerk | Specificatie |
+|---------|--------------|
+| **Naam** | Masterclass AI |
+| **Aanbieder** | Schouten & Nelissen |
+| **Duur** | 1 collegedag (09:30 - 17:00 uur) |
+| **Max. groepsgrootte** | 25 deelnemers |
+| **Certificering** | Bewijs van deelname op basis van aanwezigheid en actieve deelname |
+
+## Doelgroep
+
+- Verantwoordelijk voor strategisch vormgeven van de toekomst van team of organisatie
+- Werkzaam binnen MKB of grote organisatie
+- Willen AI op strategisch niveau benaderen (niet een praktische AI-workshop)
+
+## Kernboodschap
+
+AI is meer dan een technologische tool; het is een cruciale pijler voor de toekomst van werk. Deze masterclass biedt theoretische inzichten en kaders om de betekenis van AI in de eigen organisatiecontext te doorgronden en strategisch in te zetten.
+
+## Beloofde resultaten
+
+Na afloop van de masterclass:
+
+- Begrijpen deelnemers vanuit macro-perspectief hoe AI ingrijpende veranderingen teweeg brengt
+- Kunnen deelnemers navigeren in de golf van innovatie
+- Kunnen deelnemers strategische keuzes maken voor korte en lange termijn
+- Weten deelnemers hoe zij AI succesvol integreren in hun organisatie
+- Nemen deelnemers een eigen integratieplan mee naar huis
+
+---
+
+# Leerdoelen & Competenties
+
+## Eindkwalificaties
+
+Na het volgen van de Masterclass AI:
+
+1. Kunnen de deelnemers uitleggen hoe AI strategische waarde toevoegt binnen bedrijven en het toekomstige werklandschap beïnvloedt
+2. Begrijpen de deelnemers hoe wet- en regelgeving de adoptie en toepassing van AI beïnvloeden en hoe dit vraagt om Governance binnen hun organisatie
+3. Hebben de deelnemers de huidige AI-volwassenheid van hun organisatie in kaart gebracht met behulp van een relevant model of framework
+4. Hebben de deelnemers op basis van casestudies succesvolle AI-strategieën geïdentificeerd voor de eigen organisatiecontext
+5. Hebben de deelnemers een eerste ontwerp van een roadmap om AI mee te nemen als integraal onderdeel van de toekomstvisie van de eigen organisatie
+
+## Leerdoelen per thema
+
+### Thema 1: Het grote plaatje (Inleiding)
+
+*AI in het huidige en toekomstige ecosysteem van werk*
+
+- Deelnemers begrijpen de geopolitieke context van AI (EU/VS/China)
+- Deelnemers kennen de macro-economische effecten van AI-adoptie
+- Deelnemers kunnen strategische implicaties voor hun sector benoemen
+
+### Thema 2: AI en Arbeid
+
+*Invloed van AI op werk*
+
+- Deelnemers kunnen de impact van AI op functies en rollen analyseren
+- Deelnemers weten welke competenties veranderen door AI
+- Deelnemers herkennen kansen en bedreigingen voor hun organisatie
+
+### Thema 3: AI en Governance
+
+*Wet- en regelgeving*
+
+- Deelnemers kennen relevante wet- en regelgeving (EU AI Act)
+- Deelnemers begrijpen risicocategorieën van AI-toepassingen
+- Deelnemers kunnen governance-principes voor hun organisatie formuleren
+
+### Thema 4: Strategische planning
+
+*Integratie van AI in bedrijfsstrategie*
+
+- Deelnemers kunnen strategische aannames toetsen aan AI-disruptie
+- Deelnemers identificeren strategic misfits en kansen
+- Deelnemers positioneren AI binnen de organisatiestrategie
+
+### Thema 5: Casestudies
+
+*Succesvolle implementaties van AI-strategieën*
+
+- Deelnemers analyseren succesvolle AI-implementaties uit diverse sectoren
+- Deelnemers identificeren patronen en succesfactoren
+- Deelnemers vertalen learnings naar de eigen context
+
+### Thema 6: Roadmap voor AI
+
+*De vertaalslag naar de eigen organisatie*
+
+- Deelnemers kunnen een prototype bouwen met AI-tools
+- Deelnemers ontwerpen een roadmap (Explore-Transfer-Exploit)
+- Deelnemers identificeren risico's via pre-mortem analyse
+
+## Competentiegebieden
+
+### Strategische competenties
+
+- Geopolitiek bewustzijn en concurrentiepositionering
+- Strategische argumentatie en logisch denken
+- Verandermanagement en organisatie-alignment
+
+### Praktische competenties
+
+- AI-prototyping met tools (Claude, ChatGPT, Gemini, Lovable)
+- Human-AI samenwerkingsontwerp
+- Governance en compliance framework ontwikkeling
+
+### Leiderschapscompetenties
+
+- Systeemdenken over AI-adoptie
+- Stakeholder engagement en communicatie
+- Ambidexteriteit: gelijktijdig innoveren en opereren
+
+---
+
+# Didactische Uitgangspunten
+
+## Pedagogische principes
+
+| Principe | Toelichting |
+|----------|-------------|
+| **Action Learning** | Theorie direct toepassen via activiteiten en roadmap-ontwerp |
+| **Sociaal constructivisme** | Kennis opbouwen via groepsdialoog en peer-interactie |
+| **Situated learning** | Alle content geframed binnen deelnemers' organisatiecontext |
+| **Experiential learning** | Hands-on prototyping en tool-gebruik, geen pure colleges |
+| **Reflective practice** | Gestructureerde reflectie op aannames, risico's en kansen |
+
+## Didactische werkvormen
+
+- **Opbouwende discussie**: Individuele reflectie → kleine groep → plenair
+- **Perspectiefwisseling**: Brainstorm met perspectieven/lenzen per groep
+- **Data-gedreven dialoog**: Real-time surveys met live datavisualisatie
+- **Hands-on prototyping**: Werken met AI-tools (Claude, ChatGPT, Gemini, Lovable)
+- **Peer learning**: Gallery walk met peer feedback (sticky notes)
+- **Risicomanagement**: Pre-mortem analyse
+
+## Beoordelingsprincipes
+
+- Geen formele toetsing of cijfers
+- Formatieve assessment via observatie en peer feedback
+- Zelfbeoordeling via herkenning van organisatierelevantie
+- **Deliverable**: Persoonlijke AI-roadmap als eindproduct
