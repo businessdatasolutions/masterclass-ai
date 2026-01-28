@@ -4,52 +4,161 @@ jupyter: python3
 
 # AI: Succesfacoren voor strategische implementatie / Roadmap
 
-Succesvol inzetten van AI vraagt méér dan technologie; het vereist een organisatiebrede visie en aanpassing van bestaande werkwijzen. In deze sessie gaan we ontdekken welke voorwaarden moeten worden geschapen op het gebied van **cultuur**, **structuur**, **systemen** en **human capital**, zodat de AI-strategie succesvol kan worden uitgevoerd.
+Succesvol inzetten van AI vraagt méér dan technologie; het vereist een organisatiebrede visie en aanpassing van bestaande werkwijzen. In deze sessie ontdekken we welke organisatorische voorwaarden nodig zijn om AI-strategie succesvol uit te voeren.
 
-![Het dynamic-capabilities model [@noauthor_building_nodate] beschrijft hoe factoren als disruptieve concurrentie en nieuwe technologieën leiden tot een proces van ‘digital sensing’, ‘digital seizing’ en ‘digital transforming’, met als doel een vernieuwd businessmodel en cultuur.](images/dynamic-capabilities.jpg)
+## AI Experimentatie & Waardecreatie Framework
 
-## Cultuur, Structuur, Systemen én Human Capital
+Om AI-initiatieven effectief te prioriteren, hanteren we een portfoliobenadering gebaseerd op twee dimensies: **implementatierisico** en **waardecreatie potentieel**.
 
-1.  **Cultuur**
-    -   **Experimenteer en leer:** Creëer een veilige omgeving voor pilots en prototypes.\
-    -   **Samenwerking:** Doorbreek silo’s; laat domeinexperts en AI-specialisten elkaars krachten benutten.\
-    -   **Continue ontwikkeling:** Bied (her)scholing voor digitale en AI-vaardigheden.\
-    -   **Focus op mens + AI:** Positioneer AI als aanvulling op menselijk oordeel, niet als vervanging.
-2.  **Structuur**
-    -   **Wendbaar organiseren:** Vermijd starre hiërarchieën, werk in multidisciplinaire teams.\
-    -   **Centraliseer AI-kennis:** Richt een AI-center of excellence in om standaarden te borgen.\
-    -   **Data als ruggengraat:** Bouw een infrastructuur die schone, goed georganiseerde data garandeert.
-3.  **Systemen & Governance**
-    -   **Technologische basis:** Investeer in schaalbare AI-platforms en tooling.\
-    -   **Naadloze integratie:** Zorg dat AI-oplossingen onderdeel worden van dagelijkse processen en besluitvorming.\
-    -   **AI-governance:** Waarborg ethiek, privacy en transparantie in alle AI-toepassingen.
-4.  **Human Capital**
-    -   **Vaardigheden en upskilling:** Schenk aandacht aan het ontwikkelen van nieuwe competenties, zoals data-analyse, AI-ethiek en samenwerking tussen mens en machine.\
-    -   **Verandermanagement:** Neem medewerkers mee in het proces en zorg dat zij de toegevoegde waarde van AI begrijpen.\
-    -   **Werving en behoud:** Trek talent aan dat AI-innovaties kan vormgeven én implementeren, en stimuleer een cultuur van continue professionele groei.
+```{=html}
+<div class="portfolio-matrix">
+  <style>
+    .portfolio-matrix {
+      max-width: 650px;
+      margin: 2rem auto;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .matrix-container {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .matrix-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 3px;
+      position: relative;
+      background: #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      aspect-ratio: 1.2;
+    }
+    .quadrant {
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .quadrant h4 {
+      margin: 0 0 0.25rem 0;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+    .quadrant .subtitle {
+      margin: 0;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: #333;
+    }
+    .quadrant .description {
+      margin: 0.5rem 0 0 0;
+      font-size: 0.8rem;
+      color: #666;
+      font-style: italic;
+    }
+    .quick-wins { background: #FFF9C4; }
+    .strategic-bets { background: #E8D5F2; }
+    .low-priority { background: #FFFDE7; }
+    .learning-labs { background: #C8E6C9; }
+    .transfer-circle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      background: white;
+      border: 3px solid #444;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: #333;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      z-index: 10;
+    }
+    .x-axis-label, .y-axis-label {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+      color: #555;
+      font-weight: 500;
+    }
+    .axis-arrow {
+      font-size: 1.1rem;
+    }
+  </style>
+  <div class="matrix-container">
+    <div class="y-axis-label">
+      <span>Waardecreatiepotentieel</span>
+      <span class="axis-arrow">↑</span>
+    </div>
+    <div class="matrix-grid">
+      <div class="quadrant quick-wins">
+        <h4>Quick Wins</h4>
+        <p class="subtitle">Onmiddellijke Waarde</p>
+        <p class="description">Laag risico, hoog potentieel</p>
+      </div>
+      <div class="quadrant strategic-bets">
+        <h4>Strategic Bets</h4>
+        <p class="subtitle">Transformationele Doorbraken</p>
+        <p class="description">Hoog risico, hoog potentieel</p>
+      </div>
+      <div class="quadrant low-priority">
+        <h4>Low Priority</h4>
+        <p class="subtitle">Efficiency Plays</p>
+        <p class="description">Laag risico, laag potentieel</p>
+      </div>
+      <div class="quadrant learning-labs">
+        <h4>Learning Labs</h4>
+        <p class="subtitle">Capability Building</p>
+        <p class="description">Hoog risico, laag zichtbaar potentieel</p>
+      </div>
+      <div class="transfer-circle">
+        <span>Transfer</span>
+      </div>
+    </div>
+    <div class="x-axis-label">
+      <span>Implementatierisico</span>
+      <span class="axis-arrow">→</span>
+    </div>
+  </div>
+</div>
+```
 
-Het succes van AI staat of valt met de manier waarop mensen en teams ermee leren werken en hoe goed de organisatie is ingericht om van data naar besluitvorming te gaan.
+**De vier kwadranten:**
 
-![De drie focusgebieden van management: exploratie, transfereren, exploitatie [@noauthor_business_nodate]](images/explore-exploit.jpeg)
+1.  **Quick Wins** (laag risico, hoog potentieel): Direct waarde leveren, vertrouwen opbouwen
+2.  **Strategic Bets** (hoog risico, hoog potentieel): Transformationele doorbraken die dynamische capaciteiten vereisen
+3.  **Learning Labs** (hoog risico, laag *zichtbaar* potentieel): Ontdekken wat je nog niet weet. De toekomst is onvoorspelbaar – Learning Labs creëren ruimte voor serendipiteit en bouwen capaciteiten op voor kansen die je nu nog niet kunt voorzien
+4.  **Low Priority** (laag risico, laag potentieel): Efficiëntie-verbeteringen, leerplatform voor beginners
 
-In deze sessie zullen we het **Business Model Portfolio** raamwerk hanteren:
+**Portfolio-allocatie:** Streef naar 60% Quick Wins, 20% Strategic Bets, 15% Learning Labs, 5% Low Priority.
 
-1.  **Explore**
-    -   **Visie formuleren:** Bepaal hoe AI bijdraagt aan de bedrijfsstrategie.\
-    -   **Kansen identificeren:** Onderzoek zowel interne capaciteiten (data, human capital) als externe markttrends.
-2.  **Transfer**
-    -   **AI-capaciteiten ontwikkelen:** Bouw prototypes, leg AI-standaarden vast en form de juiste teams.\
-    -   **Klantwaarde en winst verhogen:** Gebruik AI om waardeproposities te verbeteren en operationele kosten te verlagen.
-3.  **Exploit**
-    -   **Integratie in workflows:** Zorg dat AI-oplossingen onderdeel worden van dagelijkse processen en besluitvorming.\
-    -   **Schaalbaarheid en optimalisatie:** Borg de governance en blijf continu verbeteren om AI op grotere schaal te benutten.
+**Transfer als sleutel:** Een effectief AI-portfolio vereist dat alle kwadranten tegelijkertijd actief zijn. De kunst zit in de *transfer* – de continue stroom van inzichten, ideeën en innovaties tussen de kwadranten. Learning Labs voeden Strategic Bets met nieuwe ontdekkingen; succesvolle experimenten promoveren naar Quick Wins; en Quick Wins genereren data en vertrouwen die weer nieuwe Strategic Bets mogelijk maken.
 
-Door deze fasen systematisch te doorlopen, leert u niet alleen nieuwe AI-initiatieven op te zetten, maar deze ook succesvol te verankeren in uw organisatie.
+## Organisatorische voorwaarden: Dynamic Capabilities
 
-![@McLees2024GenAI](images/ai-pyramid.png){width=60%}
+Om dit portfolio-framework succesvol toe te passen, zijn organisatorische voorwaarden nodig. Het *Dynamic Capabilities* model beschrijft drie kernprocessen: *sensing* (kansen identificeren), *seizing* (kansen verzilveren) en *transforming* (organisatie aanpassen).
+
+![Het dynamic-capabilities model [@noauthor_building_nodate] beschrijft hoe factoren als disruptieve concurrentie en nieuwe technologieën leiden tot een proces van 'digital sensing', 'digital seizing' en 'digital transforming', met als doel een vernieuwd businessmodel en cultuur.](images/dynamic-capabilities.jpg)
+
+::: callout-note
+## Succesfactoren: Cultuur, Structuur, Systemen & Human Capital
+Succesvolle AI-implementatie vereist aandacht voor vier pijlers: **Cultuur** (experimenteren, samenwerken, continue ontwikkeling), **Structuur** (wendbaar organiseren, AI-kennis centraliseren, data als ruggengraat), **Systemen** (schaalbare platforms, naadloze integratie, governance) en **Human Capital** (upskilling, verandermanagement, talent aantrekken). Deze pijlers vormen de basis voor de dynamische capaciteiten die nodig zijn om Strategic Bets aan te kunnen.
+:::
 
 ::: callout-tip
 ## Activiteit - Van idee naar prototype met AI
+
 **Doel van de sessie:**\
 Jullie gaan ervaren hoe AI kan helpen bij het snel omzetten van ideeën naar werkende prototypes. Door een visuele mockup te transformeren naar een functioneel systeem, ontdekken jullie de mogelijkheden en beperkingen van AI-ondersteunde ontwikkeling en krijgen jullie inzicht in de praktische toepassingen voor jullie organisatie.
 
@@ -63,32 +172,27 @@ Jullie gaan ervaren hoe AI kan helpen bij het snel omzetten van ideeën naar wer
     -   In deze activiteit onderzoeken we: *Hoe kan AI helpen om ideeën snel om te zetten naar werkende prototypes?*\
     -   De opbrengsten van deze activiteit kunnen worden meegenomen in de Roadmap als concrete toepassingsmogelijkheden.
     -   Zie deze [demo](https://youtu.be/6Mbqmb4RRv0?si=pFYQSS16RSs5dZd2){target="_blank"} ter verduidelijking van het concept.
-
 2.  **Creatie van mockups (20 minuten)**
     -   In kleine groepjes (3-4 personen) maken jullie op een groot vel papier een mockup van een systeem dat jullie graag zouden willen hebben.\
     -   Gebruik post-its, stiften en andere beschikbare materialen om de interface en functionaliteit te visualiseren.\
     -   Denk aan: *Welk probleem lost dit systeem op en voor wie?*
-
 3.  **Van mockup naar prototype (20 minuten)**
     -   Maak een duidelijke foto van jullie mockup.\
     -   Ga naar een AI-tool ([Claude](https://claude.ai/){target="_blank"}, [ChatGPT 4o met Canvas](https://chat.openai.com/){target="_blank"}, [Gemini](https://gemini.google.com//){target="_blank"} of [Lovable](https://lovable.dev/){target="_blank"}).\
-    -   Voer de volgende prompt in: \
-    *"Please build a system for [beschrijving van het doel van het systeem] based on the mockup in the image. Use plain HTML, JS and Bootstrap"* en voeg de foto van jullie mockup toe.\
+    -   Voer de volgende prompt in:\
+        *"Please build a system for \[beschrijving van het doel van het systeem\] based on the mockup in the image. Use plain HTML, JS and Bootstrap"* en voeg de foto van jullie mockup toe.\
     -   Test het gegenereerde prototype en verbeter het ontwerp door aanvullende prompts te gebruiken indien nodig.\
     -   Let op aspecten als functionaliteit, gebruiksvriendelijkheid en visuele stijl.
-
 4.  **Marktstand voorbereiden (10 minuten)**
     -   Bereid een korte presentatie voor over jullie prototype.\
     -   Bespreek in jullie groepje:
         1.  **"Wat kan het systeem doen en voor wie is het bedoeld?"**\
         2.  **"Welke verrassingen of uitdagingen kwamen jullie tegen bij het gebruik van AI?"**\
         3.  **"Hoe zou dit proces jullie werk in de toekomst kunnen veranderen?"**
-
 5.  **Marktplaats van prototypes (15 minuten)**
     -   Elke groep presenteert hun prototype bij hun 'marktstand'.\
     -   De andere deelnemers lopen rond en bekijken alle prototypes (marktplaats-formaat).\
     -   Moedig discussie aan over de mogelijkheden die deze manier van werken biedt.
-
 6.  **Afronding en reflectie (5 minuten)**
     -   Reflecteer gezamenlijk op de ervaring en de implicaties voor de organisatie.\
     -   Bespreek welke inzichten jullie meenemen naar de strategische AI-Roadmap, zoals:
@@ -97,147 +201,86 @@ Jullie gaan ervaren hoe AI kan helpen bij het snel omzetten van ideeën naar wer
         -   Kansen voor versnelling van ontwikkelprocessen
 :::
 
-
 ::: callout-tip
-## Lesactiviteit 1 – “From Explore to Exploit”–Roadmap Lab
+## Lesactiviteit 1 – AI Portfolio Lab
 
 **Doel van de sessie:**\
-Stap voor stap een AI-roadmap ontwikkelen, gebaseerd op de fasen *Explore, Transfer, Exploit*. Deelnemers maken voor hun eigen organisatie een eerste opzet van een end-to-end AI-strategie.
+AI-kansen categoriseren in het 4-kwadrantenmodel en een gebalanceerd AI-portfolio ontwikkelen dat aansluit bij jullie strategische analogie.
 
 **Tijd:** 60 minuten
 
 **Werkwijze:**
 
-1.  **Introductie (5 minuten)**
-    -   Uitleg van de *Explore → Transfer → Exploit*-aanpak.\
-    -   Voorbeelden van AI use cases.
-```{python}
-#| echo: false
-import json
-import pandas as pd
-from IPython.display import display, HTML
+1.  **Introductie (10 minuten)**
+    -   Presentatie van het AI Portfolio Matrix framework
+    -   Uitleg categorisatie-criteria: implementatierisico vs. waardecreatie potentieel
+    -   Portfolio-allocatie richtlijn: 60% Quick Wins, 20% Strategic Bets, 15% Learning Labs, 5% Low Priority
+2.  **Use Case Identificatie (15 minuten)**
+    -   Werk in groepjes van 3-4 personen
+    -   **Start met jullie strategische analogie** uit de ochtend-sessie
+    -   Identificeer 4-6 AI-kansen die aansluiten bij jullie strategische keuze
+    -   Score elke use case op:
+        -   *Implementatierisico* (1-5): technische complexiteit, data-beschikbaarheid, organisatorische gereedheid
+        -   *Waardecreatie potentieel* (1-5): omzetimpact, kostenbesparing, concurrentievoordeel
+3.  **Portfolio Mapping (15 minuten)**
+    -   Plaats alle use cases in de 4 kwadranten op basis van jullie scores
+    -   Check de balans: sluit jullie verdeling aan bij de 60/20/15/5 richtlijn?
+    -   Bepaal de volgorde: welke Quick Wins pakken jullie als eerste aan?
+4.  **Dynamic Capabilities Check (10 minuten)**
+    -   Voor Strategic Bets: welke *sensing*, *seizing* en *transforming* capaciteiten zijn vereist?
+    -   Voor Learning Labs: welke capaciteiten bouwen jullie hiermee op?
+    -   Zijn er Learning Labs die kunnen "promoveren" naar Quick Wins?
+5.  **Presentaties (10 minuten)**
+    -   Elk groepje presenteert hun portfolio en prioritering
+    -   Korte feedback van de andere groepen
 
-# 1) Load the JSON data
-json_file_path = "data/use-cases.json"  # <-- Replace with your actual file path
-with open(json_file_path, "r", encoding="utf-8") as f:
-    data = json.load(f)
-
-# 2) Collect unique Sectors and Value Factors
-sectors = sorted({item["Sector"] for item in data})
-
-all_factors = set()
-for item in data:
-    # Each use case can have multiple value factors
-    all_factors.update(item["Value factors"])
-value_factors = sorted(all_factors)
-
-# 3) Prepare a structure to hold the matrix data
-#    We'll store lists of hyperlinks (strings) in each (Sector, Value Factor) cell
-matrix = {
-    sector: {factor: [] for factor in value_factors}
-    for sector in sectors
-}
-
-# 4) Populate the matrix
-for item in data:
-    sector = item["Sector"]
-    company = item["Company"]
-    name = item["Use case name"]
-    link_url = item["Sources"]
-    
-    # Create a clickable link that opens in a new tab
-    # Example: <a href="..." target="_blank">Link Text</a>
-    hyperlink = f'{company}:  <a href="{link_url}" target="_blank">{name}</a>'
-    
-    # For each value factor in this use case, add the hyperlink
-    for vf in item["Value factors"]:
-        matrix[sector][vf].append(hyperlink)
-
-# 5) Convert to a DataFrame
-df = pd.DataFrame(index=sectors, columns=value_factors)
-
-# 6) For each cell, join multiple hyperlinks (if any) with a line break
-for s in sectors:
-    for vf in value_factors:
-        if matrix[s][vf]:
-            df.loc[s, vf] = "<br>".join(matrix[s][vf])
-        else:
-            df.loc[s, vf] = ""  # No use cases for this combination
-
-# 7) Render as an HTML table with hyperlinks
-#    Using escape=False allows HTML links to render properly in the notebook
-html_table = df.to_html(escape=False)
-display(HTML(html_table))
-```
-    
-2.  **Station 1: Explore (15 minuten)**
-    -   Deelnemers vormen kleine groepjes (3-4 personen).\
-    -   **Start met jullie strategische analogie** uit de ochtend-sessie:
-        -   Welke strategische keuze hebben jullie gemaakt?\
-        -   Welke causale mechanismen zijn relevant voor AI-implementatie?\
-    -   Identificeer 2-3 AI-kansen (use-cases) die **aansluiten bij jullie analogie**. Denk aan gebruik van data, klantbehoeften of markttrends.\
-    -   Noteer kort de businesswaarden en beoogde impact: *Hoe ondersteunt AI de strategische logica uit jullie analogie?*
-3.  **Station 2: Transfer (15 minuten)**
-    -   Schuif door naar de volgende tafel of flip-over.\
-    -   Per use-case: wat is nodig om van concept naar werkende AI-oplossing te gaan?\
-    -   *Teams en middelen:* Welke expertises zijn vereist? Hoe vorm je de juiste multidisciplinaire teams?\
-    -   *Prototypes:* Welke MVP’s/proofs of concept kun je snel testen?\
-    -   *Standards & governance:* Welke richtlijnen (privacy, ethiek) moet je meteen meenemen?
-4.  **Station 3: Exploit (15 minuten)**
-    -   Opnieuw doorwisselen.\
-    -   Plan de grootschalige uitrol van de gekozen oplossing. Denk aan:
-    -   *Integratie in workflows:* Hoe borg je dat AI onderdeel wordt van dagelijkse besluitvorming?\
-    -   *Rollen & verantwoordelijkheden:* Wie is eigenaar in de beheerfase?\
-    -   *Continu verbeteren:* Hoe evalueer en optimaliseer je periodiek?
-5.  **Presentaties en Reflectie (10 minuten)**
-    -   Elk groepje presenteert de hoofdlijnen van hun uitgewerkte roadmap.\
-    -   Korte feedback en tips van de andere groepen.
-
-**Verwachtingen voor jullie als deelnemers:**\
-- Maak een eerste schets van de AI-roadmap die aansluit bij de behoeften van je eigen organisatie.\
-- Breng een duidelijke focus aan: *welke* AI-kansen pak je nu eerst op, en welke komen later?\
-- Wees bereid om je plannen te delen met andere groepen en actief feedback te geven én ontvangen.
+**Verwachtingen:**\
+- Maak een eerste opzet van jullie AI-portfolio die aansluit bij de strategische analogie.\
+- Breng focus aan: welke Quick Wins eerst, welke Strategic Bets later?\
+- Wees bereid feedback te geven én te ontvangen.
 :::
 
 ::: callout-tip
-## Lesactiviteit 2 – “Roadmap Poster” + Peer Feedback
+## Lesactiviteit 2 – "Roadmap Poster" + Peer Feedback
 
 **Doel van de sessie:**\
-Deelnemers maken een visuele weergave (poster) van hun AI-roadmap. Via peer feedback scherpen zij hun strategie aan en leren zij van elkaars plannen.
+Deelnemers maken een visuele weergave (poster) van hun AI-portfolio en roadmap. Via peer feedback scherpen zij hun strategie aan.
 
 **Tijd:** 45 minuten
 
 **Werkwijze:**
 
 1.  **Introductie en uitleg (5 minuten)**
-    -   Laat zien hoe een ‘roadmap-poster’ eruit kan zien. Denk aan een tijdbalk met mijlpalen of een canvas met pijlers (Explore, Transfer, Exploit).\
-    -   Vertel dat de nadruk ligt op duidelijkheid en prioriteiten.
+    -   Laat zien hoe een roadmap-poster eruit kan zien: de 4 kwadranten met use cases + een tijdlijn.\
+    -   Suggestie voor tijdlijn: Q1-Q2 (Quick Wins), Q2-Q3 (Learning Labs parallel), Q3-Q4 (Strategic Bets).\
+    -   De nadruk ligt op duidelijkheid en prioriteiten.
 2.  **Posters maken (15 minuten)**
-    -   Individueel of per organisatiegroep maakt iedereen een poster van hun AI-roadmap.\
-    -   Leg mijlpalen vast op een tijdbalk, van korte-termijndoelen tot langetermijnvisie.\
-    -   Benoem cruciale stakeholders, benodigde resources en verwachte resultaten.
+    -   Per organisatiegroep maakt iedereen een poster met:
+        -   De 4 kwadranten met jullie use cases gepositioneerd
+        -   Een tijdlijn met mijlpalen per kwadrant
+        -   Benodigde resources en verwachte resultaten per fase
 3.  **Galerij-wandeling (10 minuten)**
     -   Hang de posters op in de ruimte.\
     -   Deelnemers lopen rond en lezen elkaars posters.\
-    -   Gebruik feedback-stickers of post-its met korte opmerkingen (bijv. “Inspirerend!” / “Hoe ga je om met XX?”).
+    -   Geef feedback via post-its: "Klopt de categorisatie?" / "Is de volgorde realistisch?"
 4.  **Korte Reflectie (10 minuten)**
-    -   Postereigenaren beantwoorden vragen en lichten onduidelijkheden toe.\
-    -   Waar zie je overeenkomsten tussen verschillende organisaties? Waar zie je unieke invalshoeken?\
-    -   Noteer direct eventuele verbeterpunten op je eigen poster.
+    -   Postereigenaren beantwoorden vragen.\
+    -   Waar zie je overeenkomsten? Waar unieke invalshoeken?\
+    -   Noteer verbeterpunten op je eigen poster.
 5.  **Afronding (5 minuten)**
-    -   Ieder past waar nodig zijn roadmap-poster aan of noteert opvolgacties.
+    -   Pas waar nodig de roadmap-poster aan of noteer opvolgacties.
 
-**Verwachtingen voor jullie als deelnemers:**\
-- Wees concreet in wat je op de poster zet: *Wat wil je bereiken en waarom?*\
-- Geef elkaar constructieve feedback, ook over mogelijke valkuilen.\
-- Neem verbeterpunten meteen mee om de roadmap te versterken.
+**Verwachtingen:**\
+- Wees concreet: welke Quick Wins eerst, welke Strategic Bets later?\
+- Geef constructieve feedback over categorisatie en volgorde.\
+- Neem verbeterpunten direct mee.
 :::
 
 ::: callout-tip
-## Lesactiviteit 3 – “Risk & Opportunity” Pre-Mortem
+## Lesactiviteit 3 – "Risk & Opportunity" Pre-Mortem
 
 **Doel van de sessie:**\
-Identificeren welke risico’s (en bijbehorende kansen) AI-initiatieven kunnen doen mislukken of juist versnellen. Vervolgens formuleren deelnemers strategieën om hiermee om te gaan.
+Identificeren welke risico's AI-initiatieven per kwadrant kunnen doen mislukken, en welke kansen versnelling kunnen bieden.
 
 ![Voorbeeld uitkomsten van een fysieke premortem-sessie [@atlassian_how_nodate].](images/premorten.jpg)
 
@@ -246,24 +289,27 @@ Identificeren welke risico’s (en bijbehorende kansen) AI-initiatieven kunnen d
 **Werkwijze:**
 
 1.  **Introductie (5 minuten)**
-    -   Uitleg van het concept ‘pre-mortem’: je stelt je voor dat je project is mislukt en verkent *waarom* het is misgegaan.
-    -   Leg uit dat we ook kijken naar kansen: *Welke onverwachte voordelen kunnen zich voordoen?*
-2.  **Groepsopdracht – Pre-mortem en “Opportunity Mapping” (15 minuten)**
-    -   Werken in groepjes van 3-4 personen.\
-    -   **Pre-mortem:** Som zo veel mogelijk redenen op waarom de AI-roadmap zou kunnen falen (bijv. gebrek aan datafundament, weerstand van medewerkers, ethische of wettelijke obstakels, enz.).\
-    -   **Opportunity Mapping:** Identificeer per risico ook een potentieel positief scenario: *Hoe kan AI voor een ‘game-changer’ zorgen?*\
-    -   Rangschik risico’s en kansen op urgentie en impact.
+    -   Uitleg van het concept 'pre-mortem': stel je voor dat je project is mislukt en verken *waarom*.
+    -   We focussen op kwadrant-specifieke risico's en kansen.
+2.  **Groepsopdracht – Pre-mortem per kwadrant (15 minuten)**
+    -   Werk in groepjes van 3-4 personen.\
+    -   **Per kwadrant, analyseer:**
+        -   *Quick Wins:* Wat kan directe waardecreatie vertragen? (bijv. databeschikbaarheid, adoptie)
+        -   *Strategic Bets:* Welke dynamische capaciteiten missen we mogelijk? (sensing, seizing, transforming)
+        -   *Learning Labs:* Wat kan het leerproces verstoren? Hoe voorkomen we dat experimenten blijven hangen?
+    -   **Opportunity Mapping:** Welke Learning Labs kunnen "promoveren" naar Quick Wins? Welke kansen versnellen de roadmap?
+    -   Rangschik risico's en kansen op urgentie en impact.
 3.  **Plenaire bespreking (5 minuten)**
-    -   Ieder groepje deelt één cruciaal risico en één interessante kans.\
-    -   Korte discussie: Hoe kun je die risico’s actief mitigeren? Op welke manier kun je de kansen beter benutten?
+    -   Elk groepje deelt één cruciaal risico en één kans.\
+    -   Korte discussie: Hoe mitigeren? Hoe kansen benutten?
 4.  **Afronding (5 minuten)**
-    -   Schrijf 2-3 acties op die je meteen kunt ondernemen om de belangrijkste risico’s te verkleinen.\
-    -   Bewaar deze als checklijst voor je AI-roadmap.
+    -   Schrijf 2-3 concrete acties op om de belangrijkste risico's te verkleinen.\
+    -   Bewaar deze als checklijst voor je AI-portfolio.
 
-**Verwachtingen voor jullie als deelnemers:**\
-- Denk scherp na over wat er mis zou kunnen gaan, zowel vanuit technisch, organisatorisch als menselijk perspectief.\
-- Kom met concrete preventie- of mitigatiestrategieën.\
-- Besef dat AI ook onverwacht positieve wendingen kan geven; wees alert op ‘onvoorziene’ kansen.
+**Verwachtingen:**\
+- Denk scherp na over kwadrant-specifieke risico's.\
+- Kom met concrete mitigatiestrategieën.\
+- Wees alert op kansen om initiatieven te versnellen of te promoveren tussen kwadranten.
 :::
 
 ## Aanvullend inspiratiemateriaal

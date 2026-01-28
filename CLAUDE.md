@@ -45,3 +45,19 @@ Defined in `source/_quarto.yml`:
 - The book uses `jupyter: python3` for executable code cells
 - Images are stored in `source/images/`
 - Supporting documents are in `source/docs/`
+
+## Technical Notes
+
+### Raw HTML in Quarto
+For custom HTML diagrams that need to render properly (not as code), use the raw HTML block syntax:
+
+````markdown
+```{=html}
+<div class="my-diagram">
+  <style>/* CSS here */</style>
+  <!-- HTML content -->
+</div>
+```
+````
+
+Example: The AI Portfolio Matrix in `implementation.qmd` uses this approach for the interactive 4-quadrant diagram with central "Transfer" circle.
