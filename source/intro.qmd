@@ -4,15 +4,17 @@ jupyter: python3
 
 # Inleiding
 
-De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. De grafieken in @fig-capmarket2004 en @fig-capmarket2024 laten een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2024 de opkomst van Aziatische bedrijven ten koste van Europese onmiskenbaar.
+De snelle technologische vooruitgang veroorzaakt een geopolitieke verschuiving die de verhoudingen tussen Europa, de Verenigde Staten en Azië fundamenteel herschikt. @fig-capmarket laat een verandering in het wereldwijde krachtenveld zien. Waar in 2004 de Amerikaanse en Europese bedrijven de kapitaalmarkten domineerden, is in 2025 de opkomst van Aziatische bedrijven ten koste van Europese onmiskenbaar.
 
-[![Regionale verdeling kapitaalmarkt in 2004](images/capmarket2004.png){#fig-capmarket2004}](https://datadrivendecisions.github.io/marketcap/world2004.html){target="_blank"}
+![Regionale verdeling kapitaalmarkt in 2004 versus 2025](images/marketcap_2004_vs_2025.png){#fig-capmarket}
 
-[![Regionale verdeling kapitaalmarkt in 2024](images/capmarket2024.png){#fig-capmarket2024}](https://datadrivendecisions.github.io/marketcap/){target="_blank"}
+::: {.callout-note appearance="simple"}
+Verken de data zelf met de [interactieve marktkapitalisatie-verkenner](https://datadrivendecisions.github.io/marketcap/explorer.html), waar je jaren kunt vergelijken en kunt filteren op sectoren en regio's.
+:::
 
 Naast de sterk toegenomen regionale concentratie van kapitaal heeft ook binnen sectoren een verschuiving plaatsgevonden en hebben technologiebedrijven een dominante positie ingenomen. Dit markeert een significante verschuiving in economische macht en technologisch leiderschap, waarbij Europa een duidelijke positie heeft verloren: van de 50 grootste technologiebedrijven wereldwijd komen er momenteel nog maar vier uit de EU [@noauthor_eu_nodate]. Deze verschuiving is cruciaal om de geopolitieke dynamiek rondom AI te begrijpen, omdat de ontwikkeling en toepassing ervan sterk afhankelijk zijn van de investeringen en innovaties die door deze mondiale economische spelers worden aangedreven.
 
-:::{.column-body-outset}
+::: column-body-outset
 ```{python}
 #| echo: false
 #| label: fig-top50
@@ -126,12 +128,18 @@ De podcast bespreekt de dynamiek van de technologische competitie tussen de Vere
 
 {{< video https://www.youtube.com/embed/ZbdTcKi2p7w >}}
 
-### Report: ASPI’s Critical Technology Tracker
+### Video: China's Next Deepseek Moment – The Hardware Race
 
-Deze Tracker, opgesteld door het Australian Strategic Policy Institute (ASPI), bevat een dataset over een periode van 21 jaar (2003–2023) waarin onderzoek is gedaan naar publicaties over 64 kritieke technologieën met een grote impact. De analyse richt zich op het mondiale onderzoeksleiderschap en de prestaties van verschillende instellingen.  
+Een jaar na de doorbraak van Deepseek verschuift de aandacht naar China's groeiende capaciteiten op het gebied van AI-hardware. Terwijl Amerikaanse exportbeperkingen de toegang tot geavanceerde chips beperken, bouwen Chinese bedrijven als Huawei, Cambricon en nieuwkomers als Moore Threads, Meta X en Byron – de zogenaamde "Vier Draken" – aan een eigen chipecosysteem. Deze video analyseert China's drieledige strategie: het opschalen van binnenlandse chipproductie, een "brute force"-aanpak waarbij kwantiteit kwaliteit compenseert, en de export van complete AI-stacks naar opkomende markten. Bijzonder relevant is de discussie over energie als bottleneck: hoewel China per capita minder energie produceert dan de VS, groeit de capaciteit exponentieel en kan centrale planning energie herverdelen naar AI-infrastructuur. De video bevat ook een interview met Naveen Rao (oprichter Unconventional AI) over de fundamentele grenzen van conventionele chiparchitectuur en de noodzaak van nieuwe benaderingen voor energie-efficiënte AI-systemen.
 
-Een van de belangrijkste bevindingen wijst op de aanzienlijke voorsprong die China de afgelopen twee decennia heeft opgebouwd op het gebied van onderzoeksleiderschap, waarmee het in veel essentiële technologieën – met name die met militaire toepassingen – de Verenigde Staten heeft ingehaald.  
+{{< video https://www.youtube.com/embed/k_bHtx_e-SU >}}
 
-Het rapport onderzoekt langetermijntrends, beoordeelt het risico van technologische monopolies (vooral rond de dominantie van China) en bevat diepgaande analyses van specifieke technologieën. Hierdoor biedt het zowel nationaal als institutioneel inzicht in de huidige stand van zaken en in prognoses voor toekomstig onderzoek.  
+### Report: ASPI's Critical Technology Tracker
+
+Deze Tracker, opgesteld door het Australian Strategic Policy Institute (ASPI), bevat een dataset over een periode van 21 jaar (2003–2023) waarin onderzoek is gedaan naar publicaties over 64 kritieke technologieën met een grote impact. De analyse richt zich op het mondiale onderzoeksleiderschap en de prestaties van verschillende instellingen.
+
+Een van de belangrijkste bevindingen wijst op de aanzienlijke voorsprong die China de afgelopen twee decennia heeft opgebouwd op het gebied van onderzoeksleiderschap, waarmee het in veel essentiële technologieën – met name die met militaire toepassingen – de Verenigde Staten heeft ingehaald.
+
+Het rapport onderzoekt langetermijntrends, beoordeelt het risico van technologische monopolies (vooral rond de dominantie van China) en bevat diepgaande analyses van specifieke technologieën. Hierdoor biedt het zowel nationaal als institutioneel inzicht in de huidige stand van zaken en in prognoses voor toekomstig onderzoek.
 
 Uiteindelijk is het doel van het rapport om beleids- en investeringsbeslissingen te ondersteunen door empirische gegevens te verstrekken over het mondiale technologische leiderschap en de consequenties daarvan [@cave_aspis_nodate].
